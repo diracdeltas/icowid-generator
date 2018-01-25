@@ -1,3 +1,4 @@
 *.pdf
 __pycache__
 corpi/*.txt
+*.log
