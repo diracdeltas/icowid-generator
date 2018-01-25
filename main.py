@@ -1,4 +1,5 @@
 import markovify
+import sys
 
 with open('corpi/ico.txt') as f:
     text = f.read()
@@ -9,7 +10,7 @@ with open('corpi/erowid.txt') as f:
 erowid_model = markovify.Text(text)
 
 # Combine models
-combo = markovify.combine([ico_model, erowid_model], [2, 1])
+combo = markovify.combine([ico_model, erowid_model], [3, 1])
 
-for i in range(50):
+for i in range(int(sys.argv[1])):
      print(combo.make_short_sentence(280))
