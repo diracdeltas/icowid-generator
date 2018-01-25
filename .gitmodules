@@ -1,0 +1,3 @@
+[submodule "ico-whitepapers"]
+	path = ico-whitepapers
+	url = https://github.com/masonicGIT/ico-whitepapers.git
