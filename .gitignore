@@ -1,2 +1,3 @@
 *.pdf
+__pycache__
 corpi/*.txt
