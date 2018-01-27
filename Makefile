@@ -3,4 +3,4 @@ corpus:
 models:
 	python3 generate_models.py
 tweets:
-	python3 main.py 10
+	python3 main.py 20
