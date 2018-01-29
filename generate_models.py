@@ -1,5 +1,4 @@
 import markovify
-import re
 
 with open('corpi/ico.txt') as f:
     text = f.read()
