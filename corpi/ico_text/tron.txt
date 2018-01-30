@@ -1,0 +1,1050 @@
+Whitepaper
+
+Contents in this version V1.8 are subject to change at any time as required for
+the project progress
+
+Preface | Heal the Internet Tim Berners-Lee, inventor of the World Wide Web
+(WWW) and recipient of the 2016 Turing Award, issued a statement in 2017,
+indicating that the Internet is deviating from its original intention. Yes,
+there has been something wrong with the Internet for years. At the time when Tim
+Berners-Lee invented the Internet, the Internet was a fully decentralized
+platform, in which anyone could create content, webpages, websites, and freely
+interact with others. However, the Internet has developed from a simple
+academically-researched sharing network into a stunner that governs business,
+communication, entertainment, and information. The Internet's power structure is
+also changing. Undoubtedly, the Internet belongs to large corporations, rather
+than the public, t hat define the rules of the Internet. These corporations
+include Amazon, Facebook, Google, Apple, as well as Alibaba and Tencent in
+China. Internet traffic, data, and content are becoming concentrated because of
+corporate giants like Facebook, Messenger, Instagram and Snapchat, while China
+focuses on Apps, including Wechat, Toutiao.com, Taobao and QQ. These giants own
+and benefit from the numerous data created by billions of users throughout the
+world, and maintain the power to create what users read, gain, and desire.
+Giants, other than users themselves, own the ability to control data. The data
+no longer belongs to its creator. Due to the inappropriateness of an attempt to
+retake data initiatives and the difficulty in building websites and Apps, we
+have to adopt the rules of WeChat and Facebook and the distribution mechanisms
+of Weibo and Twitter, thus 1 losing our own features. Although an App can be
+self-made, Apple can easily withdraw it from its platform. However, it is never
+easy to destroy a person, a thing or a cause. The Internet is no longer fully
+decentralized, and it has even become more centralized than the old forces which
+have been overturned by it, including newspapers, magazines, and records,
+because newspapers may be collected, but micro blogs are not backed up. TRON is
+an attempt to heal the Internet. We believe users should have ownership of and
+control over the data they create, rather than have to cede that ownership and
+control to the platform; users must freely own all digital information. We
+believe users must have the final power to make a decision on whether to read
+and access content, and information must be distributed on a free and volunteer
+basis, at the user's choice. We believe users must be entitled to the incentives
+of digital assets - using data on a free basis, which will no longer be bound by
+any platform, and be protected by a decentralized Internet. All of these are
+facilitated by the decentralized protocol called TRON. TRON is an action against
+the centralized Internet, and while this endeavor will be difficult, we believe
+the fight is worthwhile. Because a truly decentralized Internet is a laudable
+goal.
+
+1. What is TRON 
+
+TRON protocol is the blockchain's entertainment system of free content, in which
+TRX, TRON's coin, is circulated. Its native economic system enables an
+unprecedented one-on-one interaction between providers of digital entertainment
+content and ordinary users. Therefore, content providers will no longer need to
+pay high channel fees to centralized platforms like Google Play and Apple's App
+Store. Also, providers of content such as texts, pictures, videos, and
+broadcasts, will break the curse that popularity and hits cannot create cash.
+With the strengths of social network and value network, TRON is committed to
+ecological prosperity. In relation to any community and free market economy, an
+incentive system that fairly and reasonably reflects the contributions made by
+participants is fundamental. TRON will attempt to accurately and transparently
+measure and motivate relevant participants and contributors using digital assets
+for the first time, thus enabling this content ecosystem.
+
+2. Value of TRON 
+
+In designing TRON, the following core values are: 1. Data creators (users) will
+have the fundamental ownership of data, and the Internet should be
+decentralized. This was proposed by Tim Berners-Lee at the time when the
+Internet was born. 2. Those who make a contribution to the TRON ecosystem will
+be entitled to proportional profits for their work, according to rules. A value
+network that can digitally capitalize on anything in social and media networks
+has the greatest potential. 3. All forms of contribution should be of equal
+quantitative value. Substantially, the time invested by participants, excellent
+content, and attention are as valuable as furnished capital. 4. The fundamental
+objective of TRON is to provide services for the public. As an ecosystem
+operated by a non-profit foundation, TRON is designed to serve the masses
+throughout the world who enjoy content entertainment, rather than gaining
+profits. 5. Content should derive from people rather than capitals, and content
+should be used to reward people rather than to control people. Cultural and
+creative industries should be driven by the pursuit of the quality of art and
+content by content creators, artists and scriptwriters, rather than the
+capitalists who do not consume the contents.
+
+3. Infrastructures Provided by TRON
+
+TRON seeks to provide relevant participants with the following
+infrastructures: A High-quality content platform Social network that provides a
+link among all people Digital currency as a bridge Payment network; and
+Autonomous ecosystem
+
+4. Characteristics of TRON 
+
+As a decentralized content protocol, TRON subscribes to the following basic
+characteristics compared, in contrast to the centralized Internet: 1. Data
+liberation: on a free and uncontrolled basis, the contents including characters,
+pictures, audio and video may be uploaded, stored and spread. 2.
+Content-enabling: digital assets are obtained through provision and distribution
+of content, thus economically stimulating the content ecosystem. 3.  Personal
+ICO: an individual may freely distribute digital assets in the form of ICO,
+while others may enjoy the benefits and services brought due to the continuous
+development of contributors' data by purchasing digital assets. 4.
+Infrastructure: distributed digital assets will be equipped with a complete set
+of decentralized infrastructures, including distributed exchange, autonomous
+gaming, forecast, and game system.
+
+5. How to Achieve Economic Stimulation of Content Development Through TRON
+
+Fundamentally, the TRON design requires the monetization of the content economy.
+The TRON mechanism is based on economic stimulation of content development and
+monetization of the content in an encrypted manner. Economic stimulation
+achieved through cryptology may greatly contribute of a content platform, and it
+is believed to the growth that cryptocurrency could unprecedentedly stimulate
+the content development ecosystem. TRON will propose a set of improved mechanism
+to evaluate an individual's ecological contribution. Most existing platforms
+adhere to the principle of one-user one-vote, which easily cause repeated voting
+and the request for control of junks and attacks. Existing content platforms
+have been controlled by profit demands and centralized mechanisms, and the
+content we read is that which the centralized platform wishes us to read, rather
+than what we wish to read. Due to the unfair algorithm of information flow,
+Weibo, Toutiao.com, WeChat, and Facebook are gradually becoming controlled
+tools. Advertising platforms are the first profit-gaining mode, among which
+Phoenix Nest, advertiser's recommendation algorithm of Toutiao.com, advertising
+system of WeChat, promotion program of Weibo, and advertisement channel of
+Taobao are typical profit-gaining modes and unable to enable the content which
+attracts traffic. However, with TRON, the economic stimulation system is
+expected to become a circulatory system in a decentralized manner, enabling
+users to have a platform to enjoy demands. their favorite content without
+conflicting with profit
+
+TRON's autonomous system will also unprecedentedly enable ecosystem members,
+thus forming an autonomous ecosystem rather than the current flat-user
+mechanism. TRON only allows the users who involve themselves in the periodic
+unfreezing of TRX to cast a vote on the platform's ecological management and
+decision-making. The TRON Platform is currently operating. We believe that under
+this model, over time, community members will be encouraged to hold TRX for the
+long term, which will maximize the TRON Platform's long-term value. 
+
+6. Realization Path of TRON
+
+While the initial TRON platform is currently up and running, it is expected to
+take 8-10 years to implement the entire TRON system, a large program involving
+six steps. Specifically, the realization path is as follows: 1. Exodus, Data
+Liberation A mechanism of upload, storage, and distribution which is based on
+peer-to-peer and distributed content. In the Exodus phase, on the basis of the
+distributed storage technology represented by IPFS, TRON will provide users with
+a completely free and reliable platform for data publication, storage and
+dissemination. 2. Odyssey, Content Empowerment Economic incentives, empowerment,
+content ecology and blockchain technology will create a fully competitive
+economic mechanism with fair returns for content creation, distribution and
+dissemination. Therefore, individuals can be encouraged and contents can be
+empowered, thus constantly expanding the boundary of the system. In the
+centralized Internet system and in the vast majority of cases, content producers
+earn cash through advertising models. But the efficiency of obtaining cash has
+been extremely low because the user experience is seriously dampened by the
+annoyingly strong advertising push mode. Other content has also confronted
+trouble. Despite cash being gained through tipping and gifting for other
+content, content producers' profits are deducted by 30%-90% due to a lack of a
+paying system. What's worse, because they are hindered by the randomness of the
+tipping model, most content providers cannot break even. Content creators are in
+urgent need of a content protocol with a self-paying system. Access to content
+can be measured by payment, and the payment and purchase are based on the
+transparent records of a blockchain. 
+
+TRON protocol is the blockchain's entertainment system of free content, in which
+TRX, TRON's coin, is circulated. Its native economic system enables an
+unprecedented one-on-one interaction between providers of digital entertainment
+content and ordinary users. Therefore, content providers will no longer need to
+pay high channel fees to centralized platforms like Google Play and Apple's AppA
+Store. Also, providers of content such as texts, pictures, videos, and
+broadcasts, will break the curse that popularity and hits cannot create cash.
+The tipping model focuses on the popularity, and popularity increases as the
+tipping increases. The distributed clearing and storage mode will also enable
+developers and content providers full freedom of creation, without being
+restricted by centralized managers. In the TRON system, content producers can
+have direct access to TRX, the TRON coin paid by fan users for premium content.
+They can also obtain influence and power by creating high-quality contents, thus
+directly gaining TRX rewards given by the system. An example of a value score of
+user operation that heavily weights content distribution: Calculation formula of
+weights of operations such as hit (1), like (2), comment (3), tipping (4), and
+forward (5)  = user's energy value during the jth operation. User's energy value
+will
+constantly decrease when the user frequently operates specific interactions over
+a certain period; the value will slowly increase when the user stops the
+operation, thus limiting the click farming dynamically on the basis of the
+user's credit among the community as a whole. A user's credit score will be
+downgraded if he or she is repeatedly reported against or receives complaints.
+= user's available TRX balance during the Jth operation. User's current
+ = user's credit score during the jth operation. The score is calculated
+available TRX balance is obtained by his or her current TRX balance deducting
+the amount locked by the system. The larger the available TRX balance is, the
+higher the value score of the user's interactive operation. The purpose is to
+prevent malicious users from registering multiple blank accounts for click
+farming. 1 2 = Threshold value of operation
+ = at the moment of t, times of the ith operation
+ = the total number of user's various operations during the jth operation
+For creators of live-show-like instant contents, the block chain technology can also
+display the anchor's popularity in a transparent and fair manner and obtain
+real-time and rapid income through intelligent contract. The technology can
+avoid problems triggered by the centralized platforms, such as the black box
+operation, account delay and block for no reason. The problems damage the
+interests of the anchor and the audience. An example of an anchor's
+sharecropping of the intelligent contract on the live platform: pragma solidity
+^0.4.11;
+contract TRONAnchorPay { // 
+address platform; function TRONAnchorPay() { platform = msg.sender; }
+function deposit(address anchor) public payable{ uint for_anchor = msg.value * 9
+/ 10; uint for_platform = msg.value - for_anchor; anchor.transfer(for_anchor);
+platform.transfer(for_platform); } //  90% function withdraw() public{
+assert(msg.sender == platform); msg.sender.transfer(this.balance); } function()
+payable{} } With TRON's structure of bottom blockchain, TRON can issue their own
+tokens freely, and thus is equipped with a native economic system. Through
+TRON's official token, TRX, users can easily achieve value distribution,
+payment, and settlement of content. The system can also motivate users to
+produce content with clearer 9 copyrights and high quality, which enables the
+content output system's fine self-operation. 3. Apollo, Free Movement of
+Value--Decentralized Token Trading Exclusively for Individuals To reach the goal
+that each content producer in the TRON system can issue their own tokens, the
+system must have a complete solution for de-centralized tradings,thus realizing
+the values. The platform will face the following challenges: 1. As time passes,
+the number of tokens issued on the platform will significantly increase, making
+it difficult for traders to screen.  Traders may become easily confused or even
+cheated. 2. Despite the very small amount paid by individual supporters, the
+total number of supporters is huge, who have high requirements for the safety of
+platform funds. However, the system will prevent phenomena like hacker attacks
+and absconding with funds on the platform. 3. Because the logic of distribution
+of interests varies from that of tokens, the platform needs to promptly complete
+reminders and have quick delivery. 4. Transaction history needs to be open and
+transparent, so that participants can understand the whole process and have
+sufficient information, thus reducing transaction risks. The current centralized
+exchange cannot respond to these challenges, especially in regard to the rapid
+trading of mass-type tokens and risk management platform funds; therefore,
+decentralized of trading platforms are needed to complete deals. Not all funds
+are handled by centralized trading platforms, but instead, they are always
+stored in traders' accounts, perfectly solving for third-party custodian risk -
+problems like funds being stolen or money being absconded; on the other hand,
+through the peer-to-peer content-addressable protocol decentralized and
+distributed, traders can that is easily and accurately find mass and exclusive
+tokens without confusion. 
+
+Through the establishment of the decentralized trading platform, the system's
+value, property rights, and risks can be freely traded and exchanged, thus
+increasing the economic vitality of the entire system in geometric multiples. 4.
+Star Trek, Traffic Monetizing--Gaming of De-centralization and Market Forecast
+The size of the global gaming market in 2014 exceeded $450 billion. Traffic on
+the TRON network will make it possible to build an online gaming platform for
+de-centralization. Developers can freely build online gaming platforms through
+TRON, providing fully autonomous games and predicting market functions. 5.
+Eternity, Traffic Conversion--Decentralized Game In 2016, the global video game
+market was to $ 9.66 billion, of which the scale of the phone game market was $
+4.61 billion, accounting for 42%. TRON provides the possibility for establishing
+an on-line game platform. Developers can freely set up game platforms through
+TRON, achieve crowd funding for game development, and common investors can
+contribute to game content creation..
+
+7. Technical System of TRON
+
+1. File Storage Protocol TRON's bottom layer consists of a group of multi-layer
+protocol stacks with various implementation models for each layer and is
+integrated in modules. Corresponding interface standards are defined between
+layers, including the following five levels:      name layer: a self-certified
+PKI namespace MerkleDAG layer: data structure format Exchange layer: block
+transmission and copy Routing layer: locating peer nodes and objects Network
+layer: establishing connection among peer nodes 
+
+
+
+Node and identification 1) "TRON node" is the program that can locate, release
+and copy MerleDAG. TRON network adopts node identification based on PKI (Public
+Key Infrastructure); the node is shown as NodeId, which is the Ciphertext Hash
+of Public Key. Node will store its public and private keys (private key will be
+protected by password). Users can freely establish and initiate a "new" node in
+every boot, which will deprive the network the profit achieved from former node
+running. The system has an incentive mechanism to make users maintain the same
+node. type NodeId Multihash type Multihash []byte // self-describing
+cryptographic hash digest type PublicKey []byte type PrivateKey []byte //
+self-describing keys Type Node struct { NodeId NodeID PubKey PublicKey PriKey
+PrivateKey } The generation mechanism of NodeId is as follows: difficulty =
+<integer parameter> n = Node{} do { 12 n.PubKey, n.PrivKey = PKI.genKeyPair()
+n.NodeId = hash(n.PubKey) p = count_preceding_zero_bits(hash(n.NodeId)) } while
+(p < difficulty) When the connection is established, the nodes will exchange
+public keys among each other and, check if the hash of node public key is equal
+to the NodeId hash(other.PublicKey) equals other.NodeId of peer node, if not,
+the connection will be terminated. 2) Multihash and updatable hash All hashes in
+TRON will be encoded with multihash, which is a self-describing hash format. The
+hash function should be used in accordance with specific security requirements.
+The encryption system is updatable, which means the system can switch to a
+stronger hash algorithm when a current hash function cannot meet more strict
+security requirements. But there is indeed a price to be paid, the object needs
+to be rehashed and the connection needs to be rebuilt. This way of not defining
+the length of a hash digest in advance allows for the tool used today can to
+work normally even if it is switched to a longer hash function tomorrow. The
+hash digest value is stored in multihash format, including a short header,
+specified hash function and byte length of digest, For instance: <function
+code><digest length><digest bytes> The current TRON node must support the
+following hash algorithm: sha2-256, sha2-512 and sha3. 3) Network layer Provide
+point-to-point reliable and unreliable transmission between two TRON nodes, and
+process:  NAT traversal--punching, port mapping and relaying 
+
+  
+
+Support various transport protocols--TCP, SCTP, UTP... Support encryption and
+digital signature Multiplexing--multiplex connection, stream and protocol...
+
+4) The routing layer: locating peer nodes and data Routing layer serves for two
+purposes:   Node-routing--searching for other nodes Content routing--searching
+for data released to TRON.
+
+Routing layer defines an interface, and all implementations meet or realize the
+interface can be linked to TRON, for instance: DHTs, mdns, snr, dns. The
+corresponding interface definition is as follows:
+
+5) Block swap: transmitting content-addressable data TRON's block swap layer is
+responsible for data transmission coordination. Once the nodes are aware of each
+other and establish connection, content-addressable blocks can be transmitted
+through swap agreement. Note that the term "swap" in this context does not refer
+to a swap in the sense of a finaical market transaction as defined in the US
+Commodity Exchange Act. It is a technical term of art dealing with the TRON
+platform code's distribution of content. The block swap layer is the interface
+definition, and all implementations meet or realize the interface can achieve
+seamless access, for instance:  Bitswap: current implementation, which is the
+generalization implementation of BitTorrent, supports the swap of any DAG; HTTP:
+simple HTTP implementations can be used between HTTP clients and servers.
+BitSwap is a block transmission agreement similar to BitTorrent--where nodes
+represent the expected block set with want_list, and represent the data block
+set they can provide with have_list. Unlike BitTorrent, block swapped by BitSwap
+is not limited to a single torrent. BitSwap serves as a persistent market, nodes
+exchange blocks through BitSwap market, the node can obtain their favored block
+sets, and these block sets may be completely unrelated files from the file
+system. Sometimes, in exchange, a node may have no blocks needed by other nodes,
+and it will help find blocks it needs ­ these get the needed block from each
+other, and such incentives can help the cache and distribution of rare blocks.
+BitSwap credit The agreement must urge the nodes to be the seed because they
+might not have the blocks needed by other nodes. Therefore, BitSwap nodes will
+actively deliver blocks to other peer nodes, and the agreement must prevent the
+existence of greedy nodes that load little and never share their blocks. A
+simple system similar to credits can solve these problems. (1) An node track its
+number of bytes exchanged with other nodes. (2) Nodes transmit blocks to
+indebted nodes in form of probability, the higher the debt of indebted node is,
+the lower probability of block transmission will be. It should be noticed that
+if the node decides not to transmit a block to the opposite end, then it cannot
+transmit a block to the ignored correspondent node within the following
+ignore_cooldown time. This prevents the submitter from escaping from repeatedly
+sending blocks. BitSwap strategy The node's strategy to send blocks directly
+influences the performance of block swapping. It should meet the following
+objectives: (1) Maximize the node and the overall transaction performance; (2)
+Prevent greedy nodes from taking advantage of or reducing the swapping
+performance; (3) Efficient and exclusive to other strategies; (4) Be friendly to
+the credit node. A practical strategy selection is Sigmoid function, the defined
+debt ratio r is:
+
+At a given r, the probability of sending to indebted node will be calculated as:
+
+The sending probability drops dramatically with the rising of debt ratio. Debt
+ratio is the measurement of credit, which is friendly to previous nodes that
+have swapped many blocks and unfriendly to unknown or untrusted nodes. BitSwap
+accounts The BitSwap node will keep accounts of block swaps, which helps node
+track history and avoid being cheated. When connection is established, the 
+BitSwap nodes will exchange account information. If the information is not
+matched exactly, the accounts will be deleted and reinitialized, and all profits
+and debts will be lost. This method seems to have a loophole for malicious nodes
+to delete debts by way of intentionally "losing" accounts, but that is
+impossible because nodes cannot accumulate enough debts. Furthermore, it will
+lose all the previously-accumulated debt, and other nodes will consider it
+abnormal behavior and refuse to swap.
+
+The account information history will not influence the normal operation, and
+only recent account items are useful. The node can also choose store or not to
+store historical information. 2. Self-operation of Storage Network TRON is a
+centerless storage network, which turns the storage from cloud model to market
+model based on algorithms and rules. The market is based on blockchain and trade
+in virtual currency: the miner earns TRX by providing storage for clients; on
+the contrary, the clients spends TRX to hire miner to store and dispatch data.
+Similar to Bitcoin, offered by miners, which provides a useful client-side
+service (unlike Bitcoin, the miners' work is only useful for blockchain
+consensus) and is a strong incentive to drive miners to contribute as much
+storage space as possible to client-side rent. The agreement will integrate
+these resources into a self-healing storage network for external use, and the
+network will realize its robustness by copying and dispersing stored content and
+automatically detect and repair replication errors. The client side can choose
+different replication parameters to protect data according to different
+threat degrees and levels. The storage network also provides other security
+guarantees for clients such as end-to-end encryption of content, and the storage
+provider cannot obtain the decryption key.
+
+1) Proof-of-Replication (PoRep) algorithm The server (prover, P) convinces the
+user (verifier, V) that its data D is replicated and stored in multiple physical
+storage locations. Seal operation Seal operations include: (1) getting the
+public key of verifier's stored data through asking verifier to prove the
+pseudorandom and force the data copies to be correctly stored in independent
+physical storage; and (2) force the time required by copying the process to be
+longer than the expected time required by responding to a Challenge. PoRep
+algorithm flow Create a copy: create a copy in Setup algorithm through the Seal
+operation and provide the proof of successful execution.
+
+Storage verification: The Prove algorithm produces storage verification for the
+replica. The prover receives a random challenge c and determines one leaf Rc of
+Merkle Tree R (root is rt), the prover produces the proof of Rc and the Merkle
+path to rt.
+
+Verification proof: Verify algorithm checks the validity of the storage
+verification based on the data copy of the Markel tree root and the hash of the
+original data. 
+
+The verification is publicly verifiable: any distributed system node interested
+in this data can check the validity of the storage verification.
+
+1) PoSt algorithm flow The Setup of PoSt is similar to Verify algorithm and
+PoRep. The Prove algorithm produces Proof-of-Spacetime for data copy.
+
+The prover receives random challenge from verifier and orderly generates
+Proofs-of-Replication, then uses one proof output as the next output until t
+times of loop iteration, as is shown in the following picture:
+
+PoSt. Prove mechanism displays an iterative proof that is effectively stored for
+a period of time. 
+
+3. Network Implementation of TRON Contents Through the use of many existing
+mature technologies, wave field (TRON), as a new content platform, provides
+security, scalability, and privacy, and simultaneously allows the participants
+to actively contribute to the processing capacity of their machine to build a
+user registration network. It also gives positive contributors the privilege to
+send advertisements to the whole network to incentivize (of course this group
+text messaging will be limited in number). 1) The user registers P2P network
+Centerless, through but secure user registration, is implemented the blockchain
+mechanism, and the same mechanism has been applied in Bitcoin without the need
+for central authorization, which avoids double spend difficulties. The
+blockchain ensures no duplicate registration, and the newly-registered users
+must obtain the confirmation of multiple blocks before taking effect, i.e.
+notarization. Each block is defined as:
+
+H (Blocki) provides proof-of-Work to prove that the user received satisfying
+Nonce value in Noncei space through violent solving; meanwhile occasional hash
+collision is avoided through verification. The difficulty of solving is
+determined by the difficulty value, and the number of blocks generated per hour
+is automatically set by the system, which is similar to the Bitcoin network.
+
+New user j must broadcast UserRegj when registering online, and after receiving
+the broadcast message, other nodes must prove the proof-of-Work of H (UserRegj),
+which will prevent denial of service attacks by false registration. This
+workload is much smaller than the workload of the blockchain; t yp i c a l l y,
+a few minutes of computation can solve the problem. 
+
+The blockchain provides a mapping from the user name Usernamej to the user
+public key PUBKj, a dictionary that can be publicly queried. The node must
+verify the uniqueness of Username j before adding Usernamej to the new block,
+but there is an exception : if the newly- registered key is signed by the
+previously known public and private keys, then it may be replaced. In addition,
+the IDj uniqueness and the proof-of-Work of UserRegj should be also proved when
+receiving the new block. Usernamej also has the maximum size and the allowable
+character limit to protect the ID space from the hash attacks. SpamMsgj is a
+broadcast message (called "Promoted" message) that sends the Promoted message as
+a reward to nodes that actively participate in block generation. 2) Routable DHT
+overlay network The second network is a P2P overlay network similar to Kademlia,
+which is mainly used for resource storage and searching content, and also for
+direct delivery of notifications between users. Using the user's ID as the
+network node ID seems like a good choice, but this leads to the exposure of the
+user's identity and location, breaking the system's privacy. Therefore, hashing
+the IP address and the node's port number to identify the node and taking it as
+the node's name in the DHT network can also avoid the sybil attack:
+
+The package delivered from IDsrc to IDdst in DHT network is defined as follows:
+
+The payload is signed through user IDj, the IDj may be different from other
+users of IDsrc during package retransmission/refresh. 
+
+These functions constitute the third layer function of the concept model of the
+DHT overlay network. The above layer is the "application layer", which provides
+the data storage primitive to PUT and GET, PUT is defined as follows:
+
+Before accepting the storage request, the destination node needs to do the
+following rule checking:     IDdst = Htarget ensure the correct calculation of
+the destination address; IDdst is the neighbor of IDnode that actually receives
+the request; IDj = Howner: verify when restype is "single"; seq is larger than
+stored old value seqold, which is also verified when restype is "single".  time
+is a valid time (i.e. not a future time value).
+
+Restype defines resource types. There are two possible values, "single" and
+"multi." Single represents resources that can only key owners can update; mult i
+represents responses from different users (i.e., replies to a post). For a
+single type, the node stores only a single value, and for the multi type, the
+new PUT request appends the value to the list. Both types of storage can set the
+expiration time, and the corresponding storage will be deleted from the system
+after the setting time, so that the expired data will be automatically cleared.
+Primitive data retrieval GET can also operate on two types of storage resources,
+other non-storage resources related to the dynamic content also can achieve
+similar access operations, so as to share the same API interface. 3) User
+contents The k-th message of user j is defined as: 
+
+MSGk is content, k is a monotone increasing number, possible values of type
+include: the new posts, replies, retransmission (RT), direct messages (DM),
+REPLYk is an optional domain, which provides reference of the original message
+in response /retransmission and is defined as:
+
+representing the original message is the k'-th message of the user j'. The
+contents are simultaneously shared in two overlay networks: (1) stored in DHT as
+a short-term storage value; and (2) archived like files in BitTorrent network.
+When the new content is created, the client-side must send a PUT request to the
+following addresses:
+
+IDUserPost_jk is the destination storage node's address in the second DHT
+network, providing the retrieval capability of any content. IDswarm_j is the
+gateway address of torrent swarm group related to the content of the user
+Usernamej in the third network, and this torrent contains all the content of a
+given user j, which provides quick distribution and sharing of content based
+BitTorrent protocol and is independent of the second DHT network. The neighbor
+node of IDswarm_j needs to join the swarm cluster of user j to help the storage
+and distribution of content, provide data reliability and better data
+distribution performance; similarly, the neighbor node of IDUserPost_jk also
+needs to store the same values stored by IDUserPost_jk. The swarm group
+mechanism solves the problem of fast and efficient notifications and
+distribution of new content, so that the user's followers don't have to always
+poll the DHT network address to determine whether new content is generated.
+Direct message (DM) 
+
+Users posting content can also be delivered by direct message, but only if the
+message receiver is a follower of user k.
+
+Except the for the content difference(now is [PUBKl(DMk ) H(DMk)]) , there is no
+difference from regular posts. DM will only be received by user l who has
+successfully decrypted. Although other followers can also receive the message,
+they cannot decrypt the message, nor can they perceive who is the final
+receiver. Encryption is based on the ECIS elliptic curve encryption algorithm.
+User content torrent/tracker rule  In hashing space, the online neighbor nodes
+within a certain distance from IDswarm_j need to join the corresponding Swarm;
+When IDswarm_j's neighbor receives new content from the DHT network, it must
+work as a gateway for BitTorrent network to incorporate content into a file-like
+archive structure;  BitTorrent tracker is read-only multi-value list storage.
+Its hash address is calculated as:
+
+The follower of user j should join in the corresponding swarm to receive
+real-time content update, so as to obtain the address of the initial Peer
+through the primitive GET query of IDtracker_j;
+
+IDtracker_j is different from other storage values because it is read-only,
+which prevents the tracker attack and contains the swarm members' privacy. The
+list of IP addresses is obtained through the swarm protocol, which requires the
+online neighbor node of IDtracker_j to join the swarm.
+
+Swarm members can only know each other through IP address, and BitTorrent does
+not provide any information about the user name. 
+
+There is no need for the hash of all user contents, because the contents
+(including DM) have been signed to verify the integrity of the content;
+
+The added value k when generating new content is broadcasted directly through flooding in the Swarm;
+
+Members of the Swarm will exchange the content lists, where members can choose
+to save or request only the most recent content;
+
+The seed node is the node selected to archive the content; A content publishers
+(user j) can choose not to be member of the swarm group (to protect privacy and
+hide IP address);
+
+If the publisher chooses to be a swarm member, it does not have to follow the
+IDswarm_j gateway mechanism, which will22 expose its own IP address;
+
+Even if the publisher becomes a swarm member, it may not have to act as a seed node;
+
+The new block generation rate will impact the user's posting speed, and if a new
+block is generated every 10 minutes, on average, 288 contents blocks can be
+released daily. 4) User mention mechanism If the new content refers to user j,
+the client-side also has to send a notification to IDj, including the entire
+message content, to be routed through the DHT network. The mention mechanism is
+the only function in the system that needs to be addressed by user IDj instead
+of IDnodej, which may expose users' privacy information. An alternative
+implementation mechanism is as follows:
+
+The user name is hidden hash and a new address for receiving and accumulating
+all mention is calculated, IDmention_j neighbor nodes will also 25
+
+participate in the storage of mention, providing maximum reliability and storage
+performance. A bad thing about this approach is that the user needs to poll this
+address periodically to determine if any new mention is received. The mention
+mechanism requires the collaboration of the client-side, and if it does not send
+notification messages to the network, the user will not perceive that he has
+been mentioned. 5) Explicit message request User l can request a specific
+explicit message from user j without joining Swarm group through directly
+retrieving the corresponding contents from IDUserPost_jk address of the second
+DHT network, it supports functions of "message upstream". 6) Message downstream
+A downstream trace of the message (such as a reply/RT query for a specific
+content query) is relatively difficult to resolve, and a possible solution is to
+send a notification to a storage address of a multi-valued list
+
+The stored value is the copy of all responses, which also requires the client
+sides to work together. 7) Hash tag Like the mention mechanism, the hash tag
+detects in the context of the new message, and the copy of the message is sent
+to a specific multi-value list storage address:
+
+This is similar to a message downstream mechanism, but the difference is: the
+hash tag creates a new Swarm group; and IDhashtagt neighbors must also join this
+virtual Swarm. It is called virtual because the Swarm group does not share any
+file content and is only used to realize the broadcast function for users who
+want to monitor the hash tag. 8) Content search A search for any content that
+appears can be realized by extending the implementation of the hash tag to build
+a similar mechanism for the content that appears. In order to reduce overhead
+and network transmission, corresponding restrictions must be attached, such as
+restricting content size and excluding prepositions. In addition, it can
+significantly reduce the storage overhead and the system implementation
+complexity if the unified storage of content containing the same content is
+stored in a temporary multi-valued list address. The address calculation is as
+follows:
+
+TRON content provides the following security, extensibility and privacy
+features:  The architecture itself provides elastic extensions, and no single
+company, government or organization can close it;  The distributed user
+registration mechanism is as secure as Bitcoin transactions, providing
+non-centralized content authentication;  Users are more eager to register early
+so they can select their favorite user name,.  The common user naming method and
+discarding the long encryption hash allow users to have a better use experience.
+Public key substitution mechanism allows users to change their key pair when
+security is threatened;  The main functions of other blogging systems are
+included, such as user name search, message tracing, mention, encrypted message,
+hash tag and content search. 
+
+The ability to send notifications to and request resources from specific user
+via DHT routing, whether the user is online or not;
+
+The architecture provides incentives for participating nodes to have the
+privilege of sending broadcast messages;
+
+Users' public content and hashtags can be accessed through read-only web
+interface, which does not break the security of the system;
+
+Resource-constrained client sides can be optimized, for example, by not storing
+all blockchains but only the hash values of the blocks. In order to search for a
+particular user, they can inquire network which block contains the user's
+registration, and the client-side only have to download the desired block
+without reducing security and verify data integrity through some branches of the
+Merkle Tree.
+
+8. TRX--Official Token of TRON
+
+TRON's official currency is TRONIX. TRON will own the following categories of
+assets extended from TRONIX: (1) TRONIX TRONIX is the basic unit of accounts in
+TRON's blockchain. The value of all other tokens is derived from the value of
+TRON. Those who wish to enter or exit TRON must buy or sell TRONIX. TRONIX's
+total distribution is 100 billion. (2) TRON Power (TP) TP is locked TRON. Users
+can acquire TP by locking their TRONIX. TP, in nature, is TRONIX with voting
+rights, which means TP holders have more privileges in the ecosystem. In the
+world of cryptocurrency, we see speculators constantly seeking fast-appreciating
+currencies for investment. TRON tries to build an ecology under the full control
+of TRON holders who are optimistic about TRON on a long-term basis, and we hope
+TRON could be controlled by those whose values are consistent with TRON's over
+the long term. As time passes, we'll give TP holders more TPs as a reward, and
+the reward will be dynamically allocated. This means that those who hold and
+lock TP for the long term will be rewarded. TRON POWER's balance cannot be
+transferred nor sold, which TRON POWER is not tradable.  Long-term investment in
+TRON's direction is critical for the ecosystem to make long-term plan and not
+give up the pursuit of its ideal for short-term interests. Meanwhile,
+stakeholders enjoy the sustainable growth. Long-term holders can be the
+benchmark in the ecosystem and better lead the ecology's development. (3) TRON
+20 TOKEN Content owner ICO: Content owners (IPs, individuals, and groups) can
+freely issue their digital assets, using TRON 20 standards, while others can buy
+these digital assets and enjoy the benefits and services brought by the constant
+growth of data contributions. Tokenization is a way of defining value in
+blockchain and is used to benchmark financial or digital assets. On TRON, we
+suggest all tokens use the same standards, TRON 20, which will make it easier
+for the token exchanges and DAPP suppor means
+
+On the basis of TRON's blockchain, the community will also support some
+development of DAPP, the decentralized exchange, market forecasts, random
+digital sources, and other ecological projects.
+
+9. Transaction Confirmation and Community Governance
+
+The blockchain transaction confirmation mechanism is critical to the system's
+self-upgrading. When the protocol layer changes, the ecosystem will decide to
+follow the longest chain. Existing voting mechanisms are inefficient and
+sometimes fail to make most nodes vote, leading to stagnant decision-making.
+TRON is the first to propose a mixed-voting mechanism and set a two-tier voting
+system, 1. Poll 2. Follow vote TRON's nodes communicate with each other, but
+they can confirm the transaction at different times. Blockchain requires the
+uniformity of sequences, which means every transaction's time sequence must be
+uniform. To ensure the uniformity of every broadcast round, TRON's voting system
+needs to take three steps: 1. Preliminary Preparation When a user sends an
+application for transaction, the host node will send a message to all
+verification nodes and wait for a reply. 2. Preparation A verification node will
+check this message. If consensus is reached with a two thirds affirmative votes
+or more, the host node will broadcast that the transaction enters the next
+stage.  30
+
+The verification node will have three response options 1) The node approves the
+transaction 2) The node rejects the transaction 3) The node doesn't reply within
+the required time 4) Nodes that do not respond often will be eliminated 3.
+Confirmation
+
+A verification node officially promises that information is correct. Then, if a
+consensus is reached with a two-thirds affirmative vote or more, the transaction
+will be completed, and the blockchain will link with co-chain and broadcast it
+to all nodes in the network.
+
+10.TRON ICO PLAN
+
+1. Time: September 9, 2017, Beijing Time 2. Allocation: Total amount of TRX is
+100 billion and will be allocated as follows:
+
+Public offering: 40% TRON Foundation and the ecosystem: 35% Private offering:
+15% Pay initial supporter-Peiwo Huanle (Beijing) Technology Co., Ltd.: 10%
+
+ICO
+
+Foundation & Ecosystem
+
+Private Placement
+
+Peiwo
+
+11.TRON Schedule
+
+1. Exodus, free data - point-to-point distributive content updating, storing and
+distribution mechanism, August 2017 to December 2018 2. Odyssey, content
+empowerment - economic incentive-empowered ecosystem, January 2019 to June 2020
+3. Great Voyage, personal ICO, July 2020 to July 2021 4. Apollo, free flow of
+value-decentralized individual exclusive token transaction, August 2021 to March
+2023 5. Start Trek, cash in the flow - decentralized game and market forecast,
+April 2023 to September 2025 6. Eternity, transformation of the flow ­
+decentralized game, April 2023 to September 2025
+
+12.Compliance
+
+Operator
+
+As followers of Tim Berners-Lee, the TRON team firmly believes that the Internet
+belongs to all humankind since the day the protocol was born, instead of a
+profitable tool for a fraction of people. Therefore, TRON established Tron
+Foundation in Singapore, with the primary task to operate the TRON network
+publicly, fairly, transparently, and not for profit, and offer support to TRON's
+development team. Tron Foundation's establishment was approved by Singapore's
+Accounting and Corporate Regulatory Authority (ACRA) and is supervised by
+Singapore's corporate law. This Foundation is independently managed and run by a
+fiduciary board or management committee and is independent of the government.
+The Foundation does not have any commercial interests to support or participate
+in public interest or private interest activities. The "profit" earned by the
+Foundation is deemed surplus and will be kept as outlays for other activities
+instead of being distributed among its members. 2. Governance structure and
+voting
+
+The Foundation has set up a three-tier organization structure to ensure the
+reasonable use of funds and resources to promote openness, justice, and
+transparency; to constantly advance the rapid growth of TRON protocol; to extend
+the application scenarios of TRON protocol; and to attract more institutions,
+companies, and organizations to enter the open-source TRON ecosystem:
+
+Decision Committee
+
+CEO
+
+R&D
+
+Product Design & Production
+
+Ecosystem Operation
+
+Marketing
+
+Financial Audit
+
+
+
+Decision Committee
+
+Decision Committee is the supreme decision-making body of the TRON Foundation
+and assumes the final decision. There is no seniority among the Committee
+members. The Committee is responsible for reviewing and approving the
+Foundation's major affairs, such as strategic planning, annual plan and
+budgeting, and vote on major issues in the T R O N p r o t o co l ecosystem on
+behalf of the Foundation.  CEO
+
+The CEO is elected by the Decision Committee and is responsible for the
+Commission. The CEO will comprehensively organize and implement the decisions
+and regulations of the Decision Commission and is responsible for TRON's daily
+operation, reaching all targets assigned by the Commission, and reporting their
+implementation to the
+
+Commission/Committee on a regular basis. Moreover, the CEO has the right to
+establish functional departments when necessary and organize and employ
+managers. The CEO is responsible for the business of five departments, including
+R&D, product design and production, ecosystem operation, marketing and financial
+audit, forming a CEO-centered organizational, and management system.  R&D
+Department
+
+The R&D Department audit is responsible for the development and of underlying
+technology and is the Foundation's basic department.
+
+To ensure that team members exchange information and act in concert, R&D should
+exchange information with other departments (particularly the product design and
+production department) and timely adjust and communicate project details and
+decide the direction of future research.  Department of Product Design and
+Production
+
+The Department of Product Design and Production is responsible for enriching and
+perfecting product frameworks, provided by the technical department, making
+specific sustainable development strategies, including conducting market
+research and planning product functions, and TRON's UI design and graphic
+design, and other works. The Department staff needs to follow trends, hotspots,
+community feedback, and proactively communicate with token holders and hold
+activities like occasional technical seminars.  Ecosystem Operation Department
+
+Based on what technical and product departments provide, the Ecosystem Operation
+Department is responsible for "the external and the internal." The Department
+will extend the depth of work, actively develop partners, and closely link TRON
+with end-users and partners, thus building an open, distributive, and
+privacy-protection global entertainment ecosystem. The Department will also
+build an ecosystem within the user community with benign interaction, free flow
+of information, and information symmetry.  Marketing Department The Marketing
+core are Department i s products responsible and for marketing TRON's and
+derivative not limit services.
+
+Its duties include, but designing user interaction, and other tasks. The
+Department works closely with Ecosystem Operation Department to formulate a
+publicity programe, based on the requirements of partners and end-users.
+Finance Department to, contacting and cooperating with media, advertising,
+
+The Finance Department is responsible for the company's financial affairs,
+including funds management, financial accounting, and cost control. Because
+digital assets feature high risks, this Department is also in charge of risk
+management and control and will coordiante with other Departments to analyze and
+evaluate pro ject s' operational and financial risks. Because of the
+particularity of digital assets and tokens, it is difficult for existing
+institutions to supervise them in an effective way; therefore, the Decisio n
+Committee will engage professional auditors to ensure open and transparent use
+of TRX.
+
+13. Team Profile
+
+Founder and Chief Executive Officer | Justin Sun
+He studied for a bachelor's degree at Peking University and went on to study for
+a master's degree at the University of Pennsylvania, a member of the American
+Ivy League group of schools. He is the founder of Peiwo APP ­ China's largest
+audio content community. He joined Ripple in its early days, where he served as
+chief representative for Ripple's Greater China Region. He was one of the 2015
+Forbes "30 under 30" in China and one of the 2017 Forbes " 30 under 30" in Asia.
+He also won the title of Global Shaper at t he 2014 Davos Forum (World Economic
+Forum). He was the only post-90 student of first period of Hupan University
+founded by Jack Ma. The market value of Ripple has exceeded $10 billion, the
+number of the Peiwo APP registered users is more than 10 million, and the number
+of monthly active users has exceeded 1 million. 
+
+Chief Technology Officer | Lucien Chen
+Lucien Chen has served in many first-tier Internet companies, such as
+Netease(NASDAQ:NTES) youdao, Tencent(00700.HK), Qihoo 360(NASDAQ:QIHU) and SM
+search (Alibaba P8 +). With capabilities of developing with million-level system
+architecture, he has rich experience in big data, advertising algorithms, DMP
+system, BT system, CTR platform and high concurrent system framework design. He
+also has many practical experience in team management, strategic planning and
+business integration. Apart from that, Lucien Chen not only has a deep
+understanding in cryptography, but also support and invest Bitcoin at the early
+stage. Technical Supervisor | Keelson Yang He graduated from t he Computer
+Department of Tsinghua University with a bachelor's degree. With more than 15
+years of work experience at front and rear ends, he has worked at UFIDA--a
+leading provider of enterprise management software, corporate internet services,
+and corporate financial services in the Asia-Pacific region, and then at the
+China Roads Information Technology (Beijing) Co., Ltd.--China's leading provider
+of express highway monitoring system solutions. Yang Kaishan has great
+accomplishments in front and rear ends of the system. He has paid close
+attention to technological developments in blockchain since 2013.. 
+
+Senior Rear-End Engineer | Dongdong Huo
+He obtained a bachelor's degree in computer science and is a senior rear-end
+engineer.  He once served as technical director of rear-end technology of
+InstNews, one of the largest news information applications in Latin America, and
+of VnNews, a leading news information application in Southeast Asia. He has rich
+experience in platform security and high concurrent treatment. He has paid close
+attention to technology development in blockchain since 2015. 
+
+Product Supervisor | Deuce Yu
+He successively worked on two leading platforms of China's SNS social
+interaction ­ Kaixin and RenRen.He, served as product manager at the Department
+of Social Interaction and Games, a n d i s responsible for R&D and promotion of
+the then very popular social games at the webpage terminal like "vegeteal" and
+own games at Kaixin's mobile terminal. He then worked with RenRen, serving as
+operation principal of games open platform, responsible for access and combined
+operation of games from the open platform as well as for R&D and promotion of
+games at the customized mobile terminal. Since 2015, he has paid close attention
+to blockchain, comprehensively balancing the docking procedure of the TRON
+protocol entertainment platform wit h the protocol and its manifestations.
+
+Market Supervisor | Tim Guani
+He graduated from Peking University and is a serial
+entrepreneur. His project once obtained investment from Matrix Partners China,
+and he once served as principal of the information strategic system of Global
+China Group. Since 2016, he has paid close attention to blockchain. He has a
+unique understanding about markets and brands and is an expert in creating
+high-dissemination brands. He once organized an association of nearly 200,000
+members tied by common values of Chinese youth. Operation Supervisor | Charles
+Zhang He is a professional practical operator of associations. He once served as
+co-founder and COO of Elegance Space, secretary-general of Chicago branch of
+Elegance Space, expert of Zaihang and editorial board member of Association
+Commerce. He is a founder and operator of an association of 0.1 million high-end
+women, whose field has covered a dozen aspects like female, training, studying
+abroad, fund, investment and Internet. He has been invited to give lectures more
+than one hundred times by Peking University, VBill, Zhongjian Huatong and
+Internet operating agencies. Since 2016, he has paid close attention to
+blockchain.
+
+14. Risk
+
+Systematic risks: They refer to possible changes caused by common factors of
+overall importance, which will impact the success of all blockchain companies in
+the same way. A policy risk: at present, the government has not formulated an
+explicit policy about blockchain projects and ICO financing, so participants may
+suffer from losses caused by future policies. . At the same time, systematic
+risks also include a series of force majeure factors, which include, but are not
+limited to, natural disasters, large-scale breakdowns of global computer
+networks, and political unrest.  Supervision absence risk: Digital asset
+transactions, including TRX, have extremely high uncertainty. Due to lack of
+forceful supervision in digital asset transactions, electronic tokens are
+subject to sharp rises and falls.  Risks after supervisory regulations are
+formed: It cannot be denied that in the near future, supervisory regulations
+will be formed to restrain the fields of blockchain and electronic tokens. If
+supervisory and regulatory bodies perform a standard management over these
+fields, the electronic tokens purchased during the ICO period may be affected.
+The impacts include, but are not limited to, price and stability fluctuations
+and restraints.  Inter-team risks: At present, there are numerous teams and
+projects in the blockchain technology field, so the competition is very fierce.
+There is strong market competition, so whether the TRON project can stand out
+among many excellent projects and be widely recognized will not only depend on
+the capacity and vision/planning of its own team, but it will also be determined
+by numerous competitors in the market. There is a likelihood of competition.
+Risks within the team: TRON has gathered a talented team full of vitality and
+strength experienced and attracted senior practitioners and technical developers
+in the blockchain field. Because we playa leading role in the Chinese ICO field,
+team stability and cohesion is of vital importance to TRON's overall
+development. In the future, there is a possibility that TRON will be negatively
+impacted by resignations of core personnel or conflicts within the team.  Risks
+about project coordination and marketing: The TRON founding team will spare no
+efforts to realize the development goal proposed in the white paper and expand
+the growth space of the project. At present, TRON has a relatively mature
+commercial model analysis. However, due to unpredictable factors occurring in
+the overall development trend of the industry, existing commercial models and
+coordinating thought are not well compatible with market demands, thus
+considerably decreasing the profits. At the same time, this white paper may be
+revised with updated project details. If the ICO participants fail to obtain
+details after project updates in time or if the public fails to fully understand
+the project due to information asymmetry, the subsequent development of the
+project will be impacted.  Risks about project technologies: First, this project
+is based on a cryptographic algorithm. The rapid development of cryptology will
+inevitably lead to risks of system cracks. Second, cryptology's core businesses
+are supported by technologies like blockchain, distributed ledger,
+decentralization, and. The TRON team cannot fully guarantee technological
+fulfillment. Third, loopholes may be found during project upgrading, which can
+be remedied through a patches release. However, the degree of being impacted by
+loopholes cannot be determined.  Risks about hacker attacks and crimes: In
+regard to safety, one individual is very small, but the overall number of people
+is great. This has placed a high priority upon the project's security assurance.
+Because they have characteristics like anonymity and immutability, tokens may be
+used by criminals and/or hackers for criminal activity.  Other risks unknown at
+present: With continuous development of blockchain technology and the overall
+industry, TRON may face some risks that cannot be predicted at present.
+Participants should fully understand the team background, know about the overall
+framework, and the project's concept before making a decision. They should
+manage their expectations and participate in token distribution reasonably.
+
+15. Disclaimer This document serves only the purpose of conveying information.
+The contents of this document are for reference only and do not intend to create
+any suggestions or invitations t o so lic it int er est in or pur chase or
+securities .  stock The contents of this document shall not be interpreted as
+forced participation in an ICO. Any behavior associated with this white paper,
+including any r e quests for obtaining a copy of this white paper or sharing
+this white paper with others, will not be deemed as participation in an ICO.
+
+Participation in an ICO means that the participant has reached the age required
+by law, has full m e n t a l capacity, and the contract signed with TRON is
+authentic and valid. All ICO participants should sign the contract voluntarily
+and must have a high threshold about TRON before signing the contract. 
+
+The TRON team will continue to perform reasonable tests to guarantee
+authenticity and accuracy of the information in this white paper. During the
+development process, the platform may be updated. The updates include, but are
+not limited to, platform mechanisms, electronic tokens and their mechanisms, and
+distribution of electronic tokens. Some document contents may be adjusted
+accordingly in the new white paper with the project's development. The team will
+make public the changes to the white paper through an announcement or by posting
+the updated white paper on its website. The participant must get the latest
+white paper and adjust their expectations accordingly. TRON will not assume any
+losses by the participant caused by: (i) the participant relying on the contents
+of the white paper; (ii) information inaccuracy in the white paper; or (iii) any
+behaviors caused by the white paper.
+
+As the official token of TRON, TRX is an important tool for the TRON platform to
+perform efficiently. However, TRX is not a security, and owning TRX does not
+mean that its owner has been afforded with the proprietary right, controlling
+right, and/or policy-making right regarding the TRON platform. As an encrypted
+token used in TRON, TRX does not belong to any of the following categories: (a)
+currency of any type; (b) securities; (c) stock rights of a legal entity; (d)
+stocks, bonds, bills, warrants, certificates, investment contract, or other
+instruments affording similar rights.
+
+Whether TRX will appreciate or not is determined by the market and the demands
+after application fulfillment. In some cases, TRX may have no value at all. The
+team will make no commitments about its appreciation and will assume no
+responsibilities for consequences caused by an increase or decrease in its
+value.  To the maximum extent allowed by law, the team shall assume no
+responsibilities for any damages and/or risks arising from token distribution
+participation, which include, but are not limited to, direct or indirect
+personal damages, loss of commercial profits, loss of commercial information,
+and any other economic damages.  The TRON platform will observe supervisory
+regulations in favor of healthy development of the ICO industry and the
+industry's self-discipline statements. Participation means that the participant
+will completely accept and observe these practices. The information disclosed by
+the participant to complete these inspections must be complete and accurate. 
+
+The TRON platform has explicitly conveyed possible risks to participants.
+Participation in token distribution earns that the participant has confirmed
+his/her understanding and recognition of each clause and instruction in the
+detailed rules, accepts the potential risks about this platform, and will assume
+consequences by himself/herself.
+
+16. Versions
+
+Date
+
+Version No.
+
+Content
+
+2017/06/03
+
+V1.0
+
+Initial outline
+
+2017/07/08
+
+V1.1
+
+Filling of background contents
+
+2017/07/25
+
+V1.3
+
+Version of global entertainment
+
+43
+
+protocol
+Initial version of entertainment 2017/08/04 V1.4 system of free contents
+Second version of entertainment 2017/08/11 V1.5 system of free contents
+Initial 2017/08/18 V1.6
+version
+of
+contents
+entertainment protocol
+Second 2017/08/22 V1.7
+version
+of
+contents
+entertainment protocol
+17. Contact
+Website tronlab.com
+E-mail iservice@tronlab.com
