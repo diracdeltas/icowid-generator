@@ -1506,3 +1506,1666 @@ The thread guidelines are as follows:
 ***
 
 Enjoy!
+The Tether FUD is overblown and doesn't make much sense. The entire basis of the Tether FUD comes from a random anonymous Twitter account, Bitfinexed, that seemed to have a personal vendetta on Bitfinex...
+https://steemit.com/cryptocurrency/@kjnk/why-the-tether-fud-doesn-t-make-sense-and-we-are-getting-manipulatedAm I right in assuming that the flippening is most likely going to be caused by Bitcoin's market cap lowering and meeting Ether's somewhere in the middle rather than Ether's market cap just straight up catching and overtaking it?Front running is becoming a major cause of mistrust in the cryto community. Most of the orders placed in the exchange are manipulated and we end up paying higher fee. This needs to stop and exchanges have to be more clear with their operations.The original version works just fine and is honestly genius. Dividends are paid in ETH and are still strong and for some reason the price is the ONLY price stable coin right now. For some reason all this Tether thing did not really effect this 3 days old coin and the price is rock solid. https://powhcoin.com
+
+Well enough shilling (had to make a clear distinction), now to the bad news. The dev made a clone that includes more fees (and has fees when you sell and not only for buying). After a few hours it had almost as much ETH as the original in the contract but now a bug in the shadow contract (not the original one!) made all ETH in this clone stuck forever. https://powhcoin.com/shadowfork.html
+
+Original: https://etherscan.io/address/0xa7ca36f7273d4d38fc2aec5a454c497f86728a7a
+
+Clone: https://etherscan.io/address/0x9f4fd6c336388f2ab7dc7bbe4740ae7b88b880d7
+
+Let this be a lession for you guys. Smart contracts can have errors and every change to it, no matter how small, can fuck everything up.So...  I got an email saying an unrecognized device had logged in to my HitBTC account.  Nice of them to notify me, except that I never signed up for one, so this made me nervous.  First, I assumed the link was just a scam, so I didn't click it.  I hovered over it, it looked weird, so I just went directly to www.hitbtc.com and typed in my email and clicked password reset.  If I have no account, that shouldn't work, problem solved.  Well, it did work, sort of.  They sent me a password reset link, and my stomach sank a bit, thinking... fuck, my identity has been stolen.   
+
+Next, I reset the password to a unique difficult password because I'm still skeptical.  All good.
+Then when I go to sign in with that password, it says...   "THANK YOU FOR SIGNING UP" and that they had sent me a confirmation email.
+
+
+So... is this how hitbtc is getting people to sign up?  I mean, they don't have anything besides my email and a bogus password, so...   what the hell just happened, any ideas?Hi there, anyone can provide a link to a tutorial for writing your own trading bot on, say, gdax for example?
+
+Language doesn't matter,  I'm a software dev so I can pick up any language easily. What I need is basically an api tutorial, maybe even an example of how to write a simple bot and how to run it.
+
+I'd like a tutorial that walks you through writing one from scratch, not one that makes you download a bunch of frameworks and you just tweak the bot performance. Any hints welcome!Wow! I came accorss this referral program by Nucleus Vision that is giving way 1,000,000 nCash. Is that true?The blockchain technologies make Betrium open, resistant to
+hacking, and therefore a safe environment. Betrium is the first to
+offer the following key-features:
+ Worldwide;
+ Worldwide money deposits and withdrawals;
+ Worldwide support (for 25-30 countries);
+ All the sport events all around the world;
+ Volatility Stabilization  balances will be fixed in the
+virtual USD/EUR, so users are protected from loosing in
+regular crypto currencies' dumps by integrating
+exchange functionality.
+ Event Organizers Platform  we offer a unique
+creation platform for event organizers. The platform
+gives opportunity to create events (and particularly
+cyber sport streams) and make profit on betting using a
+powerful blockchain technology.
+ High Commissions;
+ 0-1% fee on money deposits, withdrawals and
+winnings;
+ Support of Popular Crypto-Currencies;
+ ETH, BTC, LTC, XZC, DASH.
+ Taxes Issue  Betrium can't take taxes due it's nature;
+ Fast Bets Processing  Bets happen off-chain.
+ Open API  Betrium provides a public API for
+developers and encourages betting bots, third-party
+apps and betting service providers.Hi all of you,
+
+Of course, this question is asked a trillion times before, but imma do it anyway.
+
+You see what happened with BTC, ETH, NEO etc, some big boys who climbed the markets to high heights. Now my question is; why did these coins actualy got their value? And please dont just answer as Offer - Demand :).
+
+My next question; what are you hodling now and what would you suggest in buyin in before it is too late! But most important, WHY are you hodling, why you think it would increase in value significantly? (Mostly looking for -$50 coins)
+
+Thank you in advance!Announcing the SWM Airdrop. Everyone who registers on the Swarm platform this week (until 4 Feb) will receive an Airdrop of 100 SWM tokens in their wallet. #SWM https://swarm.fund Tokens will be airdropped within two weeks of the end of the promotion (by 18 Feb). Get to it!Hi, I have my app released in beta format. Im looking for people who would be interested in using an app that posts breaking news such as tweets, reddit info and news from other sources that can affect us crypto day traders.  
+
+The app allows any and all users to also submit news which is immediately peer reviewed and pushed to the full audience if approved. This allows us to create a large network of well informed people we can pool information from and help everyone stay ahead of the game. 
+
+If you're interested we need android beta testers right now, the iphone version is done and will be needing beta testers for that soon to if youd like to message me about that, but android first.
+
+If youd like to be part of the project in other ways you can message me regarding that also.
+
+Thanks guys. 
+
+Also feature suggestions that can help day traders are always welcomed.https://gfycat.com/defenselessmiserableiberianbarbel
+
+Someone else posted this here, I thought it was appropriate to resurrect.Vitalik Buterin is 24 years old today, and even though I'm about a decade older than him, I really look up to and admire him. He has dedicating himself to a cause that is so much bigger than himself or any of us. There aren't many 24-year-olds who would do that, especially if they had the kind of money he has. He isn't in this for the money. He wants to help people and make the world a better place. I believe Ethereum is going to change the world. It will lead to a tremendous amount of economic growth and provide incredible opportunities for everyone, including the very poorest on the earth. All of us, as investors, are very fortunate to have Vitalik as a visionary/thought leader. I'm indebted to him for how this investment has changed my life. Long live Vitalik! Thank you and happy birthday!Posted this to /r/BitcoinCA as well, but figured I'd spread the word to warn ETH buyers too
+
+You can search reddit for "Kraken CAD wire" and you'll get many threads of people with issues varying from long wait times, ignored tickets, and surprise fees when the funds finally go through
+
+I wish I had done this search prior to sending them money. I used them over a year ago when they still had EFT as an option and I naively thought that things would be more or less the same. I am still here waiting for my funds to get to my account despite the money being taken from my bank three weeks ago. Sent a ticket and escalated it twice now, still nothing
+
+Don't make the same mistake I didThat sounds shitty and I know, Im not even a decentralize everything in the world or libertarian  fanatic type of guy, I had a lot invested at ripple at one time and it wouldve been better for me if it mooned.
+
+But holy Fuck the community surrounding it and downing on ethereum and talking about how its shit and all of ethtrader is fucking stupid, especially when it passed market cap. it got me really pissed. They were all flaunting around like they were a bunch of geniuses and then it tanked and Im honestly happy about it, even if it made me lose some money its a great feeling.
+
+Sorry for the random post but really thoughIf 1 million people each invest on average $100 in crytpo that is $100 million USD flowing in. What is the real life impact on marketcaps?  Far greater than just a $100 million dollar marketcap gain spread out right?  Any economics specialists want to chime in?BTC just dropped below $10k and if you look at charts on flippening.watch you see ETH's marketcap is slowly creeping up to BTCs (62% currently but only 33% on January 1st) and the flippening might happen soon. The market cap difference in percentage has been as high as 83% in June of 2017 but then both coins were still up and coming and now BTC seems in decline. The ETH/BTC trading pair has also been mostly positive during the various dips the past few weeks. 
+
+At what flipping point (e.g., 80%) BTC traders will become aware that the flippening is imminent and then trade their BTC for ETHs which will then further exacerbate the flippening? ETH dethroning BTC as largest crypto will likely get more people to invest in ETH and the difference in market caps will expand very quickly if a flippening happens, I assume. This is kind of a strange event that has not really happened before (BCH never overtook BTC). Its all speculation at this point but would like to hear your ideas/ opinions.Welcome to the Daily Altcoin Discussion thread of /r/EthTrader. 
+
+***
+
+The thread guidelines are as follows:
+
+-  All sub rules apply here so please review our **[rules page](https://www.reddit.com/r/ethtrader/about/rules/)** to become familiar with them. The rules page is also linked in the announcement bar above.
+-  This thread is intended as a welcome place for discussion of all non-Ethereum related crypto.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+Welcome to the Daily General Discussion thread of /r/EthTrader.
+
+***
+
+Thread guidelines:
+
+-  Please refrain from discussing non-Ethereum related tokens here. You are welcome to discuss altcoins in the Daily Altcoin Discussion thread.
+-  All [sub rules](https://www.reddit.com/r/ethtrader/about/rules/) apply here so please be familiar with them.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+Everything he does and how he talks about crypto is everything I hate about this space. He doesnt read crypto, he buys in presales for massive discounts then uses his platform to shamelessly promote projects he really doesnt understand. This is how people will get hurt. its gotten to the point where the "conventional wisdom" among crypto retail investors is to adamantly hodl. that basically means there is a floor. that floor is also the greater fool. sad to say, when things go wrong, hodlers will be the greater fool left holding the bag.
+
+if Bitcoin prices are revealed to be elevated by tether which is NOT backed by $2.3 Billion of USD fiat, [as Roubini suggests](https://www.marketwatch.com/story/why-bitfinex-tether-are-raising-nagging-questions-in-the-cryptocurrency-market-2018-01-30), this would imply that tethers can be created out of thin air, and the demand for bitcoin indicated by its market price is not "real,"  and therefore the asset could be overvalued. 
+
+Then again, $2.3 Billion USD is not an unthinkably large sum in crypto land. 
+It is 1.366% of Bitcoin's current market cap. 
+
+&gt; If traders lose faith in tether, they could end up triggering the crypto version of a bank run. Tether helps stabilize cryptocurrency exchanges in various ways, so its collapse could also cause some exchanges to topple, wiping out billions of dollars of investments overnight and potentially undoing much of the publics growing interest in new technologies like bitcoin.
+[Wired](https://www.wired.com/story/why-tethers-collapse-would-be-bad-for-cryptocurrencies/) 
+
+This is where hodlers come into play once again. hodlers add stability to every part of the crypto ecosystem they are part of. 
+
+&gt; In lieu of an audit, Tether released a document in September purporting to substantiate its reserves, but with the names of its banking partners blacked out. Since that time, the number of tethers in circulation has risen roughly five-fold, to 2.28 billion, from 450 million. In January alone Tether has released 850 million new tethers.
+
+(Same Wired article)
+
+How do new Tether enter circulation? 
+One possibility is market participants demand tether(either directly or through Bitfinex), and provide USD to Tether. Tether hodls those USD in reserve at its banks, and provides Tether 1-for-1 to the market participants. 
+
+Another possibility is Tether "prints" tether, and funnels them into Bitfinex, which is controlled by the same team that controls Tether. To enter circulation, tether must be exchanged for another token, and it appears it has been largely used to purchase Bitcoin since September. 
+
+In this case, Tether has been hodling Bitcoin instead of hodling USD, and its hodlings are likely worth more than the $2.3 Billion USD, at current prices. This affords some insurance while times are good, but as they say, insurance only counts when things go wrong.  
+
+And as the article states, this is a house of cards. The CFTC is investigating. Regardless of if Tether's current hodlings exceed $2.3 Billion USD in value, it would likely be charged with fraud. If this scenario is true, the value of its Bitcoin hodlings would also fall, likely below $2.3 Bn in value. AKA ponzi scheme. 
+
+The next domino mentioned in the Wired article is that tether is used by traders and exchanges for cashing out and for facilitating trades between cryptocurrencies. If tether is eliminated, would another currency be a good substitute? 
+How about Ripple? 
+
+Doomsday seems to require the fraud charge, Tether going underwater (value of holdings under $2.3 Bn), and there being no substitute for tether in facilitating trades. 
+
+I can easily see the fraud charge, and a further 20-30% drop in Bitcoin and other cryptos. And that may or may not cause Tether to go underwater. But I do believe "tether" can be replaced as a medium of exchange. 
+
+I also believe the conventional wisdom "the way to win in crypto is to hodl" is extremely powerful in English speaking countries. I'm interested to learn if Hodl is as powerful a mantra in Asia. Assuming it is, hodling is its own self fulfilling prophecy during the age of the retail crypto investor.
+
+Another discussion question: are we still in the age of the retail crypto investor? In my view, once the market becomes more heavily institutionalized, which it will very quickly due to tax reforms, "Hodl"
+won't work anymore, and the last people calling themselves hodlers will be like Hodor in his final scene in GOT, desperately hodling the door while institutional investors escape into the night. 
+
+please share your thoughts on any and all of the above in the comments below! 
+
+When ETH overtakes BTC in a month or two how smooth of a transition will it be?  How will it affect other alts?  Will exchanges pair to ETH on everything before the actual flippening?  Or only after.  Thoughts?https://www.ethnews.com/blockchains-llc-acquiring-over-60000-acres-in-nevada-to-showcase-blockchain-applications-yes-ethereum-no-mining?utm_content=buffer73cd3&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=bufferSo, I recently found out about GBTC, which is great if you're a BTC fan. I'm much more bullish on ETH than BTC &amp; I'm looking for a quasi-ETF like GBTC for ETH. Does anyone know of anything out there?Possibly naive question, just trying to understand why the market is reacting so strongly to this news. Any insight would be much appreciated!
+
+Edit:  I'm referring to what Nouriel Roubini said: 
+
+"Renowned economics professor Nouriel Roubini (commonly known as Dr. Doom) has called out Tether today for being a scam meant to artificially prop up the price of bitcoin. He thinks that without this criminal manipulation the price of bitcoin would crash by 80% and that American financial markets regulators are failing to stop this fraud.
+
+Roubini tweeted that: Regulators asleep at the wheel while $2 billion of fake $ created via this scam, half of it since December. Not even North Korea created so many fake $ backed by nothing. And in a separate tweet he added: Regulators are just looking and doing little so far while swindlers, charlatans, scammers, criminals, carnival barkers are in full action in the crypto-universe."No one knows the future.  But there is a real possibility that this is the year the Market Cap of Etherium passes Bitcoin.
+
+ETH seems less tied to the ups and downs of BTC as time goes on.  Furthermore, with more exchanges pairing ETH, it will eat away at BTC dominance in that way, as well.  I know I would rather trade in Ethereum pairs than Bitcoin, that is for sure.
+
+In January, BTC has winded down from $13k to around $10k so far, whereas ETH has climbed up from $700 to over $1000 with gusto.  No one knows what is going to happen, but you can feel ETH wanting to swell, while BTC seems rather lame these days.
+
+I know in my own portfolio, I have switched out much of my Bitcoin for Ethereum.  And my guess is this is the year that Ethereum finally surpasses the venerable giant.
+
+So I tried to buy a little ETH earlier. Totally typical thing, I had plans for it to invest in an alt. I purchase roughly 1/3 an ETH around 2pm. Bank account transfer. It goes through, I get the email, and within 15 minutes I had transferred it to my Binance acct, and placed an ETH/AST buy.
+
+So now, about 2 hours later, I get an email saying my coinbase buy failed, because my bank cancelled it. No idea why, since I have relatively lax security settings on that account, and it is not an out of the ordinary transaction. I also received no notice from the bank at all that something might be up.
+
+So.... what happens now?Tether just transferred 200M USDT - probably as a reaction to recent news? Anyway, I think it's the largest transaction I've seen so far:
+
+https://omniexplorer.info/lookupadd.aspx?address=1NTMakcgVwQpMdGxRQnFKyb3G1FAJysSfz
+
+The [transparency page](https://wallet.tether.to/transparency) states that these tokens are *Authorized but not issued*. However they were already issued before, it seems they've just taken $200M USDT out of circulation.Hey all,
+
+I have had a hard time getting into ICO's lately, they all seem to sell out before my order gets trough. That's why I decided to look for less hyped projects that also have amazing products (in most cases even better than these overhyped ones). I've made a shortlist of 4 projects and I'll include how much I'll be investing in them, and what I expect the profit is going to be in 2018. You may definetly check them out, but always **do your own research before investing!**
+
+
+ - **The Abyss** -&gt; https://www.theabyss.com/. If you are a gaming fan, like me, you can earn money by playing the games you love + buy games a lot cheaper with this platform. The Abyss is a next generation digital distribution platform, delivering all types of video games ( including AAA-titles, to the fast-growing global game community. Unlike other platforms (Steam, Origin, GOG, etc.), The Abyss offers a groundbreaking motivational and multilevel referral system, allowing gamers to earn from in-game and social activities, and other gamers? payments as well. By joining The Abyss, developers will reduce their marketing expenses and receive an extra income from referral payments made in other games on the platform.
+
+How much will I be investing? I will be investing 1 ETH in this project. I would have put in more but there are several gaming community platforms showing which I will also be a part of. The gaming industry is HUGE, with a revenue of over 100 billion $ annually, and I do not want to miss the boat when a crypto-based platform skyrockets.
+
+My expectation for this project? This project has a very high chance of going x25+. If this platform takes off and becomes the standard for gamers the sky is the limit.
+
+
+ - **Squeezer** -&gt; https://squeezer.io/. The world's first software development platform that's blockchain oriented. Squeezer is a platform that helps software developers to build apps easily without tackling the entire blockchain infrastructure . It is also a powerful tool to provide high quality blockchain software components to the large enterprise organizations
+
+How much will I be investing? I will be investing between 5-10 ETH in their presale. Depending on other interesting ICO's that may cross my path before this one launches.
+
+My expectation for this project? If any of these unknown ICO's will go x100+, it will be this one. This platform is revolutionary and will enable software developers to build apps on the blockchain easily. I'm 100% sure the blockchain is here to stay, and the demand for blockchain apps will grow with it. To have a platform where everyone, from beginners to experts, can easily develop apps on, is amazing.
+
+
+ - **Current** -&gt; https://current.us/. Get paid to play all your media. Current consolidates the best content and features from the most popular media networks into an all-in-one, personalized experience. The best part? Stream your favorite content through the Current Platform and earn tokens while doing so. 
+
+How much will I be investing? I will be investing 1 ETH in their presale. 
+
+My expectation for this project? My expectations for this project are very high (atleast 10x). They already have a fully working platform with over 200k active users, and the project is backed by Mark Cuban. The amount of people watching streams and other content has been increasing exponentially over the past years and will keep on growing, I expect Current to take advantage of this growth, which makes the token grow aswell.
+
+
+ - **Vitreus** -&gt; https://vitreus.io. Vitreus will track the origin of diamonds and other luxury items via the blockchain. I think this is the perfect usecase for a blockchain,
+
+THE PROBLEM
+The problem they will tackle is blood diamonds and insurance fraud. With the help of the blockchain, you can look back at the history of an asset and verify it's provenance
+
+THE SOLUTION
+By introducing the blockchain you have a paperless trail and certification for luxury items such as diamonds, or even pieces of art. You can't fake the origin on the blockchain.
+
+How much will I be investing? 2 ETH, I like the project a lot
+
+What are my expectations for this project? Very good. The limited tokens supply @200M means the price can go up. A lot. Plus the softcap is very reachable. This is not one of those icos which expects hundreds of millions of dollars.
+
+
+These are some, but definetly not all of the ICO's I will be investing in this quarter. I'm always searching for more promising projects to do some research on and I have seen plenty of gems cross these forums. So if you are aware of any upcoming projects that have been flying under the radar, please let me know!What the hell is wrong with people thinking that USDT will crash all the markets? Do you even crypto? This event should be totally the oppositte, right now the price of any coin should be like 2x in USDT with the recent FUD because everybody would rather have their money in any coin instead of USDT, all of you guys crying and selling right now are just making things easier for people to exit USDT...
+
+Imagine the worst case scenario, USDT is proved to be a scam, the price of USDT will go to hell leaving their holders with zero money, but only USDT holders will be affected as nobody would want to trade their crypto for USDT, why would other cryptos have to go down? That's just bullshit...
+
+You should only be afraid of this event if you hold any USDT, if not, you should be totally fine.Based upon my opinion as a lawyer (not giving legal advice), and someone who has overseen corporate compliance audits for major corporations in conjunction with top accounting firms, I just want to point out (like I said awhile ago when the Tether stuff restarted) that the lack of release of the audit reports on Tether were probably due to two factors (and not an empty Tether bank account):
+
+1) **Ongoing audit**. The auditor wouldn't allow a release of the report/preliminary findings because it hadn't finished the audit. They can see the cash in the accounts, but likely wanted to audit way more (e.g., other pairs and also relevant POEs to make sure no other fraud was occuring). This is standard practice, and gets super frustrating--no audit is ever done when you want it to be. This is also why Friedman dumped them--Tether tried to leak a preliminary report that showed the USD in the accounts w/out the audit being completed. Probably also got spooked by the CFTC review and went into auditing overdrive.
+
+2) **Ongoing regulatory investigation**. I thought that Bitfinex was likely under investigation by the CFTC or SEC weeks ago. This explains why they simply couldn't release an audit report or documentation of their accounts. They have to comply with the investigation, and their lawyers are telling them to sit still and don't do anything that could be construed as interference (leaking financial stability information to the public definitely could result in enhanced charges/penalties if the CFTC finds some other compliance issue).
+
+So, IMO, Tether is likely solvent but the CFTC is digging deeper. You can bet if they had an empty Tether bank account, the CFTC would have shut down this shitshow back in December.This is the first time I'm sending some ETH out of MEW. How much gas should I include to send 1 ETH? Don't want to mess up the transaction. 
+
+Thanks! I'd like to propose the addition of either 1) a weekly pinned thread to r/ethereum or r/ethtrader or 2) a new subreddit for the non-technical/non-developers in the community. I suspect there is a growing number of interested people with general business backgrounds (finance, operations, marketing, etc.), like myself, who are intellectually and financially invested in Ethereum. I think it would be great to have a dedicated avenue to discuss, collaborate, and network with peers on ideas for dapps, marketing, etc. This would provide a thought medium for more diverse backgrounds and skillsets than is generally available in r/ethereum. It could help bridge the gap between those who lack development backgrounds with those in the technical community. Merging non-technical folks with the technical folks would propagate sharing of ideas for dapps and decentralized workflows while providing clarity to real world feasibility and technological implications of proposed ideas. Thanks!
+
+***I tried posting this in r/ethereum yesterday, but the bot kicked it for being a discussion that should be included in r/ethtrader. I messaged the mods to advise, but have not received a response.I will be taking part in medical chain ICO tomorrow, my first ever ICO participation. I'm slightly concerned about this so-called 'gas war' which happens during ICO's and witnessed during the telegram on DADI and Nucleas vision - many people missing out. I'm slightly concerned as I'm only sending around 1.08 ETH ($110) from MyEtherWallet and don't want most of that to go on gas. 
+
+I'm not a tech-savvy so I don't understand what gwei/gas limit is - I tend to set recommended levels normally, but I imagine for this case that won't be enough. It is definitely one of the most hyped ICO's recently. They have approximately 52k members on telegram and over 13k members on Twitter and generally speaking good ratings from across the board, They have announced they will do KYC first which you must wait until verification before sending ETH - presumably to prevent a gas war. Admins are therefore not giving recommendations, so I assume there will be some sort of gas war during this process. So I would like a very fast transaction under a minute. If I send my entire balance on MEW (0.108 ETH), will I be able send it within a minute double the recommended levels = 40 gwei and 42000 limit? How much would this detract from the total I will send - should the network be clogged up slightly? Also I'm assuming that gas price is included in the amount I send, and I don't need to leave some ETH in MEW for the gas? Helping friend, has a key from an old hardware wallet but doesn't remember which or where.  8 digit key with combo of letters/numbers.  Any way to find out for sure? Any recommendations on where to start? So this is a analogy of how i see ETH at the moment,
+
+ETH is like a major city and its surrounded by many smaller towns known as ECR20 tokens. This city is good but it needs more people living in it, and needs more usage. The current problem is it cant really deal with more people living in it, it needs better roads and infastructure to work. Raiden, Plasma and Sharding can all help build this much needed infastructure which will allow huge amounts of people to enter and allow ETH to grow into a mega city. (scaling) This will not only bring more people to the city but itll connect the surrounding ECR20 towns together allowing evrything to grow as one. 
+
+Meanwhile other neighboring cities are coming out and competing for resources. ETH is like a large organism which is ready to explode if it can gain good scalability, if it can solve this problem early it will have an exponential affect relative to its competition.
+
+
+PS Just my two cents,  Im not high, just bored.
+https://twitter.com/CryptoOfKorea/status/958815334072537090
+
+On January 31st, CoinDuck, an Ethereum based offline electronic wallet payment service will launch in various regions of the Korea. This is one of the most wide spread use cases for cryptocurrency South Korea has seen.
+
+While  is promoting password settlement for the first time among online shopping malls in Korea with Bithumb, the number of places that can purchase general goods or services as passwords in offline stores is rapidly increasing.
+
+There are about 100 registered merchants since the official launch of CoinDuck on January 4th, and Seoul has 29. In addition, the rest of the franchises are distributed nationwide including Gyeonggi, Gyeongnam, Chungnam, Jeonbuk, and Gangwon.
+
+Industries vary: Cafes, restaurants, restaurants, guesthouses, institutes, pharmacies and opticians can also use Coin-de-service. Notable merchants include real estate, law firms, farms, and porcelain shops.
+
+CoinDuck is trying to broaden the scope of co-operation with Pyeongchang ahead of the opening of the Winter Olympics next month. The goal is to increase the number of Pyeongchang franchisees so that foreign athletes, foreigners, and cheerleaders can use the CoinDuck services.Got a decent amount of dust left in binance. Anyone got any ethereum based dApps they like that I could could throw a little bit at? So I can rejoice with all of you rather than hate your guts.
+
+I will say that Ethereum is showing rather amazing strength when all other cryptos are struggling.First I want you to picture a brand new Lambo thats worth $300K. Its Red. Its beautiful. Its just been washed and waxed. Can you see it? Additionally, this Lambo is generating revenue thats growing exponentially. Even better, it wont depreciate when you drive off the lot. In fact, the dealership will continue to use those increasing cash flows to buy back a piece of that Lambo in perpetuity. Now, for some unknown reason, this Lambo is 40% off. So instead of paying $300K, you can steal this cash cow for $180K. 
+
+Thats Iconomi. Right meow. And the irrationality of this market is killing me. Kariba REDD+ will be the first supply side project to make natural assets available for sale on the EARTH token Natural Asset Exchange (NAE). The Kariba REDD+ project has a long standing relationship with impactChoice and will be using EARTH token for the settlement of transactions on the platform. 
+
+Specifically, Kariba REDD+ will act as an inaugural supplier on the NAE and begin loading natural assets and make them available for trade from the first day of operations. Demand side buyers will be able to purchase Kariba REDD+ natural assets using the EARTH token.
+
+https://earth-token.com/Yes, it is possible Tether has 2 billion dollars. That shouldnt be the main focus of this debate.
+
+What confuses me about the people screaming FUD, is why are you not concerned about the complete lack of transparency?
+
+Tether promised frequent audits. There hasnt even been one. There has been zero proof of solvency. Why are you blindly trusting that they are solvent?
+
+Its not unreasonable, and it certainly isnt FUD, to be slightly suspicious of a company that promised to be transparent and then has been the complete opposite.
+
+Why would a solvent company not release an audit after they promised they would do so frequently and in a transparent way?
+
+We should be focusing on the complete lack of audits, not the possibility of them owning $2 billion.
+
+Edit: Facts you dont like are not FUD. Its a fact there has been no auditI see a lot of people mixing up market capitalisation and how much cash has actually entered into a crypto (cash inflow). 
+
+Tether is often compared to bitconnect (as they had a similar market cap before the crash) but they couldn't be more different.
+
+If you are ensure about the difference check out this article which can explain it better than I ever could: http://jamescrypto.com/the-difference-between-inflow-and-market-cap-and-how-it-relates-to-tethers/
+
+Venezuelas economy is in deep trouble. To dig itself out, on Tuesday the Venezuelan government unveiled its full plans for the Petro, a bespoke digital currency backed by the countrys oil resources.
+https://motherboard.vice.com/en_us/article/9knegp/the-venezuelan-government-is-doing-an-ethereum-token-sale-to-support-its-new-cryptocurrency-petroThe title reveals everything,i tried to submit a link from businessinsider(Ethereum has outpaced its rival cryptocurrencies since the start of 2018) but it is not submitted.Is there any new changes in rules here?I did the 'air gapped' method of creating a new wallet and sending my portfolio there and haven't actually looked at my balance from the wallet itself while being online. LoLThe team from **DAO PlayMarket 2.0** (PMT token) is attacking a $20 billion Android market ([source](https://techcrunch.com/2017/03/29/app-annie-android-to-top-ios-in-app-store-revenue-this-year)) by providing the first decentralized Android app store based on crypto including a revolutionary built-in ICO platform for developers, which no competitor offers  [(whitepaper)](https://ico.playmarket.io/#whitepaper).
+
+
+With all the markets being down currently, the DAO Playmarket token (PMT) is now trading 30% to 60% below ICO price on Etherdelta: 
+
+[https://etherdelta.com/#0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-eth](https://etherdelta.com/#0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-eth).
+
+ICO was 0.12 to 0.2 ETH ([source](https://cryptoslate.com/coins/dao-playmarket-2-0/))
+
+
+
+Even better, seeing that the PMT token was already **submitted for listing on Yobit, Bittrex and Bitfinex** [(twitter)](https://twitter.com/en_playmarket2), I am quite bullish even on the short term, as this will attract an even larger crowd and this project is currently not widely known at all. Long term, if the team can pull this off and cut out a slice of this massive mobile market for themselves, this is an even more interesting project, especially since there are only 3m tokens.
+
+
+What are your thoughts on this project?
+
+[https://ico.playmarket.io/](https://ico.playmarket.io/)
+
+
+Cons I can see:
+
+- Not known or established yet, major marketing campaign needed (but already planned according to whitepaper &amp; roadmap)
+
+- Serious competing Android app stores out there (all non-crypto based though)
+
+- Developer App listings not known yet (part of marketing campaign with major incentives for developers compared to other stores)
+
+
+Pros from my perspective:
+
+- Project is past concept stage with a fairly large team &amp; advisors
+
+- Solid, partially accomplished roadmap and funding available
+
+- Very attractive to app developers, which in return foster decentralized growth of the project without having to hire and pay developers (as app developers work independently and contribute to the attractiveness of the platform)
+
+- Team with experience also in the Asian app market  where crypto is booming
+
+
+As with every post  do your own research and draw your own conclusions! This is not an investment or financial advice or recommendation and I am not affiliated with this projects team. I am very excited for them and hope they will succeed, all the best to them.
+
+
+Now, having shared my thoughts and what I understood from the project, I am curious to hear your thoughts on this project.
+
+Edit: added one more ConsNewest Members The Enterprise Ethereum Alliance connects Fortune 500 enterprises, startups, academics, and technology vendors with Ethereum subject matter experts. With over 200 member organizations, the EEA is the world's largest blockchain initiative and we've recently welcomed over 80 new members!
+
+8base Inc.
+
+ADS Securities
+
+**Advanced Micro Devices (AMD)**
+
+Amberdata
+
+Ambrosus Technologies GmbH
+
+American Family Insurance
+
+Apical IT Solutions Ltd
+
+ArcBlock Inc.
+
+Artisan Productions, Inc.
+
+Asset Token
+
+B9lab Ltd
+
+Berkeley
+
+Beyond Manufacturing
+
+Bitdegree Blockchain Learning Foundation
+
+bitfly gmbh
+
+BKX Corp
+
+Blockchain Association
+
+Blockchain Research Institute
+
+BLOCKSKYE INC
+
+BlockTech Ventures
+
+BlueMeme Inc.
+
+Brane Inc
+
+CharityStars.io
+
+CipherTrace
+
+Circularise B.V.
+
+Coinvest
+
+Comae Technologies
+
+Confideal Limited
+
+CountyBlock
+
+Crowdz
+
+Cryptica Capital
+
+Current
+
+Digital Treasury Corporation
+
+Element ASA
+
+Epiq Systems, Inc.
+
+**Ernst &amp; Young (EY)**
+
+Eth Capital Asset Management &amp; Hedge LLC
+
+EUPSProvider s.r.o. (Worldcore)
+
+FedChoice Federal Credit Union
+
+Golden Gate University, Law School
+
+HADE Technologies LLC
+
+Hefei Institutes of Physical Science, Chinese Academy ofSciences
+
+HM Government of Gibraltar
+
+Hodlion.com
+
+identitii Pty. Ltd.
+
+IGNATIUS COBB
+
+Indian Blockchain Council
+
+Industrial Technology Research Institute
+
+Innodata
+
+**Kaspersky Lab**
+
+Law Offices of Nathan Mubasher
+
+Marquette University
+
+matrics.io (formorly Frost Fire)
+
+Monetha GmbH
+
+MTRM Industries Ltd. ("Mattereum")
+
+NAFCU
+
+Oaken Innovations, Inc.
+
+OriginTrail Ltd
+
+Peregrine Foundation
+
+Petroteq Energy
+
+**Pfizer**
+
+Quisitive
+
+Ripio International Ltd
+
+**Royal Bank of Canada**
+
+SEAL Network
+
+**SK Telecom**
+
+SmartKargo
+
+SmeSavings
+
+Spherik
+
+Steptoe &amp; Johnson LLP
+
+Tesla Foundation
+
+The Abyss
+
+The Ananas Foundation
+
+The BlockchainHub
+
+The Institution of Engineering and Technology
+
+thecoinlab ltd
+
+Transcosmos Inc.
+
+TransformationWorx
+
+UnionBank of the Philippines
+
+United Traders
+
+UNIVERSAL COIN INTERNATIONAL INC
+
+Viberate d.o.o.
+
+XAIN AG
+
+XinFin Fintech Pte. Ltd
+
+Zap
+
+Zenoic Pty LtdCan anyone think of any possible valid reason Tether doesn't release an audit immediately? I can't think of a single one. I like to know how's your strategy for investing money into Ethereum. I want to get a basic idea of what the plans are people currently making.
+
+* Is it a long-term investment? Or just short-term trading? If it's long-term, are you following the chart's every day, or is it just like putting money into Ethereum, holding it and never look back? Or other strategies?
+* What's the scale you invested? 100, 1000, 100k? Or even more?
+* Are you just mining? Are you just interested into the technology Ethereum is providing you?
+
+I'm recently more interested in Ethereum but I haven't invested any money, so I'm very curious to hear from you. From the point of view of a programmer like me Ethereum is a very interesting technology. Since I'm not an financial expert with no investing experience I'm very curious how you deal with money regarding Ethereum.Bitcoin's small bounce ready for a break through support, Ethereum as it may decouple from Bitcoin's drops, Bitcoin Cash and Neo as they consolidate and Cardano as it moves to retest support levels.
+
+https://steemit.com/cryptocurrency/@matthew-analysis/daily-crypto-analysis-31st-jan-technical-analysisHi, I'm new to cryptocurrency and I recently bought some ether, I have it in exodus and would like to send it to parity. How do I do this? where do I find my receiving address in parity? Thanks!The Tether FUD is overblown and doesn't make much sense. The entire basis of the Tether FUD comes from a random anonymous Twitter account, Bitfinexed, that seemed to have a personal vendetta on Bitfinex...
+https://steemit.com/cryptocurrency/@kjnk/why-the-tether-fud-doesn-t-make-sense-and-we-are-getting-manipulatedAm I right in assuming that the flippening is most likely going to be caused by Bitcoin's market cap lowering and meeting Ether's somewhere in the middle rather than Ether's market cap just straight up catching and overtaking it?Front running is becoming a major cause of mistrust in the cryto community. Most of the orders placed in the exchange are manipulated and we end up paying higher fee. This needs to stop and exchanges have to be more clear with their operations.The original version works just fine and is honestly genius. Dividends are paid in ETH and are still strong and for some reason the price is the ONLY price stable coin right now. For some reason all this Tether thing did not really effect this 3 days old coin and the price is rock solid. https://powhcoin.com
+
+Well enough shilling (had to make a clear distinction), now to the bad news. The dev made a clone that includes more fees (and has fees when you sell and not only for buying). After a few hours it had almost as much ETH as the original in the contract but now a bug in the shadow contract (not the original one!) made all ETH in this clone stuck forever. https://powhcoin.com/shadowfork.html
+
+Original: https://etherscan.io/address/0xa7ca36f7273d4d38fc2aec5a454c497f86728a7a
+
+Clone: https://etherscan.io/address/0x9f4fd6c336388f2ab7dc7bbe4740ae7b88b880d7
+
+Let this be a lession for you guys. Smart contracts can have errors and every change to it, no matter how small, can fuck everything up.So...  I got an email saying an unrecognized device had logged in to my HitBTC account.  Nice of them to notify me, except that I never signed up for one, so this made me nervous.  First, I assumed the link was just a scam, so I didn't click it.  I hovered over it, it looked weird, so I just went directly to www.hitbtc.com and typed in my email and clicked password reset.  If I have no account, that shouldn't work, problem solved.  Well, it did work, sort of.  They sent me a password reset link, and my stomach sank a bit, thinking... fuck, my identity has been stolen.   
+
+Next, I reset the password to a unique difficult password because I'm still skeptical.  All good.
+Then when I go to sign in with that password, it says...   "THANK YOU FOR SIGNING UP" and that they had sent me a confirmation email.
+
+
+So... is this how hitbtc is getting people to sign up?  I mean, they don't have anything besides my email and a bogus password, so...   what the hell just happened, any ideas?Hi there, anyone can provide a link to a tutorial for writing your own trading bot on, say, gdax for example?
+
+Language doesn't matter,  I'm a software dev so I can pick up any language easily. What I need is basically an api tutorial, maybe even an example of how to write a simple bot and how to run it.
+
+I'd like a tutorial that walks you through writing one from scratch, not one that makes you download a bunch of frameworks and you just tweak the bot performance. Any hints welcome!Wow! I came accorss this referral program by Nucleus Vision that is giving way 1,000,000 nCash. Is that true?The blockchain technologies make Betrium open, resistant to
+hacking, and therefore a safe environment. Betrium is the first to
+offer the following key-features:
+ Worldwide;
+ Worldwide money deposits and withdrawals;
+ Worldwide support (for 25-30 countries);
+ All the sport events all around the world;
+ Volatility Stabilization  balances will be fixed in the
+virtual USD/EUR, so users are protected from loosing in
+regular crypto currencies' dumps by integrating
+exchange functionality.
+ Event Organizers Platform  we offer a unique
+creation platform for event organizers. The platform
+gives opportunity to create events (and particularly
+cyber sport streams) and make profit on betting using a
+powerful blockchain technology.
+ High Commissions;
+ 0-1% fee on money deposits, withdrawals and
+winnings;
+ Support of Popular Crypto-Currencies;
+ ETH, BTC, LTC, XZC, DASH.
+ Taxes Issue  Betrium can't take taxes due it's nature;
+ Fast Bets Processing  Bets happen off-chain.
+ Open API  Betrium provides a public API for
+developers and encourages betting bots, third-party
+apps and betting service providers.Hi all of you,
+
+Of course, this question is asked a trillion times before, but imma do it anyway.
+
+You see what happened with BTC, ETH, NEO etc, some big boys who climbed the markets to high heights. Now my question is; why did these coins actualy got their value? And please dont just answer as Offer - Demand :).
+
+My next question; what are you hodling now and what would you suggest in buyin in before it is too late! But most important, WHY are you hodling, why you think it would increase in value significantly? (Mostly looking for -$50 coins)
+
+Thank you in advance!Announcing the SWM Airdrop. Everyone who registers on the Swarm platform this week (until 4 Feb) will receive an Airdrop of 100 SWM tokens in their wallet. #SWM https://swarm.fund Tokens will be airdropped within two weeks of the end of the promotion (by 18 Feb). Get to it!Hi, I have my app released in beta format. Im looking for people who would be interested in using an app that posts breaking news such as tweets, reddit info and news from other sources that can affect us crypto day traders.  
+
+The app allows any and all users to also submit news which is immediately peer reviewed and pushed to the full audience if approved. This allows us to create a large network of well informed people we can pool information from and help everyone stay ahead of the game. 
+
+If you're interested we need android beta testers right now, the iphone version is done and will be needing beta testers for that soon to if youd like to message me about that, but android first.
+
+If youd like to be part of the project in other ways you can message me regarding that also.
+
+Thanks guys. 
+
+Also feature suggestions that can help day traders are always welcomed.https://gfycat.com/defenselessmiserableiberianbarbel
+
+Someone else posted this here, I thought it was appropriate to resurrect.Vitalik Buterin is 24 years old today, and even though I'm about a decade older than him, I really look up to and admire him. He has dedicating himself to a cause that is so much bigger than himself or any of us. There aren't many 24-year-olds who would do that, especially if they had the kind of money he has. He isn't in this for the money. He wants to help people and make the world a better place. I believe Ethereum is going to change the world. It will lead to a tremendous amount of economic growth and provide incredible opportunities for everyone, including the very poorest on the earth. All of us, as investors, are very fortunate to have Vitalik as a visionary/thought leader. I'm indebted to him for how this investment has changed my life. Long live Vitalik! Thank you and happy birthday!Posted this to /r/BitcoinCA as well, but figured I'd spread the word to warn ETH buyers too
+
+You can search reddit for "Kraken CAD wire" and you'll get many threads of people with issues varying from long wait times, ignored tickets, and surprise fees when the funds finally go through
+
+I wish I had done this search prior to sending them money. I used them over a year ago when they still had EFT as an option and I naively thought that things would be more or less the same. I am still here waiting for my funds to get to my account despite the money being taken from my bank three weeks ago. Sent a ticket and escalated it twice now, still nothing
+
+Don't make the same mistake I didThat sounds shitty and I know, Im not even a decentralize everything in the world or libertarian  fanatic type of guy, I had a lot invested at ripple at one time and it wouldve been better for me if it mooned.
+
+But holy Fuck the community surrounding it and downing on ethereum and talking about how its shit and all of ethtrader is fucking stupid, especially when it passed market cap. it got me really pissed. They were all flaunting around like they were a bunch of geniuses and then it tanked and Im honestly happy about it, even if it made me lose some money its a great feeling.
+
+Sorry for the random post but really thoughIf 1 million people each invest on average $100 in crytpo that is $100 million USD flowing in. What is the real life impact on marketcaps?  Far greater than just a $100 million dollar marketcap gain spread out right?  Any economics specialists want to chime in?BTC just dropped below $10k and if you look at charts on flippening.watch you see ETH's marketcap is slowly creeping up to BTCs (62% currently but only 33% on January 1st) and the flippening might happen soon. The market cap difference in percentage has been as high as 83% in June of 2017 but then both coins were still up and coming and now BTC seems in decline. The ETH/BTC trading pair has also been mostly positive during the various dips the past few weeks. 
+
+At what flipping point (e.g., 80%) BTC traders will become aware that the flippening is imminent and then trade their BTC for ETHs which will then further exacerbate the flippening? ETH dethroning BTC as largest crypto will likely get more people to invest in ETH and the difference in market caps will expand very quickly if a flippening happens, I assume. This is kind of a strange event that has not really happened before (BCH never overtook BTC). Its all speculation at this point but would like to hear your ideas/ opinions.Welcome to the Daily Altcoin Discussion thread of /r/EthTrader. 
+
+***
+
+The thread guidelines are as follows:
+
+-  All sub rules apply here so please review our **[rules page](https://www.reddit.com/r/ethtrader/about/rules/)** to become familiar with them. The rules page is also linked in the announcement bar above.
+-  This thread is intended as a welcome place for discussion of all non-Ethereum related crypto.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+Welcome to the Daily General Discussion thread of /r/EthTrader.
+
+***
+
+Thread guidelines:
+
+-  Please refrain from discussing non-Ethereum related tokens here. You are welcome to discuss altcoins in the Daily Altcoin Discussion thread.
+-  All [sub rules](https://www.reddit.com/r/ethtrader/about/rules/) apply here so please be familiar with them.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+When will we see private transactions enabled on Ethereum? I hate knowing that my coins are being tracked by gov agencies. What's the mood out there?
+
+BTC is at $8,800 ... ETH is not entirely immune but is holding up well.
+
+15 days ago I said I thought we were in a bear market and got downvoted in oblivion, even though I also said ETH would be attractive to accumulate at lower levels. 
+
+In December, I said I expected BTC to fall to $8,800 and even lower after that.
+
+Do more people acknowledge that we are in a bear market? Or do people think this is a short-term January dip? What's the overall sentiment?
+
+Obviously, it will be time soon to start accumulating. But if there's still bullishness in the market, that means we could still go lower. I think we need to reach outright despair before we reach bottom. Nucleus vision(Backed by Tim Draper) - An IoT-based contactless identification system is announcing an airdrop event!!
+
+Please fill out this form to join the event!!
+
+https://nucleusvision.typeform.com/to/zTNk0t
+Please register with a valid email address you access regularly
+For Telegram community members, enter your Telegram user ID, with which youre following either our Telegram discussion channel or Telegram Announcement channel
+For Reddit community members, enter your Reddit user ID, with which youre following our Reddit channel
+Please enter your ERC-20 compatible Ethereum address
+To successfully obtain the AirDrop tokens, you must have an ERC-20 compatible wallet address from MyEtherWallet, MetaMask, Ethereum Wallet, Mist, etc. (Please note that we will NEVER ask you for your Private Key or for any donations from you in order to receive the AirDrop)
+The form for AirDrop entries as linked above will be open for a duration of 14 days from 27 January 5:30 PM PST.
+You look at the entire crypto space and you look at what other products have the liquidity and the notional size, a derivative makes sense, Chris Concannon, Cboes president and chief operating officer, said on Jan. 17 &lt;https://www.bloomberg.com/news/articles/2018-01-17/don-t-expect-the-crypto-futures-revolution-to-stop-at-bitcoin&gt;. He gave a caveat: **Cboe wont introduce other crypto-derivatives until its futures exchange starts using the trading software acquired last year from Bats Global Markets. That upgrade is scheduled for Feb. 25** 
+
+I was in their Telegram group and the team said they would be launching Q1 2018 in China. I made a simple info-graphic to compare - https://imgur.com/5dunkCl - Thoughts?A few hundred thousand people in the GTA at least just heard that message.
+
+Here's hoping they flip the right side of the coin and dive into ETH!
+
+I can't believe they suggested DASH... isn't it illegal to give out investment advice over the radio anyways?Has anyone had any problems during high-volume moments, being able to submit and process immediately a market order using Kraken's standard interface ( not the cryptowatch one ) ? Does it execute orders immediately using this method ?
+
+I am leaving the cryptowatch interface aside, it is a total fail for precision trading.
+I'm personally fan of GNT, BAT, REQ and FUN tokens... I'll be buying more of them now that the market  
+plummeted but I would like you guys to recommend me more projects to do some research.
+
+Thanks in Advance.A look at the dramatic events of today's market. Areas to look for in BTCUSD for a possible longer term bear market. A look at Ethereum's strength and an overview of BCH, NEO and ADA's lack of strength.
+
+https://steemit.com/cryptocurrency/@matthew-analysis/daily-crypto-analysis-1st-feb-technical-analysisNo, really, I'm interested. In fact, would like to write an article about it. What are the real reasons why something as basic as protecting your KYC list is so hard? Why can't an ICO team funnel guaranteed contributions through a given time period so as to avoid gas wars and transaction congestion? Why can't the marketing people somehow get it through naive investors' thick skulls that they shouldn't click on links from emails?
+
+In other words, why can't someone just run a token sale with a degree of competence? (And feel free to suggest those that have...)During the last month we've seen a huge market correction, yet ETH is still doing fairly well and improving it's BTC ratio. Shouldn't most ERC20 tokens see the some of the same stability? Just seems like what is good for the goose should be good for the gander.1)  Declare that you might make crypto illegal, or vaguely refer to a possibility that legislation will make it hard to use / mine / sell / profit from.
+
+2)  Have your citizens panic sell, thus brining a huge fiat influx into your citizens' pockets, thus a) increasing your tax revenue downstream and b) increasing spending in your country as that money burns holes in peoples pockets.
+
+3)  Profit.Hi,
+
+I live in California (unfortunately), I was wondering if in the US, you get tax both @ Federal &amp; State level for any capital gain you've made during 2017?
+
+IF so, I understand that Federal has bracket which depends on your income + capital gain, what about the state (especially California)?
+
+One last thing, to pay those capital gain tax, would you rather :
+
+* Take a loan
+* Cash out your BTC/ETH
+
+Thanks yallI bought into iexec (RLC) at .55CAD so this isnt a plea for my mortgage being gambled or anything. Im Still up but wondering if anyone else is worried that the complete lack of marketing and low volume trading is a bad sign for future growth?
+
+Im 75 %Eth
+10% RLC
+10% OMG
+And 5% zrx 
+
+right now wondering if I should take my constantly dwindling profits on RLC and put them into omg. I know the fundamentals havent changed but theres so much red lolHonestly, I have had it with alll the "kill BTC-XRP-BCH" subscribers over here.
+You guys just do not get the big picture.. ETH this, ETH that, kill BTC or whatever crypto except ETH.
+What we need is crypto to get adopted, Be it BTC, ETH or Ripple,
+Some people love a Volvo, another person loves a Nissan.
+Please stop putting other Crypto than ETH down,  we do not want a community  as toxic as /r/btc or /r/bitcoin, come guys and galls , you can do better!longtime eth hodler here- just wanted to get some feedback from the community. I have access to custom minting silver bullion designs. I was curious if there'd be any interest in 1 oz silver bullion w/ the Ethereum logo stamped on its face?
+
+Because of marginal costs, i'd unfortunately be unable to sell at spot price so what would be a reasonable premium over spot for this? Strong ETH + cheap alts = free money.  As much as I love my ETH, trading a lot of it for solid alts today (BAT nomnom).  This feels like an episode of Supermarket Sweep.
+
+https://i.imgur.com/36YXoI7.gifThe main point is bitcoin needs to basically die so that there will be less emphasis of BTC pairings and the crypto space can flourish.
+
+I understand the BTC pairing point, especially since my alt coins and even etherium would dip with bitcoin, but my question is, if etherium overtake bitcoin, how does that influence the market as a whole and other alt coins?
+
+Besides more money from bitcoin going into ETH and other coins, how will that influence other people into investing into crypto when theres so much omg bitcoin going down. Bitcoin this bitcoin that Importance?
+
+I for one want bitcoin to fall just because I hate seeing how much my alt coins would suffer because bitcoin FUD. Theres so much more to crypto than bitcoin, but it seems like outsiders dont see it that way.
+
+Would the flippening help market cap reach previous levels of 700-800+ billion market cap?
+I've withdrawn eth from Bitstamp (to coinbase) dozens of times with no problems. However, this morning I transferred a larger sum of money. Transaction confirmed quickly and bitstamp gave me a txID, but the ID is not coming up on any blockchain explorers. This was hours ago.I couldn't do it anymore, there's been too much FUD in the news about the flippening recently so I had to sell all of my stake.... In BITCOIN!! Hodling on to my ETH till we die, let's ride boys!Hello
+Has others tried out this app from this big company
+Looks to me like the only way to get Eth into and out of your  DeVere Crypo   wallet is by fiat currencies  you are not given a Eth send and receive blockchain address fro lodging Eth
+What's the point of the app soleading title, sorry.
+
+one would think that eth is about to pump hard. 
+
+"stable coin OG" all alts are falling.Yes, I am that stupid person who converted ETH into BCH twice and lost 50% of the ETH. 
+Not touching ETH is the mantra !!Maybe people don't want to give away their trading strategies if they are working, but any suggestions other than just HODL and wait it out?
+
+I tried scalping based on the 1 and 5 min charts, and it's an easy way to make 1 or 2% quickly a few times a day, until the market moves against you, so I don't think that's for me.I read [the following article](https://www.bloomberg.com/view/articles/2018-01-31/bitcoin-is-the-new-gold) by Noah Smith, who is a smart guy whose analysis I generally like. 
+
+In it he outlines three reasons to be sceptical of bitcoin as a currency, and one reason to be cautiously optimistic of it as an investment. While he is talking about bitcoin, everything he writes is more or less true of other cryptocurrencies too. To summarise, he points out bitcoin's high transaction fees, and long confirmation times, but also acknowledges those are things that can be fixed with time  if not by bitcoin then by other cryptocurrencies. He then goes to argue that cryptocurrencies will never replace fiat because if they are a good investment, they will not be useful as a currency, and vice versa  the US dollar is a terrible investment but a good currency, while Apple shares might make good investments, but you wouldn't want to be paid in them, due to volatility. He ends the piece by stipulating that even though crypto might never be used as currency, it might still hold its value, due to sheer willpower of those who believe it has value (he draws a parallel to gold, which isn't unreasonable). 
+
+The reason I am more bullish than Noah Smith  and he is by no means a  bear  is that he seems to be missing an alternate use-case for cryptocurrencies in general, and Ether in particular. I can imagine a scenario where international bank transfers are replaced by Ether transfers. With the right technical innovations transaction fees would be lower than bank transfer fees, and the transactions could be completed faster. If I visit a friend in Hong Kong, and I want to split a bill, I can imagine a future in which I buy Ether in own currency, transfer ether, and have them sell ether to their local currency, much more easily, and cheaply, than an international bank transfer. In addition, of course,  and so far everything I've said would apply to all crypto currencies  Ether has the use case of smart contracts, and even if Web3.0 doesn't take the world by storm, there is likely enough of a use case to keep Ether's value to something reasonable.
+
+In an attempt to prevent money laundering and other illegal activity, South Korea has placed a ban effective 30th January 2018 on all cryptocurrency trading using anonymous bank accounts. Additionally, this move is expected to also increase the transparency of cryptocurrency trading in South Korea.Lots of people are fearful that the bug will be replicated on other ER20 tokens and are getting rid of them.  The panic hurts my portfolio.I have been getting error codes when placing orders on cryptowatch recently that are not listed on their [Trading Interface Errors Page](https://trade.kraken.com/docs/trading-interface-errors#911) for the past couple of days.
+
+The most recent error code I received was 911. 
+
+Curious if anyone else has noticed this (especially on ETH/BTC orders)Is it necessary to make a MEW account if Im holding ETH in coinbase for a year or longer? What is the purpose of making a MEW account? Im sorry if these are really simple questions. Thanks!For more details you can check out their medium: https://medium.com/legolas-exchange
+or their discord https://discordapp.com/invite/RATv9AVHey guys,
+
+A few months ago we released an initial version of this extension, but we have now improved it and fixed some bugs that have been turning users away initially. We are posting again as we would love to hear some feedback from you on this new and (hopefully) bug-free version.
+
+XTND is an open-source and secure tool that let's you easily tip or give gold to reddit user's with ETH directly. Here is an example of how reddit posts will look like with the extension installed: https://blog.decenter.com/wp-content/uploads/2017/11/unverified-post.png
+
+For more details, check out our [blog post](https://blog.decenter.com/2017/11/14/extend/).
+
+Source code is available on [Github](https://github.com/DecenterApps/Extend) and extension can be installed directly from [Chrome web store](https://chrome.google.com/webstore/detail/extend/babconedajpngaajmlnnhpahcladpcna)
+
+Looking forward to hearing your thoughts! :)
+Coinbase has sent many customers a [1099-K form](https://support.coinbase.com/customer/portal/articles/2721660), and I'm surprised it's not being discussed more.
+
+I have also received one, and would love to get a thoughtful discussion going. 
+
+My form claims that I earned several magnitudes more than what I actually did, and I understand that's true for most others so far. 
+
+Box 1a appears to report the gross aggregate for all USD transactions received. For instance, if I bought 1 BTC at $1000, and sold it for $1100, then Coinbase would report $1100 in box 1a. Do I have this correct? It's the only way I can make sense of the form. Otherwise it's clearly false.**ConsenSys, a global player now well established in Europe, has been selected as partner to support the EU Observatory's outreach in Europe** following a call for tenders &lt;https://ec.europa.eu/digital-single-market/en/news/eu-blockchain-observatory-and-forum&gt; launched last year. As an important actor in the blockchain community, ConsenSys will bring strong commitment to blockchain development, solid expertise and connections with the global blockchain ecosystem, and an entrepreneurial approach to engage with stakeholders and experts in the EU and worldwide. It will work in close cooperation with Commission services to run the EU Observatory and Forum, after having signed the contract on 29 January 2018.
+
+http://europa.eu/rapid/press-release_IP-18-521_en.htmI think the writing is on the wall here. Bitcoin shouldn't be the main trading pair and Ethereum's up 10% in the last 24 hours over Bitcoin.
+
+I'm going to be bold: I think Ethereum will overtake Bitcoin in market cap within 72 hours. I think we're going to see a slow building and once it's within 90% or so, it'll just make a bull run and the two will switch incredibly quickly.Sp8de is a protocol for decentralized blockchain based platform with multiple features that are essential for the growing blockchain gambling industry and whose solid implementation is lacking in any of the currently existing projects in this space.
+
+Token Utility
+Software license
+Getting access to the universe of applications just requires you to own the native token of our system, SPX.
+Gaming Chip
+Betting within Sp8de ecosystem is done only using SPX. By owning SPX, you share a part in protocols success.
+Royalties
+SPX is used to reward the developers fairly on the protocol level.
+
+Wallet
+The Search Engine of Gaming
+Spade is a platform for developing decentralized casino applications.
+Inspired to Create
+Spade is decentralized marketplace for gaming with no frictions and no barriers to entry.
+White Noise Powered Fairness
+Voting mechanism is implemented on the protocol level: the rating of an application reflects the true consensus of the stakeholders and is immutable.
+Legally Complient
+Spade is intended to be fully compliant with all the required regulations.
+
+Blockchain
+Decentralized 3.0
+The backbone of Sp8de, the Cardano blockchain is the first Proof-Of-Stake protocol without security compromises.
+Scalable and Efficient
+Tens of thousands of transactions per second: no user experience constraints.
+Sp8de Smart Contracts
+Smart-Contracts scripting language that was specifically designed for this.
+Here is the bug 
+
+https://www.reddit.com/r/PoWHCoin/comments/7ugtxf/what_happened_next_step_forwards/
+
+Does anyone has any idea what is affected by this and how this can be abused?Gilgamesh is a knowledge-sharing social platform powered by Ethereum smart contracts and blockchain technology. The network shifts the way readers, critics, and authors communicate and connect with one another.
+
+Using the Gilgamesh platform, users can gain and transfer knowledge in a protected environment that encourages widespread learning and education, and incentivizes the human race to become more thoughtful and information-centric.
+
+Productive interactions and engagements on the Gilgamesh platform earn users GIL Tokens, on the Ethereum blockchain through smart contracts. They can spend GIL tokens on in-app goods and services, or to vote on the governance of the platform.
+
+Gilgamesh Social App
+The first-ever knowledge-sharing social network platform based on Ethereum blockchain
+Social
+Connect, engage, learn and share knowledge with book readers &amp; authors
+Secure
+Sensitive data is encrypted and securely stored on IPFS and Ethereum smart contracts
+Privacy
+No censorship, sensitive information is securely stored on decentralized &amp; distributed network
+Simple
+Clean, simple, friendly, and cohesive user experience removes cognitive load on book readers and authors
+Earn
+Receive ERC20 GIL tokens for meaningful platform contribution &amp; engagement
+Purchase
+Spend GIL tokens to purchase books and services
+**Intro**
+
+* Hello, 
+* my name is Ozzak Jure Matich, I live in Ireland, and I joined the revolution last summer. 
+Im a crypto enthusiast and firm believer that Bitcoin will change the world. When I started trading I choose Kraken to be my main exchange because of leveraged trading and because Kraken had a really good reputation and I believed Kraken is more trustworthy than other exchanges. And I stuck with Kraken even thought user experience on the site was terrible at times. What a mistake that was.
+
+**10th** **of** **January**
+
+* On the 10th of I had 2.14 BTC on my trading acc and I had 2 open LONG positions on EUR and USD pairs both. When the Korea FUD started (11th of Jan around 4am) I flipped my EUR position, I sold all of my BTC and I was just about to flip my USD position when the Kraken site went down with no warning what so ever.
+
+**Down** **time** **** **11th-13th**  **of** **January**
+
+* How unprofessionally and poorly Kraken handled the upgrade that was supposed to be 2 hours and ended up being 2 days you can see on the here: https://status.kraken.com/incidents/nswthr1lyx72  https://www.reddit.com/r/ethtrader/comments/7qcj9u/why_kraken_is_an_unsafebad_exchange_and_why_you/  
+And during this 2 days I was surprisingly calm and chilled because I believed that Kraken isnt doing an exit scam and that my funds are safe.
+Even thought I had an open long position that I didnt want, and that I couldnt close.
+
+**Back** **online** **-** **13th** **January**
+
+* When the site came back online I was -2 000 on my USD long position and -2000 on EUR story position. I dont need to tell you I would never put myself in this situation if I could log in normally.  So I decided to wait a bit and see what the price does, before I start closing anything.
+
+**BUG** **time** **-** **15th** **January**
+
+* I decided to take some loss and close parts of my positions just to reduce the risk. And I went ahead to close 0.5 BTC position and I was supposed to lose about 200 on this but instead of 200 I lost 24.82 and 0.43989 BTC (about 5700 at the time), and than another 0.1 BTC = 0.53989 BTC lost to the bug.
+	Trades no. TN3GFZ-MUTQZ-UUEGJT and TLAROT-6QQCT-D7K7VB, you can see the screen shots here: https://postimg.org/gallery/23wckpjj0/629bad23/
+	Of course after that I did what you are supposed to do when you find a serious BUG, you contact support and wait for instructions. What a mistake that was.
+
+**Support** **time** **-** **15th** **-30th** **January**
+
+* I contacted Kraken support Ticket #1369001, I managed to get my ticket escalated quite fast. I was contacted by Mr. Jochen from Kraken customer support quite fast I must say.
+* But here is where real problems started.
+	Jochen sent me 2 emails on the 15th, Jan but he didnt answer not one question I had or gave me any useful information. He just said: We have identified the issue and hope to resolve this as soon as possible.
+	My main question was: **What do I do with my open positions?**
+	Theres a bug If I closed my positions I would get completely liquidated. Jochen completely ignored me and he answered my question on the 30th of January saying: The bug is resolved and you can close positions without issues. Thats 15 days to late. If I closed the positions on the 30th I would have some 0.3 BTC left on the account. 
+
+**E-mails** **-** **15th** **Jan** **-** **1st** **of** **Feb**
+
+* During this time I sent over 30 emails to Jochen and Robert from Kraken customer support.
+Robert didnt replay not even once. And Jochen sent me 3 emails. 2 on the 15th saying that they are on top of the problem and 1 on the 30th (15 days to late) saying that I can close my position (and get liquidated).
+	You can see his emails here: https://postimg.org/gallery/1u0tompss/ 
+	And you can see some of my emails here: https://postimg.org/gallery/33nm6p924/ 
+	My emails for the first few days were: What do I do? **Can I close my position?** and then after they were just: Can someone please answer me?
+	
+**Summary** **1st** **of** **Feb**
+
+* I had  2.14 BTC before the Kraken went down
+* I lost  24.82 and 0.53989 BTC directly to the BUG
+* I lost another 10 436.01 and 0.1172BTC indirectly to the BUG (couldnt close for 15 days)
+* And I lost some 0.3 by my own fault trying to trade without margin (has nothing to do with bug, I was panicking, and Im not expecting to get this bit back) xD
+* After closing all the positions I have 1880 or 0.25BTC at current prices left on my account.
+
+* Witch makes my **total** **losses** **to** **the** **BUG:** **~1.6BTC**
+
+**Questions** **for** **Kraken** **staff:**
+
+* Can I please talk to someone**actually** **talk** **back** **and** **forth** **conversation???**
+	Why didnt you answer me for so long?
+	When will I be reimbursed? And in which currency?
+	Will I be reimbursed for indirect loses as well?
+	Theres only a small number or people affected by the bug, why is this lasting for so long?
+	WHERE IS MY MONEY ??
+	Will I have to wait for another 15 days for your answer?
+	Can someone please answer my questions finally?
+	I did everything by the book, I found the BUG, I reported it and I waited for your instructions. Was I supposed to lose my funds to the BUG on purpose?
+
+**Other** **People** **affected** **by** **the** **BUG:**
+	 /u/Meteorite777, /u/dofarian, /u/Stark2019, /u/traderjoesmo and /u/yunglymedisease
+
+**Kraken** **Staff** **Im** **expecting** **some** **answers** **from:**
+	/u/kraken-tyler, /u/jespow, /u/kraken-jpj
+
+**EDIT:**
+
+* Ill update the topic how the story evolves
+* Id appreciate an upvote for visibility. Thank you very much
+
+Ozzak Jure Matic
+1st of February 2018
+
+
+* ps.
+posts from other people affected by the BUG
+please upvote all of us:
+https://www.reddit.com/r/btc/comments/7q8um2/psa_major_kraken_bug_resulting_in_missing_funds/
+https://www.reddit.com/r/ethtrader/comments/7q8pe7/major_unresolved_bug_with_kraken_please_upvote/
+https://np.reddit.com/r/ethtrader/comments/7qcj9u/why_kraken_is_an_unsafebad_exchange_and_why_you/
+
+
+
+* EDIT II:
+the post is being down voted by the Kraken people I'd sad... (why would anyone else down vote this post?) 
+please upvote to counter....
+
+**UPDATE's**
+
+**UPDATE I. -**
+https://www.reddit.com/r/ethtrader/comments/7ui3gk/kraken_bug_how_kraken_exchange_destroyed_my_acc/dtldask/
+
+This is the latest comment by /u/kranen-tyler 
+
+**HOW** **IS** **THIS** **FAIR** **???**Just got an [email](https://imgur.com/gallery/9s0Ta) from coinbase. All credit cards transactions are most likely considered as a cash advance.
+
+This puts a wrinkle in my current plan of buying ether by dollar cost averaging. I usually buy eth, every two weeks using my credit card. We can't use debit card here in Canada. So Coinbase is totally useless in Canada !!!!
+
+I don't believe there are other options in Canada where I get to buy crypto every week for amounts less than $20. 
+
+Definitely a blow to Canadian customers. Banks fighting back I guess!!!!
+
+
+
+
+
+EDIT1: You can use a Mastercard/Visa debit card...But that has its own additional fees too!!!The Bee Token ICO has somehow leaked everyones Emails and potentially ID's. Apart from the obvious scam, this leaves you vulnerable to identity theft, especially in regards to any funds you may be holding on exchanges! 
+
+Edit: Some links
+
+1. https://blokt.com/news/bee-token-ico-hacked
+2. https://www.reddit.com/r/beetoken/
+3. The attackers addresses: https://etherscan.io/address/0x2A6D8021861f27aB992572D8689017b7A83C989D
+4. Second address https://etherscan.io/address/0xe336327426b8f95A5F5eB1f74144fD9065069C28It has been 2 weeks almost now since I signed up and Eth is dropping. I need to buy some right now and this is getting frustrating. Anyone else's verification ever take this damn long?The 200EMA is at 568.23USD and we only dropped to 726.43USD which means we're still overvalued according to those calculations. The SMA which doesn't weigh as much on the recent movements puts the 200DMA at 481.26USD which should be a huge bouncing point for ETH. I still believe we're going to see something between those numbers sooner or later during this bear market.
+
+BTC dropped to -2,65x from ATH and ETH hasn't dropped lower than -1.95x. BTC should be more resistant anyways due to it being number 1 and also a honey badger so we're probably in for a bigger ETH drop than what we've seen. It's still 245USD from the 200SMA. The market doesn't care anyways.
+
+Not trying to spread FUD, I'm trying to provide some simple Technical Analysis. Remember to always watch the benchmark (which at the moment is BTC) and that a healthy market is a better market.
+
+Edit: This subreddit really needs to calm down. It's about trading ETH right? So input from both sides should be useful.The "price" of eth isn't changing as rapidly as many these posts seem to imply. When a large dip happens or a large rise happens very quickly, it's a result of a lack of liquidity in the market. If someone (or in reality many people), want to sell a large amount of ethereum they start to eat through the limit buy orders on the book. Once market sell orders overwhelm limit buy orders, the price starts to drop rapidly. The same thing happens in reverse. This is not "manipulation". That's not how markets work. It's a fundamental supply and demand equilibrium. It drops quickly or rises quickly due to a lack of liquidity at the current price.
+
+The most "manipulation" that can happen is that someone sells a lot of eth quickly to drop the price., hoping that others will panic sell, and that market makers will come in at the new low price so they can rebuy. People do this, but it's extremely risky if that's your actual strategy. What if you unload 20k eth, dropping the price a lot, and some other whale comes in while you're doing this and rebuys? Then the price is suddenly a lot higher than a good chunk of your sells.
+
+Relax. This is crypto, it's going to be volatile.[ETH chart](https://www.tradingview.com/x/rJhiT8rz/)
+
+Look at the buying volume for the 3 green candles on the huge spikes up in the last hour. Much higher volume than any in this downtrend.
+
+It's a classic capitulation bottom and reversal.I'm starting to learn solidity, playing around in Ropsten. Now I figured I'd try to issue my own token, same as ICOs do.
+
+Beside the official ethereum site, is there a good template, tutorial or video?
+
+I googled around but all I got was some snippets of codesEven those of us who have been through these stomach-churning corrections a few times might be reaching for the wet towels about now - this is the worst rout since last summer.
+
+But this too shall pass. Nothing has really changed since Christmas, or Halloween, or indeed last Spring, when this rally really got going. Blockchain is going to change the world, and Ethereum is far and away the best positioned to take advantage of the coming shift. 
+
+Hang on tight everyone! Its tax season and mining is taxed as income tax and essentially altogether typically my income is taxed at around 30% with local/state/federal. So over the past year all the ETH mined is either going to require someone to either shell out some fiat or sell ETH to cover their taxes.
+Hi fellow Etherians,  
+   
+Just crossposting from our main sub:  
+/r/aethia/comments/7uqy5e/we_are_building_aethia_ask_us_anything/
+  
+Building the #1 (F2P) Blockchain based game, with actual content/story etc.  
+Happy to see your feedback!Twice now in the past 24 hours, the price has been steadily decreasing, only to pop over 10% in &lt;5 minutes. The price just jumped from $730 all the way up to $840 on a single run, and now it will continue to crash slowly like it was before.
+
+Edit: Looks like the run is lasting even longer this time. Over a 20% jump within 10 minutes.FUD ought to be defined as Foolish Unwavering Denial.
+
+We're in an extended bear market and this thread refuses to acknowledge that.
+
+- The last ATH for BTC was reached in December 17, followed by a series of ever lower lows.
+- The last ATH for market capitalization was January 7, followed by a series of ever lower lows.
+
+Market capitalization now stands at $356 billion ... roughly $475 billion in market cap has evaporated.
+
+We're not in a bull market. So logically, we must be in a bear market. But people here refuse to use that word. Why? Because of Foolish Unwavering Denial.
+ 
+Among the many rhetorical objections I've seen on this thread:
+
+- Zoom out. Look at the gains at the gains over the past year!
+
+I applaud those gains. But looking at the past 12 months doesn't provide any guidance as to what to expect over the next 12 months. 
+
+- It's just volatility!
+
+Volatility goes in both directions. A manic, parabolic run-up is followed by its opposite
+
+- What does a bear market even mean?
+
+It's what we're in now! It's what follows when the last ATH has been reached. 
+
+I've stated before that we're in a bull market and HODL is the best course.
+https://www.reddit.com/r/ethtrader/comments/7qrwl8/dont_kid_yourselves_this_is_a_bear_market_and_its/
+
+"It's too early to tell" is my favorite objection to the bear market.
+
+If it's too early to tell whether we're in a bear market, then it's certainly too early for me to buy these dips. We haven't reached true bottom yet.  
+
+As long as there is Foolish Unwavering Denial in the market, we still have lower to go.I'm looking for a place to buy eth. I've tried to make an account on kraken with 3 different emails but for some reason it doesn't work, gdax/ coinbase's verification process is an absolute nightmare and O want that to be simple because I'm going to buying eth through a friend in the us and tbh I'd rather buy btc through localbitcoins and convert it to eth than buy from coinbase.
+My current options are Gemini, Coinmama and Cex and I'm really gravitated towards Coinmama because of the simple verification procedure. Is there any reason I should go for gemini, cex or any other exchanges?
+ps. I don't mind paying fees up to 7% I'm more concerned about simple and fast (or nonexistent) verification and fast processing I know that everyone's looking at the price and probably confused and worried. The fact of the matter is, price has decoupled from fundamentals in the cryptocurrency markets a long time ago...
+https://steemit.com/ethereum/@kjnk/just-a-quick-reminder-of-ethereum-s-fundamentalsLet me start by saying that this is all just hypothetical.
+
+So most of us have heard about the bitfinex and USDT FUD, so I was thinking about that and came up with this--
+
+What if bitfinex is, in fact insolvent, but they are buying thousands of bitcoin with their newly printed tether, all to send those bitcoin to exchanges that deal with USD and they are basically exchanging their fake tether for real USD and exiting with billions of dollars. 
+
+On dips like today, you have to wonder who just casually has a billion dollars worth of bitcoin they are willing to dump on the market at these prices. Hello everyone
+
+Today is my happy day I have been in coma for 23 days from a serious issue called coma-itis. It is serious and debilitating condition.
+
+I hope you are having a good day. 
+
+I can't wait to see how my trading portfolio is going.Seems that we are struck by the endless string of bad news and crypto-regulation changes recently. Not a single good news in-sight and I wonder, should we prepare for the worst?I don't know about most people but I get a lot of mine from youtube, but I feel like there is a massive bias towards buying or holding, no matter what the conditions. 
+
+I get that no one wants to spread rumours that will cause more panic, and especially on youtube any pessimistic videos get disliked by viewers. 
+
+But does anyone know any vblogger or other info source that isn't afraid to give a neutral, honest opinion?Let's say you own $2000 worth of Eth, Btc, and Bch which was all airdropped to you. 
+You trade $1000 worth of Eth for ZRX.
+At that point, you would pay taxes (for this sample let's just say 20%) on $1000. (-$200)
+In prep for tax season and to cash out you decide to sell all of your ZRX.
+ZRX is up 50% (+$500). 
+You owe another 20% tax on the 50% gain. (-$100)
+The ZRX was then traded for ETH (or Btc, or Bch) because it is the only way to turn it into fiat. 
+
+According to FIFO, would you have to pay capital gains tax again on the original principal Eth? Meaning another 20% tax on the entire amount? In this example.  20% on $1500 = -$300
+
+Tally that up and you have $1500 of value.
+You owe $600. 
+You end up with $900 principle which is $100 less than where you started. Is this correct?
+
+edit: 
+A more realistic scenario might be you want to purchase a different alt coin so you purchase more Eth at current market price (in order to not touch your initial Eth holdings). Would long time holders be required to automatically pay 20% tax according to FIFO rules? (i used airdrop in the example because for long time holders your initial principal might be very low so it's near zero) Noob question possibly, but I'm wondering how the price of crypto falls if people aren't seller to ask for crypto at a lower price on the markets? I have a coinbase account and use gdax but I don't see any option to make "an offer" on eth or btc for a price lower than what I see. Or am I viewing it all wrong? How else does the price of crypto fall if people don't have the option to buy lower than the market value?https://i.hizliresim.com/JQAbpQ.png
+
+here you can see orders of 0.001. once sell orders eat buy orders the bots fill the gaps in prices with orders such as 0.00100000 then once they reach their target they can easily pump or dump the prices.
+
+
+in some instances, you can spend/buy 10 bitcoins and raise the price of bitcoin around 80 dollars. Shouldnt be possible with such a big market but it is.
+
+Check yourself from gdax and let me know what you think.
+
+What they aim?
+1- Pushing prices down as much as possible and collecting more coins at below before mooning it?
+2- Some whales are bored from crpyto and are looking to invest elsewhere and are exiting while also profiting. (selling huge numbers of bitcoin to exit will crash the market and you wont be able to sell 50.000 bitcoin from the same price.)
+3- Profit in short term then abandon it and leave the price to its own nature or market.Coinmarketcap uses BTC and USD. Neither of those are helpful when trying to figure out what alts have moved against ETH.
+
+What news sites do you suggest i use as part of an ethereum news feed?
+
+also, any recommended news feeders?Welcome to the Daily Altcoin Discussion thread of /r/EthTrader. 
+
+***
+
+The thread guidelines are as follows:
+
+-  All sub rules apply here so please review our **[rules page](https://www.reddit.com/r/ethtrader/about/rules/)** to become familiar with them. The rules page is also linked in the announcement bar above.
+-  This thread is intended as a welcome place for discussion of all non-Ethereum related crypto.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+Welcome to the Daily General Discussion thread of /r/EthTrader.
+
+***
+
+Thread guidelines:
+
+-  Please refrain from discussing non-Ethereum related tokens here. You are welcome to discuss altcoins in the Daily Altcoin Discussion thread.
+-  All [sub rules](https://www.reddit.com/r/ethtrader/about/rules/) apply here so please be familiar with them.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+Q. Does DGD track the price of gold?
+
+A. No. DGX is the gold-backed token, set to be released/launched in March. DGD is the token that rakes in a percentage of all transactions as well as a demurrage (storage) fee.  
+
+&amp;nbsp;
+
+Q. What does the DigixDAO do?
+
+A. The DigixDAO currently holds 466,000 Ether, or roughly $440 million dollars. DGD holders will vote on how to spend the money. Its purpose is to grow the Digix platform.
+
+&amp;nbsp;
+
+Q. What is DGX good for?
+
+A. DGX is a stablecoin that tracks the price of gold. It is fully audited on-chain which means that you won't have to deal with any shady shit like Tether.
+
+&amp;nbsp;
+
+Q. What's the difference between DGX and Dai (the MakerDAO token).
+
+A. Dai is a stablecoin designed to track USD. It does so by creating collateralized loans. DGX will be one such collateral used to borrow Dai against. Ultimately, though, they are just different instances of stable token currencies.
+
+&amp;nbsp;
+
+Q. What is the supply of DGD and where can I buy it?
+
+A. The supply is fixed at 2,000,000. All have been released. Currently, you can purchase on binance, Huobi, or OKEx.
+
+&amp;nbsp;
+
+Q. Where is the gold stored?
+
+A. Somewhere in a Singaporean vault.
+
+&amp;nbsp;
+
+Q. Doesn't that mean it's slightly centralized?
+
+A. Yes. That is the tradeoff for having gold actually be used as a medium of exchange. It's no more centralized than gold certificates or gold stored with some custodian somewhere. The only improvement is physical gold, but good luck using that as a meaningful medium of exchange.
+Do crypto traders who don't move their money back to fiat actually report to gov tax agencies and pay taxes? I've participated in a few icos in the past years but I'm generally just a hodler because taxes sound too complicated. Just curious what people are doing since it must be a crazy headache if you were to actually report all your trades. Most everyone is excited about the price and yells HODL often, but if you are planning on staking than why does the price matter?
+
+With mentions of PoS happening this year I am just trying to get a better understanding of the arguments for both sides. I'm assuming the majority of users here are like me and don't own 100+ ETH, would Staking still make sense?I'm not Nostradamus but I've gone trough similar shit in the past, whenever we see coins going down -20% in just a day, bullish news appear magically and market just skyrockets next days...Tomorrow all posts will be about guys complaining selling low and others who didn't buy the dip...
+
+Same story repeats again and again and again....When will we see private transactions enabled on Ethereum? I hate knowing that my coins are being tracked by gov agencies. What's the mood out there?
+
+BTC is at $8,800 ... ETH is not entirely immune but is holding up well.
+
+15 days ago I said I thought we were in a bear market and got downvoted in oblivion, even though I also said ETH would be attractive to accumulate at lower levels. 
+
+In December, I said I expected BTC to fall to $8,800 and even lower after that.
+
+Do more people acknowledge that we are in a bear market? Or do people think this is a short-term January dip? What's the overall sentiment?
+
+Obviously, it will be time soon to start accumulating. But if there's still bullishness in the market, that means we could still go lower. I think we need to reach outright despair before we reach bottom. Nucleus vision(Backed by Tim Draper) - An IoT-based contactless identification system is announcing an airdrop event!!
+
+Please fill out this form to join the event!!
+
+https://nucleusvision.typeform.com/to/zTNk0t
+Please register with a valid email address you access regularly
+For Telegram community members, enter your Telegram user ID, with which youre following either our Telegram discussion channel or Telegram Announcement channel
+For Reddit community members, enter your Reddit user ID, with which youre following our Reddit channel
+Please enter your ERC-20 compatible Ethereum address
+To successfully obtain the AirDrop tokens, you must have an ERC-20 compatible wallet address from MyEtherWallet, MetaMask, Ethereum Wallet, Mist, etc. (Please note that we will NEVER ask you for your Private Key or for any donations from you in order to receive the AirDrop)
+The form for AirDrop entries as linked above will be open for a duration of 14 days from 27 January 5:30 PM PST.
+You look at the entire crypto space and you look at what other products have the liquidity and the notional size, a derivative makes sense, Chris Concannon, Cboes president and chief operating officer, said on Jan. 17 &lt;https://www.bloomberg.com/news/articles/2018-01-17/don-t-expect-the-crypto-futures-revolution-to-stop-at-bitcoin&gt;. He gave a caveat: **Cboe wont introduce other crypto-derivatives until its futures exchange starts using the trading software acquired last year from Bats Global Markets. That upgrade is scheduled for Feb. 25** 
+
+I was in their Telegram group and the team said they would be launching Q1 2018 in China. I made a simple info-graphic to compare - https://imgur.com/5dunkCl - Thoughts?A few hundred thousand people in the GTA at least just heard that message.
+
+Here's hoping they flip the right side of the coin and dive into ETH!
+
+I can't believe they suggested DASH... isn't it illegal to give out investment advice over the radio anyways?Has anyone had any problems during high-volume moments, being able to submit and process immediately a market order using Kraken's standard interface ( not the cryptowatch one ) ? Does it execute orders immediately using this method ?
+
+I am leaving the cryptowatch interface aside, it is a total fail for precision trading.
+I'm personally fan of GNT, BAT, REQ and FUN tokens... I'll be buying more of them now that the market  
+plummeted but I would like you guys to recommend me more projects to do some research.
+
+Thanks in Advance.A look at the dramatic events of today's market. Areas to look for in BTCUSD for a possible longer term bear market. A look at Ethereum's strength and an overview of BCH, NEO and ADA's lack of strength.
+
+https://steemit.com/cryptocurrency/@matthew-analysis/daily-crypto-analysis-1st-feb-technical-analysisNo, really, I'm interested. In fact, would like to write an article about it. What are the real reasons why something as basic as protecting your KYC list is so hard? Why can't an ICO team funnel guaranteed contributions through a given time period so as to avoid gas wars and transaction congestion? Why can't the marketing people somehow get it through naive investors' thick skulls that they shouldn't click on links from emails?
+
+In other words, why can't someone just run a token sale with a degree of competence? (And feel free to suggest those that have...)During the last month we've seen a huge market correction, yet ETH is still doing fairly well and improving it's BTC ratio. Shouldn't most ERC20 tokens see the some of the same stability? Just seems like what is good for the goose should be good for the gander.1)  Declare that you might make crypto illegal, or vaguely refer to a possibility that legislation will make it hard to use / mine / sell / profit from.
+
+2)  Have your citizens panic sell, thus brining a huge fiat influx into your citizens' pockets, thus a) increasing your tax revenue downstream and b) increasing spending in your country as that money burns holes in peoples pockets.
+
+3)  Profit.Hi,
+
+I live in California (unfortunately), I was wondering if in the US, you get tax both @ Federal &amp; State level for any capital gain you've made during 2017?
+
+IF so, I understand that Federal has bracket which depends on your income + capital gain, what about the state (especially California)?
+
+One last thing, to pay those capital gain tax, would you rather :
+
+* Take a loan
+* Cash out your BTC/ETH
+
+Thanks yallI bought into iexec (RLC) at .55CAD so this isnt a plea for my mortgage being gambled or anything. Im Still up but wondering if anyone else is worried that the complete lack of marketing and low volume trading is a bad sign for future growth?
+
+Im 75 %Eth
+10% RLC
+10% OMG
+And 5% zrx 
+
+right now wondering if I should take my constantly dwindling profits on RLC and put them into omg. I know the fundamentals havent changed but theres so much red lolHonestly, I have had it with alll the "kill BTC-XRP-BCH" subscribers over here.
+You guys just do not get the big picture.. ETH this, ETH that, kill BTC or whatever crypto except ETH.
+What we need is crypto to get adopted, Be it BTC, ETH or Ripple,
+Some people love a Volvo, another person loves a Nissan.
+Please stop putting other Crypto than ETH down,  we do not want a community  as toxic as /r/btc or /r/bitcoin, come guys and galls , you can do better!longtime eth hodler here- just wanted to get some feedback from the community. I have access to custom minting silver bullion designs. I was curious if there'd be any interest in 1 oz silver bullion w/ the Ethereum logo stamped on its face?
+
+Because of marginal costs, i'd unfortunately be unable to sell at spot price so what would be a reasonable premium over spot for this? Strong ETH + cheap alts = free money.  As much as I love my ETH, trading a lot of it for solid alts today (BAT nomnom).  This feels like an episode of Supermarket Sweep.
+
+https://i.imgur.com/36YXoI7.gifThe main point is bitcoin needs to basically die so that there will be less emphasis of BTC pairings and the crypto space can flourish.
+
+I understand the BTC pairing point, especially since my alt coins and even etherium would dip with bitcoin, but my question is, if etherium overtake bitcoin, how does that influence the market as a whole and other alt coins?
+
+Besides more money from bitcoin going into ETH and other coins, how will that influence other people into investing into crypto when theres so much omg bitcoin going down. Bitcoin this bitcoin that Importance?
+
+I for one want bitcoin to fall just because I hate seeing how much my alt coins would suffer because bitcoin FUD. Theres so much more to crypto than bitcoin, but it seems like outsiders dont see it that way.
+
+Would the flippening help market cap reach previous levels of 700-800+ billion market cap?
+Now that Etherdelta is no more. Where can I buy/sell ERC-20 tokens like ZRX and District 0x? Thanks and HODL strong. The entire crypto market cap list ~$80 billion (according to coinmarketcap) today but... the US stock market lost $1.6 trillion (according to CNBC).
+
+I do understand it's less of a percentage but still.. the amount of "real" money in this market is still in it's infancy.
+
+I switched from USDT to ETH because I wanted to day trade without stress (heard USDT was trouble), and ETH worked out great for me, I was making money day trading. (far more than I had made with USDT) ETH was worth around 1175 when I switched to it. I had around $18.83 when I switched to it, it was around January 27 or so. Trading every day I hit a high of around $58 a few days ago and currently have $43.71 (and it's still going down)
+
+If ETH had remained at 1175 instead of going down I'd have $75.90 right now. (It's under 675 now) And not just that, because it's all going down I can't day trade ETH with altcoins the way I was the past few days, they have less trading volume and their price is going down without really coming back up. So not only have I lost money (I gained money overall only because of trading, ETH's price caused me to make far less gains than I would have) but I can't even make money in the current conditions because the markets aren't behaving the same way so trading for profit is hard. And I already mentioned there are less trades going on.
+
+If I sound like I'm whining it's because I *am*. And I know it's not dignified, but what the hell man. I thought ETH was safe of all things, I'd heard good things about it. Now I find out nothing is safe. Only USDT remains stable, and I still stay away from it because people have me spooked.
+
+I was making such progress, I more than tripled my money in over a week but now for the past couple of days I have to just watch it slowly go down. Will it even get back up to 1100 like it was before? Will the trades start up again or am I screwed? I thought I had found a viable way to make money, my gains would have gotten higher over time due to compounding. The last couple of days have just killed my morale.CoinCapture is just the start of a much larger project!    
+[Demo Image](https://imgur.com/a/AlWmB)    
+Invite link at bottom!    
+ 
+As of right now you can in your discord channel check the price from Bittrex, and Binance on supported coin types.    
+    
+We are looking to rapidly add features and functionality to this bot for you the consumer, and we are looking for your help. We are a small team of (3) developers who are passionate about crypto currencies and we have been donating our time to bring you an awesome product.     
+     
+Next additions to this bot include buying and selling cryptos directly from discord, crypto games, and trading systems.      
+
+[CoinCapture](https://discordapp.com/oauth2/authorize?client_id=410150016435486759&amp;scope=bot&amp;permissions=537394256)        
+
+We are very much so in a heavy development stage, and we are coming up with ideas to generate passive income for investors at a later date. Please follow this project.     
+
+    
+**Use "!help" in discord chat for instructions for getting started.**
+
+We need your help getting this project off the ground and by donating anything you can you help the crypto community and this project:            
+ETH: 0xaD973a95224ED8b465b18D553Babb9F9e761ecf4   
+BTC: 1DDdwdwhU4QvguKuv5UBPs6pNDCwXfUcTW       
+LTC: LXSbCrFXYieywi256DTUftAaaRaDbvYdGt    December and January have been crazy months. It was such a magical moment, euphoria was absolute. However, **things should be put in perspective**. I remember when we hit $500 for the first time, it was totally crazy. It was like WHAT'S GOING ON?  As I write this message, ETH is at $685. Everything is FINE. You don't believe me about the $500 hype ? 2 months ago, a random guy has predicted that ETH will reach $500 by **March 2018** and has been mainly upvoted. Some random guys (like me) were even trolling about $1k by March 2018. Source: https://www.reddit.com/r/ethtrader/comments/7czdor/is_ethereum_preparing_grounds_for_a_new_ath_i/
+
+Guys, we reached &gt;$1400. A major correction had to happen. Perhaps you bought your first ETHs at &gt;$1k. But if you bought after having done your due diligence and invested what you can afford to lose, just keep cool. Nothing has changed, the tech is still there. If you really believe in that technology, stop watching your potential losses. As long as you don't sell, this whole mess is hypothetical.
+
+Stop watching this god damn price, HODL if you really believe in ETH (and not because this random friend or colleague made $500k in 1 year with crypto) and chill out.
+
+I wish you all the best!To give you a clearer idea, Nucleus vision has put together this video that explains how they are aiming to capture data &amp; the layers that power the Nucleus Vision ecosystem.
+
+https://www.youtube.com/watch?v=lbl5ad-8LZw
+
+website: https://www.nucleus.vision/The moment ETH/USD shows signs of reversal in the face of BTC/USD dropping the flippening will happen quickly.
+
+Im very bullish long term from eth, this is a substantial drop though for the entire crypto community.
+
+Whatre the chances this is the bubble bursting and we wont see 1k for another 6 months+ or is this just an over correction from the rediculous bull run?
+
+I realize no one can answer beyond raw speculation but Id like to see some opinions and reasons why, Ill be fine either wayThe move on ethereum is taking us back to 2017. The funny thing is that was only last December. With all the upgrades coming it's like ethereum is on sale right now. I am bullish still. Wish I had cash sitting around to buy. First things first: I got into ETH in early 2017 and have bought in many times since then, but I've been avoiding selling any this entire time, partially because, duh, but also because I know that things involving capital gains taxes come into play once I do.
+
+At the very basic core, what do I need to know for that fateful day when I do decide to sell some Ether? Things like dates/times of transactions? Prices at the time? Exchanges that I sold from, e.g. Coinbase?
+
+Thanks in advance, and hope everyone is still breathing after today's dips. Happy HODLing!Hello, I was just wondering about this downtrend in eth and icos. (I am copying my post from NapoleonX sub where I might have limited answers as it is inactive, but also the situation holds for other icos. Lets use them for example for this thoretical question. You can find their website for reference: https://www.napoleonx.ai/ - this is not an ad nor a fud). Let's say at the start of the ico eth price was 1000$ and at the end it is around 500$, will ico investors get 1000 npx tokens at both times? (as clearly stated on the website 1eth = 1000npx) If so, given the soft cap and hard cap that are in usd (10m and 15m respectively), they would need more eth than initially accounted for, so how can the total number of tokens be a fixed amount of 50m and stay distributed as budgeted for on the website? Just curious, maybe im missing something here. Cheers!**Problem:**
+  Every time when there are big fluctuations in the Coin Market Cap, most of the coins are going UP or DOWN in the same way. Be informed and act accordingly (for example, when it goes DOWN: you can move into other stable currencies or withdraw; etc.) 
+
+&amp;nbsp;
+
+**Recommendation:**
+  I recommend you the **CMC Alert** app, as it gives you the information that you need regarding the Coin Market Cap in a user friendly way, it's simple, efficient and FREE. CMC Alert uses the official Web API from coinmarketcap.com.
+Why should you use it:
+
++ It's a lot faster than going on coinmarketcap.com.
+
+- It's a hidden notification, only way to see it is if you drag your notification tab down, you don't even know it's there, hack your wife would never know that you are constantly checking the cap.
+
+* It's free and requires no permissions so it's safe.
+
+Google Play link: https://play.google.com/store/apps/details?id=com.companyname.CMCAlert .
+
+&amp;nbsp;
+
+**Description:**
+  CMC Alert is an app that pins notifications to your mobile notification bar and which displays information regarding the total market cap of crypto coins .
+
+- The notifications are still running in background, so you can close the app and use only the controls of notification from the notification mobile bar !
+
+- Alerts you when the price goes down or up and displays the change percentage since the last update.
+
+- **Set Alarms** with different conditions, choose sound, vibrate, recurring or just notification option for it;
+
+- **Aggressive Alarm mode**(optional) - perfect when you want to be awake during nights
+
+&amp;nbsp;
+
+It helps me everyday, why not try it yourself! It's also free. :) So I usually use Turbo Tax to do my taxes since it's quick and easy. However, this year I have over 2k trades to report. I used bitcoin.tax to get my overall gain/loss and that's fine, but I'll have to submit a report of each trade with values and buy/sell prices. 
+
+These were easy enough to pull from coinbase/GDAX using bitcoin.tax but the problem I'm running into is that I can't upload a csv file or een a turbo tax txf to the standard or premium turbo tax app/websites. 
+
+Any traders out there use software or methods I'm not aware of or am I going to have to actually find a tax professional who knows how to file this stuff (I live in a rural setting).https://www.banking.senate.gov/public/_cache/files/d6c0f0b6-757d-4916-80fd-a43315228060/A2A6C1D8DDBB7AD33EBE63254D80E9E3.giancarlo-testimony-2-6-18b.pdf
+
+https://www.banking.senate.gov/public/_cache/files/a5e72ac6-4f8a-473f-9c9c-e2894573d57d/BF62433A09A9B95A269A29E1FF13D2BA.clayton-testimony-2-6-18.pdf
+
+Source :https://twitter.com/TusharJain_/status/960614899499053056Anyone following crypto markets for a decent time easily notices all the signals of coordination:
+
+1. Multiple regulatory agencies in different countries releasing vaguely bearish news about crackdowns on something crypto-related, releasing clarifications a few days later on how it is meaningless
+
+2. One or two big celebrity financiers dump on crypto in public statements
+
+3. Usual "thought-leading" publications do their best Fred Sanford impersonation "This is the big one, Ethel!"
+
+4. All the no-coiners applaud at the new fodder to rationalize their poor past decisions to not invest/adopt crypto
+
+It isn't a surprise that a lot of BTC hodlers would take profits at $20k, or that the market would finally mature and realize there are cryptos outside the Bitsphere that have more utility and more functionality at cheaper use costs. We know a lot of investment into BTC itself was hoping for a quick cash-in on the Ponzis like Bitconnect. And we know that external futures markets for BTC just went online, attracting every bad actor in finance to crypto manipulation. So the drop in BTC really wasn't unexpected, and there's little reason for it to effect the rest of the crypto market essentially. But for the next few days you're going to see the short sellers place as much pressure as they can on the price of cryptos with bad news and hysteria-mongering.
+
+But watch what's happening in the rest of the economy. There is a big selloff in stocks right now and that is a lot of free cash that will be looking for a new place to invest. The current dip in crypto seems like a perfect time for people to cash out of overpriced stocks (especially of companies that crytpo makes obsolete) and move into blockchain.Stock market started crashing ...
+
+Cryptocurrency market is crashing as well ...
+
+Is this the begining of the recession that we were hearing about for a while ?
+
+What pushes the big banks to not allow their clients to buy cryptocurrencies with credit cards but not their debit cards ? Too many defaulted payments from people who lost their money during January's drop ?
+
+Let's discuss ...
+
+I see a lot of people panic selling these days, you are getting a piece of shit in exchange for real gold xD, never sell your ether... For real, you will be let with nothing but regret, I can tell you that as an experienced holder...
+
+Also, don't panic looking at the sell orders on any exchange, you think everybody is selling? Just about the 3% of the total ether is being traded globally, and just that small amount is determining the price of all the network, also don't fall for marketcap, marketcap is not correlated to the real valuation of any token... When you are selling or buying, you think you are fighting against other people matching lower prices, but all you are doing is fighting with bots, LOL, sell wisely...
+
+Since the first time I buy I decided my ethereum was worth at least 5k each, how much is yours valued? It's up to you, but after I've used the ethereum network mine got valuated at that price with current tech...Just a little fact, people is getting 100+ Millions in ICOS with just buying your cheap ether and deploying a contract...Isn't ETH the reward for providing computing power to the network? So isn't the point to provide gas, claim the reward, and pay off the energy bills and reap some profit off your contribution? Like does ETH have to go up if more dapps are added? The people running them would have to have revenue. They couldn't just contribute time and energy forever without withdrawing to Fiat or a true currency. 
+
+Don't be mad, be informative. I am a small time hodler, but not well versed in the technical stuff. With this crazy drop in Bitcoin some other coins were hit a lot harder even. The **DAO PlayMarket 2.0** ended its ICO (**PMT token**) end of December selling one PMT for 0.2 ETH. The entire ICO phase ranged from 0.12 ETH per PMT token up to 0.2 ETH per PMT token ([source](https://cryptoslate.com/coins/dao-playmarket-2-0/)). In the last days with this current market **PMT is listed now 60% to 80% below its initial ICO**, which was with $5 million quite successful.
+
+  
+
+Here is my research on PMT:
+
+  
+
+**First, the basics  what is it anyway:**
+
+- Providing the first decentralized Android app store based on crypto
+
+- Including an unrivaled, built-in ICO platform for app developers
+
+- Active development team with regular updates via Facebook, Twitter, Videos as well as coding on Github
+
+- Roadmap available  with over one year of already accomplished development topics
+
+  
+
+**Second, from an ICO / token perspective:**
+
+- ERC20 token with very limited supply of only 3 million token
+
+- ICO from 0.12 ETH to 0.2 ETH ended successfully ($5 million reached)
+
+- 75% were offered in crowdsale, which is a large percentage compared to other coins. The project teams tokens are frozen for 24 month.
+
+- **Listing on Yobit, Bittrex and Bitfinex  [(twitter)](https://twitter.com/en_playmarket2) have been requested**, making it accessible to a much larger audience shortly
+
+  
+
+**Third, from an investor perspective:**
+
+- **Dividends payment**: Holders of PMT tokens automatically become co-owners of the platform-based DAO PlayMarket Foundation, which takes a 5% cut from developers releasing their own token (ICO) on the platform. From this, dividends will be paid out on pro-rata basis (to PMT token holders)
+
+- Potential app market: **Entering an Android app market of $20 billion**. This is just the expected 3rd party appstore market (meaning the market share of the current top providers, like like googles app store, are not even included in this)  [source](https://techcrunch.com/2017/03/29/app-annie-android-to-top-ios-in-app-store-revenue-this-year)
+
+- Project was able to convince initial investors and partners (e.g. BitBaza) and received 350k investment capital
+
+- Like in other app stores, developers do not receive a salary by the platform provider, but are selling their own developed app through the platform. Hence the platform gets a free growth and the store can scale freely through its network of developers. For developers a 1% commission is very attractive (compared to 30% in other stores)
+
+  
+
+For early investors you will need to go the EtherDelta route, or wait for listing on the other exchanges mentioned above: 
+
+[https://etherdelta.com/#0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-eth](https://etherdelta.com/#0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-eth).
+
+Or, if you are familiar, ForkDelta also lists it:
+
+[https://forkdelta.github.io/#!/trade/0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-ETH]( https://forkdelta.github.io/#!/trade/0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-ETH)
+
+  
+
+Further information on the DAO Playmarket 2.0 you can also find on their official site:
+
+- [https://ico.playmarket.io/](https://ico.playmarket.io/)
+
+- [Whitepaper](https://ico.playmarket.io/#whitepaper)
+
+  
+
+Let me know your thoughts on this project
+Is there a good website that will show me the historical price of an ALT vs. ETH on a given day?
+
+Pretty much what coinmarketcap does for an ALT vs BTC. 
+
+ThanksThinking it is a dip and it will recover, where do you set the lowest price? idk, for instance, 300? Any opinion? Any reason?As the title suggests, i'm curious as to where I can safely sell ETH. I've been recommended Kraken, although i've heard a good mix of a lot of love and hate towards them.. so as a precaution, I figured i'd ask here to see what others think, if I could get a better place to sell my ETH at besides Kraken, etc.
+
+Anyone here they could help me regarding those questions?
+
+Thanks to those who try to!Just a reminder that this is not the first time we've seen losses of 50% or more. Pulling data from coinmarketcap.com:
+
+* Bitcoin hit a high of $147.49 on 4/29/13 and a low of $65.53 on 7/5/13, for a total drop of **-56%**.
+* Bitcoin hit a high of $1156.12 on 12/4/13, and a low of $171.51 on 1/14/15, for a total drop of **-85%**.
+* Ether hit a hit of $3.54 on 8/7/15, and a low of $0.42 on 10/22/15, for a total drop of **-88%**.
+* Ether hit a high of $15.79 on 6/22/16, and a low of $5.98 on 12/6/16, for a total drop of **-62%**.
+* Ether hit a high of $414.76 on 6/12/17, and a low of $133.72 on 7/16/17, for a total drop of **-68%**.
+
+How does that compare to our current market?
+
+Bitcoin hit a high of $20,089 on 12/17/17 and is currently at $6,756.03, for a drop of **-66%**.
+
+Ether hit a high of $1417.38 on 1/10/18 and is currently at $657.12, for a drop of **-54%**.
+
+This is not the end of the world. We'll make it through this. 
+
+Hodl strong my friends."I used to be [a Bitcoin maximalist]. I'm not any longer."
+
+"With Bitcoin you buy it or you don't. It goes up or it doesn't. But in Ethereum ... your play is on the success of all the projects on top of it. "
+
+"There aren't really any projects that use Bitcoin as a substrate ... If you care about eco system plays, a substrate which you can layer other stuff and if that other stuff succeeds the other thing becomes valuable, Ethereum has that. If cryptokitties takes off, Ethereum is going to go up in value. If one of the one hundred or two hundred projects in Ethereum takes off, Ethereum is going to go up in value. "
+
+EDIT: Video link here: https://www.youtube.com/watch?v=w8_1JFE_9dIIs the wallet on https://www.ethereum.org/ safe enough for non-life changing sums of money? Do I need to take any precautions like DBan'ing my system first (I'd rather not do that)? A look at where Bitcoin's next support level may lie, some brief analysis of the usual altcoins as they all follow BTCUSD's descent and an added look at Litcoin as it breaks that trend.
+
+https://steemit.com/cryptocurrency/@matthew-analysis/daily-crypto-analysis-5th-feb-technical-analysisEvery cryptocoin should only be avaible through FIAT transfers. Because we're tied to BTC's price, we're all doomed. This has to stop. FIAT pairs for all cryptocoins would be more fair! Why can't we organize a serious petition? I'm frustrated and I know many here are tooHello everyone, it's u/dmorasch16 here with Ethereum News Network's financial report. We have great news coming in today from the markets, as the price of Ether has dropped 20% AGAIN over the last 24 hours, making Ether even CHEAPER! Since the most expensive price of over 1400 US dollars, Ether has become over 50% more affordable, giving any investor with the correct mindset an excellent opportunity to get in cheap on this amazing technology. I personally have been putting every spare dollar towards buying ether, as there's no telling how long these prices could last. Some analysts are even more optimistic than I, predicting the price could drop as low as $500 in the next week or two. Let's hope they're right, as it would be excellent news for any would-be investors. And now, over to Matt with the weather.I'm looking for an exchange in the UK that will let me buy 10 worth as a test. The value is low now so I can sell later when ethereum recovers.Upcoming Feb 6 meeting between SEC and CFTC to discuss crypto and how gov should deal with it moving forward. Many seem scared about what might come out of this meeting, although there could be good to come from it. We just have to wait and see what happens.
+
+The bitconnect ponzi and ensuing lawsuit which specifically names youtube shillers. This trial is going to be messy, as under US tax law, anyone who made any money from a ponzi has to pay that money back to be pooled for distribution among the entire group. Still too fresh in people's minds.
+
+Banks blocking purchases with credit cards. Removed a millions of dollars worth of instant liquidity for buyers and this took a ton of money off the table for buys. Although in the long run, this should strengthen the market.Just tried to buy Eth on Coinbase, and both my cards blocked the transaction after an initial success message. Citi and Chase Bank.
+
+Is there a list of cards that do and don't still work? Anyone have success with a CC? Anyone have a debit card blocked?Is there any information about how non-fiat exchanges are realizing profits from fees and how they are switching this to fiat, for example to pay costs, employees etc? ? For example bittrex or poloniex? They are earning nice amounts of btc, eth, usdt and alts each day. They just convert this to BTC or ETH and sells on kraken, gdax, gemini?  
+Is Janet Yellen running this meeting?! ..this feels like the day before a Fed minutes release .. people holding their breath to see which way the wind will blow.  The SEC/CFTC's 'oversight role' will hopefully result in minimal common sense regulation.This is what crypto is all about. Welcome folks. HUGE raises, unbelievable. But then, PAINFUL drops. 
+
+This is why we cheer so much when a bull run happens, but brace together when the sky is dark. Some of us don't last long, but those who do become more strong. 
+
+At times like this we ALL wonder, was this the last bull run? Is it over for sure? Was it too big this time? But then it just happens all over again, and after the rain comes the sun. 
+
+T0ny
+I just bought some eth on coinbase and after receiving the confirmation that it was successful, received an email saying it was cancelled by the bank.  Not a lack of funds issue.
+
+Anyone know if wells is joining the crypto ban? I tried ACH and CC.
+You are falling for the same divide/conquer strategy and belittling strategy the big banks/media complex uses
+
+Time to come together for decentralized crypto as an asset class. China news to me is a welcome CHERRY on TOP to signal to me to increase my bullishness, yes, bullishness, not bearishness on the blue chip coins
+
+BUY LOW and HOLD.  If you want to puke up your porfolio so the banks and institutions can buy it, feel free, but you ain't a friend to the cause. This whole month of fud was about removing the marginal moon buyers who came in since December so they could get back in for the year. 
+
+PLAY the LONG GAME, I implore you. This is more than about trading.
+
+BTC is actually developing and will become the large amount transfer instrument globally
+
+ETH is the UNICORN that can do so much and is CANI: constant and never ending improvement as TR would say
+
+BCH will get into colored coins and do very well eventually
+
+LTC  is a steal here
+
+So many positives, i know, you can't talk bullishness in months like this!!!
+
+Please unite, we are fighting forces entrenched to fuck you and your family infinitely. A recent ZH article showed how the big banks didnt pass on 1 fucking interest rate increase to savers in their bank accounts. You are buying their rigged dollar and system everytime you shit on crypto after the crash. The trolls walking around with glee, some even gold/conservative bugs, makes ME SICK
+
+
+Edit: almost all the replies except 1 were positive. Pretty sick guys. All Chinese exchanges are registered in Hong Kong where their operations are fully approved. All their clients outside of HK use vpn.
+
+SimpleThe piece below was originally penned during the high-FUD season of September 2017. It was initially specific to Waltonchain, but I believe that it absolutely extends across the crypto-space. I hope you enjoy it and that it brings some steadiness to those hands which are suffering from market-induced tremors...
+
+&amp;nbsp;
+
+-------------------------------------------------
+
+&amp;nbsp;
+
+
+Waltonchain  An Odyssey: Brutal Tales of FOMO &amp; FUD from the Digital Tip of the American Dream, where entire mortgages are gambled on ephemeral Chinese tech and huge swathes of sweaty-palmed maniacs congregate in chatrooms like slime around stagnant water, each screaming incomprehensible gibberish into the darkened moonless sky above, praying to The Great Lono that Walton rises mid-to-late October and their collective bills can be paid, if not on time, then in high-interest instalments leveraged against the very Soul of their youngest child.
+ 
+&amp;nbsp;
+
+I am, strangely, a naturally optimistic man. Despite years of academia and indoctrination into the bowels of a respectable professional career; married life and mortgage payments of sizable sums, of life insurance policies and the death of my dog the day before my 15th birthday; I still find myself charged with a degree of positivity that belittles the actuality of the situation around us, where never-ending Global War reigns supreme and civil liberties are eroded, insidiously, by fuckpigs and their salaried speech writers. In spite of these daily frictions; these undercurrents of heavy doom and harbingers of cultural malaise; I retain a buoyant optimism in these dark seas of cultural maelstrom where white caps billow and smash down hard on all those caught beneath the breaking waves of modern progress. I preserve a steady confidence by bearing in mind the One True Wisdom of Olde: that no cunt, nowhere, knows whats going on.
+ 
+&amp;nbsp;
+
+What has become quite clear to me over the last few months is the absolute necessity to disregard the thoughts, musings, innuendo, derisory howls and colourfully-annotated technical analyses of Other People. Apparently necessitated by the lack of knowledge inherent to this infant technology  a deep void of echoes where nothing dwells but guesswork and prediction  parroted clichs are myriad in the world of cryptocurrency. From a Warren Buffet quote concerning greed and fear, which is eagerly strung out by all-and-sundry like glistening ropes of semen along the facial contours of naive young bukakke-starlets; to Baron Rothschilds blood in the streets. People are seemingly fixated, almost erotically so, on throwing empty frivolities across chaotic chatroom airspace in the hope that someone, somewhere, will take note.
+ 
+&amp;nbsp;
+
+We are at the precipice of the future, a bleeding-edge where technology and economics meet; a collision of binary code, global awareness and enough money to buy platinum dildos for all the whores in Old Saigon.
+ 
+&amp;nbsp;
+
+I can only, at this juncture, reiterate: no cunt, nowhere, knows whats going on.
+ 
+&amp;nbsp;
+
+The unravelling chaos of crypto brings to mind an un-qualified myth I saw messily scrawled on the inside facing of a toilet cubicle door in a New Orleans jazz club, directly below a crayon etching of LeRoi Jones: The term cool, in its original context, meant a specific reaction to the world; a specific relationship to ones environment. It defined an attitude which actually existed. To be cool was, in its most accessible meaning, to be calm, even unimpressed, by what horror the world might daily propose.
+ 
+&amp;nbsp;
+
+As things stand, there is no definitive point to this semi-coherent digressive on the quaint nuances of digital currency and the weird, clueless, malevolent, beautiful, ordinary people who inhabit slack channels, reddit threads and WeChat-based-PnD-Groups the world over.
+ 
+&amp;nbsp;
+
+We collectively find ourselves here via innumerable mountainous routes, hellfire passes and hidden gates behind overgrown vacant lots; but the reason were all here is quite simple: money. We aim to make money, not for moneys sake, but for the sake of Ultimate Escape. To unchain ourselves from the machinery of the world and let loose, unbridled, like a fantastic North Korean firework; glowing plutonium green and exploding over the Sea of Japan to widespread political condemnation.
+ 
+&amp;nbsp;
+
+It would be easy, though unfair, to suggest that the Nine-to-Five grind does nothing to enhance my passage through this life. It does, after all, finance my iron-rich diet of creative technologies and shamanic medicines; without which I would surely wither and die. This being the case, one must always endeavour to strike a fine balance between Work and Life; only bending over and quietly accepting the blue-veined meat-package when utterly essential to the overall plan; when the last distress flare has been fired high into the midnight sky, all telephone lines severed, and the radio smashed to pieces by marauding corporate brutes.
+ 
+&amp;nbsp;
+
+I feel strongly that Real Work can never be achieved in the workplace, and Nine-to-Five, Monday through Friday, is my penance for the hunting of Dreams. An unsightly filler. The annoying background noise during another late-night recital by my choir of Personal Angels. A necessary evil; maligned, resented, but tolerated as a temporary contractual obligation. A saddening fact of life is that without Serious Cash, we will never be able to escape the deadening clutches of Paid Work.
+ 
+&amp;nbsp;
+
+Crypto, for this generation, provides a chance to do so. A sliver of hope for unparalleled riches. The vast majority of investors are in exactly the same boat. A global collection of Dreamers, Traders, Gamblers and Digital Vagrants; tipping our hats to the karmic gods of Fate and Fortune.
+ 
+&amp;nbsp;
+
+Above all else, when reddit pages and slack channels are abruptly swollen with rampant crazies, maniacal deviants and hideous trolls with nothing to add but fear and uncertainty; one should remain grounded, solidly, in the knowledge that the words of Others arent worth the faecal matter theyre hastily scrawled in; that no cunt, nowhere, knows whats going on.
+ 
+&amp;nbsp;
+
+In crypto, as in life; be cool and unimpressed with what horror the world might daily propose.
+
+&amp;nbsp;
+
+In Walton We Trust. 
+
+&amp;nbsp;
+
+---------------------------------
+
+&amp;nbsp;
+
+For Eth tips, karmic deposits and general niceties - 0x951B561AeD3cCE55ca98EE7014a3F1ab266FE6c8 
+
+&amp;nbsp;
+
+Follow me on Twitter: @Crypto_Bard
+Especially when taking into consideration the latest news coming out of China re: banning foreign exchanges and going after miners. Porting mining over to POS will bring about the great decoupling as Eths fortunes will truly no longer be beholden to miners using cheap Chinese electricity and the whims of the Chinese government. Big believer over herebullish. I understand the market is currently having a flash crash, but as Bitcoin falls. shouldnt ETH and LTC be "a safe haven" for people who no longer believe in the outdated tech of Bitcoin? Can anyone ELI5 why ETH and LTC seems to be pegged to Bitcoin when you can buy ETH and LTC with fiat? Hence it makes no sense that prices of ETH and LTC should drop along side with Bitcoin. The MyOddz.bet Big Fat ICO Prize Giveaway!
+
+Along with sports betting, P2P betting, casino games and many other options, well be offering high value Raffles on our website in due course, so we thought, why not hold a prize draw and give something to our contributors to thank them for joining us? Why? Well why not!
+
+
+
+
+So weve teamed up with some fantastic people and are *EXTREMELY* pleased to be able to offer all of our contributors the opportunity to win some fantastic prizes!
+
+
+
+
+To enter, you need only make a minimum contribution amount of 5 Eth during our sale period (Each 5 Eth contribution counts as one entry for the prize giveaway)
+
+
+
+
+
+If you havent already, check us out on our website [HERE](http://www.myoddz.bet). We have a bonus program in effect for whitelist contributors, well be sharing 99.75% of profits (the remaining 0.25% of profits will be donated to MyEtherWallet) and be making charitable donations each and every quarter!
+
+
+
+
+
+*So on to to the prizes, and in no particular order.*
+
+
+
+
+
+1.A very hard to get hold of item, this is a spectacular, brand new and in box, Hermes Birkin bag. In Togo leather, the 35cm model is the epitome of style and will grace any ladies arm. These bags are exceptionally difficult to get hold of and waiting lists can run in to years (we have impeccable contacts). After purchase from a Hermes store, and being so sought after, these fantastic bags can have an immediate resale value of up to 16,000 / $22,400 or more!
+[Check it out here!](https://imgur.com/a/h1gkY)
+
+
+
+
+2.An extremely nice antique Louis Vuitton trunk. These are great focal and talking points and make excellent decoration around the house. This particular model works perfectly as a coffee table. Dated to between 1896 and 1905, this example boasts full leather edging and brass hardware throughout. An exceptionally rare size and also perfect for storage. This has a retail value of 18,500 /  $25,900
+[Check it out here!](https://imgur.com/a/Nhj3q)
+
+
+
+
+3.A stunning and exceptionally rare Cartier Mystery / Prism clock. In sterling silver with a quartz movement and circa 1980s. This particular model, circa 10cm / 4 in high, is based on the much smaller Art Deco manual movement version. A fascinating item which when viewed head on seems empty, and then by the use of mirrors the clock face is revealed when looked at it from slightly above. This item has a retail value of 14,000 / $19,600
+[Check it out here!](https://imgur.com/a/CXeon)
+
+
+
+
+4.An exceptional and very large, sterling silver, book shaped cigar box by Tiffany of New York. The front lid engraved with the Statue of Liberty holding her beacon. The interior lined in Brazilian cedar wood to keep cigars fresh (though not a humidor for long term storage). The spine stamped Tiffany and bearing a design number. Extremely rare and circa 1950s, approx 14 inches wide, this cigar box can hold approximately 30 Monte Cristo cigars and is a stunning desk item. This box has a retail value of 12,500 / $17,500
+[Check it out here!](https://imgur.com/a/fTGoL)
+
+
+
+
+5.A [Mini 1499 GT](https://www.mini.co.uk/en_GB/home/explore/mini-1499-gt.html) ! Yes, a Mini! This limited edition model is restricted to only 1499 examples and one of them can be yours!
+[With optional livery here!](https://imgur.com/a/rAAqU) This Mini has a retail value of 16,500 / $23,100
+
+
+
+
+6.A holiday of a lifetime! Well send you and a partner / friend  anywhere in the world for two weeks, up to the value of 10,000 / $14,000 and will also give you 2500 / $3500 spending money!
+
+
+
+
+All of the items listed above (excluding the holiday!) will of course be shipped free of charge to the winner, wherever they are in the world, and with all taxes (import duties etc) paid as well.
+
+
+
+
+
+**Terms and conditions**
+
+
+
+1.Prizes cannot be exchanged for a cash (or Ether) equivalent amount and the giveaway is dependent on soft cap min being reached.The winners will be chosen entirely at random as soon as the soft cap target is reached via oracle calls. The winning contributors will be announced, via their wallet address, here on Reddit as well as on Facebook and Twitter and should contact us as soon as possible. To make sure of the winners identity, we shall transfer a specific number of an ERC20 token to their wallet which they must confirm receipt of.
+
+2.The Mini will be a Right hand drive model. Due to this particular model of Mini being limited edition and not being available after the start of March, we reserve the right to offer an alternative model should the prize not be won in good time before then and it is subject to availability. Insurance and relevant road tax will be the responsibility of the winner.
+
+3.We reserve the right to add upgrades to the Mini, above and beyond what comes as standard.
+
+4.Dollar values are based on the exchange rate as of 01/02/2018
+
+5.Should we far exceed our soft cap target, we reserve the right to give away ***ALL*** of the prizes via further oracle calls.
+
+6.We reserve the right to increase the amount of spending money to the winner of the Holiday prize.
+
+7.We reserve the right to add additional prizes to The MyOddz.bet Big Fat ICO Whitelist Prize Giveaway.
+
+8.We reserve to right to pimp out the interior of the Louis Vuitton trunk in suede and to have the initials of the winner painted at either end over the original initials which are currently there.
+
+9.Winners will have to take part in a video interview following their win which MyOddz.bet will be free to use in any way we see fit.These mods are even circlejerks and only want positive price related news...... what a joke. 
+Even more reason for teh price to go down, it just takes longer for teh news to filter down....Every time we run into a bearish market, the sub is flooded with drama talk, FUD, HODL strong etc. I love this sub, I love the daily thread, I love memes and cuecumbers but it's time to sober up. 
+
+The last months were full of FOMO and fresh money that has entered this fairly young market full of projects with a lot of potential. But the emphasis is mainly still on the word "potential". Now it's the time for all those projects to deliver some results. The ETH foundation needs to make the biggest challenge of all happen: scaling. If this challenge is mastered, then the real potential is unleashed. And only then the whole speculation might turn into a solid ground for moon talk.
+
+Other projects need to deliver too. I strongly believe in projects, who have more than only a whitepaper and fancy website, but a solid team, existing connections to the real world economy or even a physical product. These projects will obviously have better chances to succeed than many of those vaporware products. And yes in the end it's our decision to rate and decide (and of course gamble a bit) which of these projects might succeed.
+
+Good luck and god bless the blockchain! :D
+
+
+ Check  out the Flippening website. Google searches for Bitcoin dwarf Ethereum. 
+
+The whole market is linked to Bitcoins reputation, and we are going to dip while it falls away. The next rise will be based on our legitimate value, rather than their beautiful but fundamentally flawed visionI think its a concern. The sugar jar is being emptied out from the inside. Investors are withdrawing money and there is not enough capital to refill the market. Winter could be comingWhere can I find the list of exchanges which support EUR pairs, what are the most popular options? 
+
+I've used Kraken before, but not keen on continuing since it had huge problems with orders getting cancelled most of the time I tried to post anything, for unexplained technical reasons. And they also removed all advanced orders options so there is that too.
+
+Just checked GDAX and I can't use it because my country isn't in the supported list.I am new to trading. Can I sell eth when the value is high and then buy it with the same money when the value drops, then keep doing it? Will this strategy make a profit?I need to find an ethereum exchange in the UK that I can buy eth with pounds and exchange back into pounds that pays the transfer fees. The only time I've ever traded was when I bought bitcoin for 20 from CoinCorner and I lost a lot in the transfer fees.Will ICO this month.
+
+https://www.cnbc.com/2018/01/31/venezuela-says-will-pre-sell-petro-cryptocurrency-on-feb-20.htmlWelcome to the Weekly ICO Discussion thread of /r/EthTrader. 
+
+***
+
+The thread guidelines are as follows:
+
+-  All sub rules apply here so please review our **[rules page](https://www.reddit.com/r/ethtrader/about/rules/)** to become familiar with them. The rules page is also linked in the announcement bar above.
+-  This thread is intended as a welcome place for discussion of current and upcoming ICOs.
+
+***
+
+Enjoy!Welcome to the Daily Altcoin Discussion thread of /r/EthTrader. 
+
+***
+
+The thread guidelines are as follows:
+
+-  All sub rules apply here so please review our **[rules page](https://www.reddit.com/r/ethtrader/about/rules/)** to become familiar with them. The rules page is also linked in the announcement bar above.
+-  This thread is intended as a welcome place for discussion of all non-Ethereum related crypto.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+Welcome to the Daily General Discussion thread of /r/EthTrader.
+
+***
+
+Thread guidelines:
+
+-  Please refrain from discussing non-Ethereum related tokens here. You are welcome to discuss altcoins in the Daily Altcoin Discussion thread.
+-  All [sub rules](https://www.reddit.com/r/ethtrader/about/rules/) apply here so please be familiar with them.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!

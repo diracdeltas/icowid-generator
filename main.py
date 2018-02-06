@@ -10,7 +10,7 @@ with open('erowid.json') as f:
 erowid_model = markovify.Text.from_json(text)
 
 # Combine models
-combo = markovify.combine([ico_model, erowid_model], [1.2, 1])
+combo = markovify.combine([ico_model, erowid_model], [1.5, 1])
 
 for i in range(int(sys.argv[1])):
-    print(combo.make_sentence())
+    print(combo.make_short_sentence(200))
