@@ -3169,3 +3169,537 @@ Thread guidelines:
 ***
 
 Enjoy!
+Blockchain has the potential to enhance economic efficiency, mitigate centralized systemic risk, defend against fraudulent activity and improve data quality and governance.
+Read the analysis:
+http://cryptoguru.bid/2018/02/08/ethereum-price-forecast-eth-investors-find-the-silver-lining-they-need/Kraken disabled advanced orders like Stop Loss or Take Profit last year. I wonder how they expect people to margin trade without these order types. Do they really expect us to keep watching the price every minute and settle positions manually in real time? 
+
+If you have been margin trading on Kraken, how have you been doing it? Is there a third party tool (like Coinigy or a bot) that you use for placing pseudo margin orders (i.e. orders are only sent to the exchange when certain trigger conditions are met) on Kraken?The World Bank and the United Nations estimate there are about two billion unbanked people in the world today, or people without bank accounts. The Kora Network will support national currencies as electronic, cryptographically secure tokens (eFiat). As a digital currency, eFiat can be sent over distances and in large amounts. https://kora.networkSource: https://www.ethnews.com/chinas-central-bank-email-hacked-message-claims-cryptocurrency-ban
+
+'Per an excerpt from the message, recipients were to expect restrictions on "all aspects and services of bitcoin trading in both mainland China and Hong Kong." It extended an invitation, now established as fraudulent, requesting that press attend a briefing in Beijing on February 14, 2018. It claimed that PBoC deputy governor Pan Gongsheng was to oversee the meeting and supposedly detail the suppression of "all virtual currency services and activities of both individuals and business including market makers, mining operators, trading platforms and wallets."
+
+However, spokespersons of both Beijing and Hong Kong authorities deny that such a meeting is to take place. Likewise, no event matching the description has been announced on either the HKMA or PBoC official websites.'it seemed to be decoupled for a while and now it has been holding extremely tight to 10% of BTC's price.. i am wondering if anyone has any insight as to why ? seems like this has to be some kind of systematic result Anyone can recommend an exchange that accepts credit cards with minimal fees (deposit and withdrawal). I was with Lykke (free deposit/withdrawal) till they charged fees this year (deposit: 3.9% credit card, withdrawal: 0.005ETH). I'm just wondering if there was an exchange i missed out.Hi all.
+I'm one of the Dev's of a popular game based on Ether. I won't mention the name of the game because this post is not about shameless self advertising.
+I'd like to discuss what I think will determine the future of the ethereum ecosystem, it's success, adaptation, and maybe even what will finally lead to Ether taking the throne and making Bitcoin the altcoin.
+I have a vested interest in the success of Ethereum. I was a big supporter for the past year and I'm an even bigger supporter now when our game brought in about 1,200 ETH in revenues in 2 weeks since the launch of the game. 
+But for me and my team this isn't about the crazy hype and short term success. We started the journey well funded with traditional investors behind us, who saw the potential in that cute digital scarcity game from December 17 and decided to take a big bet on our idea.
+
+For us this is a long term mission of developing sustainable growing dapps based on Ethereum.
+
+There is an understandable judgment and hostility against BlockChain games in this community, and we totally get it. People feel like Ethereum should be regarded as a serious investment.
+The premise behind what we're doing though is based on the assumption that mass adaptation can only be achieved by bringing Ether to the spotlight in the form of usable applications and games.
+Every new person who is exposed to an app or a game that's based on Ethereum is a new person who has to buy Ether, install a wallet and educate him/her self about what it's all about.
+Our motives are not altruistic of-course. My team and I are now holding very large amounts of ether. We're using our fiat funding for growth and trying to hodl as much as we possibly can while growing our company using USD funding. 
+We want Ether to dominant and we are placing a giant bet on it. While many would convert this newly earned fortune into fiat and move onward to a new project, we are trying to take a longer term approach and create a large and sustainable ecosystem that is interesting enough for the general public to participate in. 
+We recently decided to inject most of the ETH proceeds we generated in the last couple of weeks back into the game in the form for rewards and interest paid on holdings. We're doing this in order to sustain growth and support the momentum. Active players can vouch for the fact that we are really doing this on a daily basis in a transparent and fair way.
+Again, while these decisions on our part are far from altruistic, we believe that they at least deserve the support and encouragement of the core community of ETH cryptoheads such as yourselves.
+
+Thank you ETHtrader for being a source of knowledge for us for a long time, and introducing us to a technology that turned out to be life changing for some of us.
+Regards from the team of an unmentioned Crypto Game. (:
+
+
+    The recently released [Coindesk - State of Blockchain Q4](https://media.coindesk.com/uploads/research/state-of-blockchain/2017/q4/sob2017q4-2018.pdf) has released a huge amount of fantastic information. Something that did catch my attention though was ICO funding.
+
+During Q4, there was 3.23 Billion in ICO funding, that is an absolutely phenomenal amount of money being invested in ventures that were mostly just white papers.
+
+Obviously the market was well overbought coming into early January, and profit taking by early adopters, and the subsequent fear of a crash lead to an absolutely astounding correction. 
+
+I am interested though in how much of this crash was induced by a sell off of ICO's intending to fund their projects? The world still runs on FIAT and new projects aren't paying there bills in ETH and BTC.
+
+On the contrary though, the rise in the price of ETH actually accounts for a large amount of the perceived funded value. 
+
+When priced in ETH
+
+Q2 - 4.96m  
+Q3 - 4.83m  
+Q4 - 7.52m  
+
+That's 17.31 million ETH tokens funded to ICO's during the past three quarters. That accounts for nearly 20% of the entire ETH supply. selling that off in early January, as well as profit taking by early adopters across the entire cryptospace, easily explains the huge crash in marketcap. FUD may have made it worse, but it was more likely a byproduct of natural market movements, and people taking advantage of sentiment.Welcome to the Daily Altcoin Discussion thread of /r/EthTrader. 
+
+***
+
+The thread guidelines are as follows:
+
+-  All sub rules apply here so please review our **[rules page](https://www.reddit.com/r/ethtrader/about/rules/)** to become familiar with them. The rules page is also linked in the announcement bar above.
+-  This thread is intended as a welcome place for discussion of all non-Ethereum related crypto.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+Welcome to the Daily General Discussion thread of /r/EthTrader.
+
+***
+
+Thread guidelines:
+
+-  Please refrain from discussing non-Ethereum related tokens here. You are welcome to discuss altcoins in the Daily Altcoin Discussion thread.
+-  All [sub rules](https://www.reddit.com/r/ethtrader/about/rules/) apply here so please be familiar with them.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+In my 20 year career in video game development, I've personally known many people who share some of the traits Vitalik has:
+
+- An absolute genius in his areas of expertises
+- Loves to get his hands dirty creating innovating solutions to problems
+- Doesn't care for the spotlight at all
+- Wants to "do" not "manage"
+
+Every single person I've known like this also had a tendency to get bored quickly when things began to get repetitive or when there were more interesting problems to be solved or greater challenges to be explored elsewhere.
+
+Don't get me wrong, in my opinion the entire Ethereum team is one of the most competent in the space right now - certainly the future of the project does not rest solely on the shoulders of one man.
+
+I'm also not saying the Vitalik will have the "grass is greener" itch with Ethereum for sure, but I am intrigued to run the simulation on what would happen to the market cap in the short term and long term if this happened and see some interesting discussion on the topic.
+
+Thoughts?It's a bit of a hassle to write out that info again, laminate my wallet, etc. 
+
+My wallet is encrypted with a password via MEW, if that matters.All the cool crypto millionaires (millionaires in general, actually) move to Monaco to stash their money. 
+ lrn2taxhaven
+
+https://www.youtube.com/watch?v=aDgkKYMZrN4Hey guys!
+
+I'm putting together a small group of blockchain wonks for compensated (yes, we have money) advisory roles with high-potential, early stage blockchain companies in roles helping designing the token ecosystems with a focus on decentralized token platforms/protocols incorporating a governance model. I want to work with a few people outside my direct network in the space to bring in new perspectives. (Open to tech focus or business/economic focus). 
+
+Please DM me if interested yourself, or if you have someone to nominate. Only pre-requisites are that you've already played a role in designing at least one token ecosystem and that you're a good person interested in ushering in a social/economic/cultural revolution through blockchain and not just making money.  I second the disappointment.
+Promises were made, but not kept.
+
+&gt; ...expected to follow that up with a main ICO late last year. But the new capital infusion announced today may have taken the place of that public ICO.
+
+Dfinity is now basically a Polychain's/Andreesen's subsidiary. 
+Whatever.
+Goodwill's gone.
+BTW, the fact that DW thinks that hundreds of millions of people are interested in this project suggests unjustified expectations at the minimum.
+
+EDIT: I am not sure if what was done is even legal and does not violate Swiss foundation charter. To me it looks like VC investing in a company. The wording about contribution is just a gimmick. So, a company masquerading as a Foundation? Is it even legal? If i was one of the seed round contributors and cared about blockchain idea as a public project, I might have sued to stop it, but I am not a seed contributor. 
+
+
+OP here, not sure if it is visible or not:
+https://www.reddit.com/r/dfinity/comments/7vw2ak/dfinity_raises_61_million_for_blockchainbased/dtvr283/I think there are two questions here.  
+1. Will they actually shut down a decentralized exchange or app? 
+2. Can they shut down a decentralized exchange or app?
+  
+Taking a decentralized exchange as an example - In most 1st world countries with established currencies, the government will not have a good reason to shut the exchange down.  Sure, there will be banking lobbies trying to force it but at the end of the day if it makes the economy more efficient then I doubt this will happen.  
+
+The second question is the more interesting one. For example, China which wants to have tight control of it's currency, will (in my opinion) be able to shut the exchange down.  Control of web traffic, harsh penalties, etc. What am I missing?
+
+I feel there is a naive belief in the long-term blockchain community that governments can be bypassed and should not be concerned or engineered around. Hi, I'm looking for a web developer to make my website ethereumbuyer.com have a similar but different vibe and feel like ethereumprice.org. I will pay them $700 in Eth if they can help me do this on my site. Hello,
+
+I am a recent graduate of California State University, Northridge, and am currently involved with the Applied Social Psychology Lab at that institution. The reason for this post is that we are currently undertaking research to do with cryptocurrency investors. To date, there has been research concerning the market movement itself, but little to none has been done on the individuals currently investing. 
+
+The present questionnaire concerns the personalities and tendencies of the average cryptocurrency investor. It takes approximately 5 minutes, and all information is kept confidential. You will not be asked any identifying questions such as your name or public wallet address. The purpose of this study is to gain a better understanding of the individuals investing in this market. 
+
+Ill be posting this in several sub-reddits, so if you see this posted elsewhere, please do not take it more than once. We thank you for your participation. Here is the link to questionnaire:
+
+https://csunsbs.qualtrics.com/jfe/form/SV_d0iSqv0L79atsm9In the midst of chaos I always find it very motivating to reassess fundamentals &amp; develop my investment strategy for the next cycle. 
+
+The current climate provides a big opportunity to invest in some discounted alts for those with the risk appetite. Ive personally made my bed with interoperability coins, the below is a rationale as to why I think they represent the most obvious risk/reward slam dunk in the space for a long long time. Contrarian opinions and theoretical critique very welcome.
+
+Ill caveat that when the next bull comes along I believe well follow historic patterns with capital initially flowing into the largest cap coins (ETH/BTC) before alts. Even with that front of mind Im comfortable leaving the majority of my holdings in interchain projects.... as once the penny drops I have zero doubt we'll see market parabola at its most intense to date.
+
+Ill also be unapologetically shilling ICON (ICX) throughout. Quite frankly Im doing you a favor! If you havent read the whitepaper, you should.
+
+Lastly, Ill mention that Eth has the potential to become an interoperability coin through the implementation of plasma. However, the lack of bespoke interoperability sophistication makes the task a lot more difficult compared to others in market.
+
+
+**Interoperability Conceptual Intro**
+
+
+
+
+Multi-chain networks are the 3rd major evolution of blockchain technology. The first being cryptocurrencies, the second smart contracts. Each of these technological advancements are revolutionary because theyre able to **fundamentally change an organizational structure** over a relatively short period of time. 
+
+Ill split these interchain pieces into 3 parts for ease of digestion:
+ 
+Part 1 (this piece) will be a conceptual view of crypto from a holistic level, Ill be relating this back to the internet boom for analogous reasons. This  emphasises in laymans terms the role of interchains from an infrastructural perspective and the dominant value they can generate relative to other coins.
+ 
+Part 2  will go a little deeper with a fundamentals evaluation of the market.  Ill draw distinctions between chains I believe will do very well (those that evolve &amp; adapt smart contract functionality to industry) vs interchains I believe will struggle (those that are too generalised).
+ 
+Part 3  - Strengths, weaknesses and tradeoffs of the coins from a purely technical standpoint.
+
+
+**Distributed Ledger Technology 101**
+
+
+Before I even touch on interchains its important to understand the underlying technology we all buy into is and its NOT blockchain.
+ 
+Contrary to mass opinion, DLT (distributed ledger technology) is the underlying tech behind crypto. Blockchain is quite simply a structural form of DLT - a sequential block form. DAGs like IOTA are another form of DLT in non-sequential form although I wont focus on them for now.
+ 
+Back to blockchains: they can come in nuanced forms (permissioned, permissionless, federate, private, public). Each form allows for a threshold of technical specification, these specs are primarily concerned with 1. transaction types (basic or sophisticated) and 2. throughput (scale &amp; speed of txs).
+ 
+We can currently define the blockchain space into 3 different competitive spaces that generate different sources of value:
+
+         Currency based protocols/applications - transactional value
+
+         Smart contract protocols  network value
+
+         Interchain (or multichain) protocols - interoperability value
+
+
+**Comparing these 3 value sources to the internet era.**
+
+
+&gt;**Currency protocols/applications**
+
+&gt;*These make up 90% of the coins on the market &amp; facilitate more basic mediums of exchange. These include secondary layer applications such as ERC20 tokens but also standalone protocols like BTC (or DAGs like IOTA).*
+ 
+&gt;*Analogy:  Apps (ERC20's) built on the ETH network can be viewed as websites being built on top of the internets most popular code (HTML). Standalone protocols like BTC or IOTA can be viewed as webpages built in alternate programming languages (e.g. JAVA) that are used for nuanced functions.*
+
+&gt;*Currency protocols generally serve highly specified use cases/markets, just as websites are highly specific to certain industries or interests.*
+ 
+&gt;**Smart contract protocols**
+
+&gt;*This is the internet itself. By definition smart contract protocols and the internet are both operating platforms that enables further tech to build &amp; innovate upon. Both provide networks for applications to leverage. Both capture value from a very broad perspective.*
+  
+&gt;**Multichains**
+
+&gt;*The connective tissue of entire system; the search engines. What Google &amp; Yahoo have done for information aggregation &amp; accessibility, interchains will do for blockchain automation and connection.*
+
+
+**Impact of Interchains from a value perspective**
+
+
+Weve seen major hype &amp; gains when shiny new tech starts to become conceptualized en masse. See DAGs like IOTA or 2nd gen smart contract protocols like EOS, Cardano or NEO. Pay close attention to the word conceptualized as the market really doesnt care if there is a working product with viable timelines. they just need to understand the concept and think its clever.
+
+Some of the aforementioned coins are very interesting, I personally love EOS as a hedge against Ethereum but its important to distinguish that EOS, NEO, IOTA etc. are **efficiency** drivers that generate and steal value from within the **current market dynamic**. 
+
+Their focus is on improving the status quo (in most cases scaling) &amp; they do not drastically alter the market from a **structural** standpoint. In essence their value is limited to the structural boundaries in which they exist (remember those sources of value I mentioned earlier?).
+ 
+In comparison interchains fundamentally **disrupt** the organizational structure by overlaying a connective system on current blockchain silos.
+
+Connecting independent cogs within a broader mechanism is a paradigm shift because it allows for a whole other realm of innovation that didnt yet exist. It extends the structural &amp; creative boundaries, in turn generating much larger amounts of innovation value.
+
+
+**Example of interoperability efficiencies**
+
+
+This part is a tad subjective, but the future landscape as I see it will be made up of myriad private and public blockchains, each chain designed for differing functions.
+
+Corporates will build private chains to safeguard confidential/proprietary information, but they'll also use public chains to leverage big data &amp; realise broader economic efficiencies.
+
+Just like extranets, private chains will be small and focus on internal, proprietary use cases e.g. accounting, supply chain, human resource etc. 
+
+Just like the internet, public chains will act as data warehouses where efficiencies can be realised by leveraging a socially coordinated network of users.
+
+For longer form tasks to be processed from start to finish a connective thread needs to exist between the numerous private &amp; public chains. 
+
+
+&gt;**Using ICON as an example:**
+ 
+&gt;*Context: A hospital procedure has taken place and a patient has claimed the hospital fee against their medical insurance. For the case to be settled information needs to flow between an insurance company, the hospital and the insurers bank who hold the insurers money. This all has to be done in line with US regulations where the procedure took place.*
+ 
+&gt;*Requirements: The insurance company have their public records on the ETH network but they also have their own private chain to house confidential records, as do the hospital, as do the bank. Part of this data transfer can be done purely on the ETH network as all 3 parties have public records there. However, much of the data that needs to be connected is confidential and lies on private chains outside of the eth network.*
+ 
+&gt;*To make things more complicated the bank need to manage their cash flows and requests money from other banks using Ripple. The insurer also uses OMG as a settlement system and would like to be paid by the bank in OMG tokens.*
+ 
+&gt;*The solution: ICONs able to connect all blockchain forms   private, public &amp; networks in order for all of the information to autonomously flow in a correct, suitably confidential manner.*
+
+In this case hospital records from the hospitals private chain, insurance contracts from the insurers public/private chain &amp; payment terms from the banks public/private chains.
+ 
+ICONs smart contract functionality can also be localised by region which allows for regulatory flexibility. This means that an insurance claim in the US vs an insurance claim in Denmark can be handled differently on the ICON network as per the legalities of each jurisdictions insurance laws. 
+
+From a value perspective ICON has facilitated and automated more processes from start to finish than any other chain. ICON in this respect *IS* the data sharing economy
+
+
+**Summary**
+
+
+A look at technological history and youll see that the major value is always captured by disrupters. I view the interoperability territory as a place where only a very select few niches can be found &amp; interchain dominance will be in the hands of the few.
+
+Just like search engines, interchains are sandwiched between protocol and application - connecting, capturing and leveraging value thats been created on both sides. Just like search engines they create value through accessibility &amp; connectivity.
+
+With conviction, Ill end this and say the interoperability space will deliver the Google of blockchain.
+
+Did I mention you should read the ICON whitepaper?
+**Summary:** One of the biggest challenges standing in between Ethereum and meaningful mainstream adoption is scalability - its capacity to handle transaction volumes magnitudes higher than it is able to today. There are a few promising scaling solutions coming down the line for Ethereum, and understanding them will be paramount when discussing its future.
+
+&amp;nbsp;
+
+**Read more about the details in our original article here:** https://medium.com/titan-digital-asset-group/scaling-ethereum-for-global-adoption-d0168fa66297We all love Crypto, right? Do we all understand it? Seems not.
+
+Bitcoin is a Crytocurrency...and only a cryptocurrency. Ethereum is a platform for smart contracts/nuanced crowdfunding and dapp development, AND it's a cryptocurrency.
+
+These things are not direct competitors, Bitcoin musn't fail for Ethereum to win. This is not American politics, both can strive without being at eachother's necks.
+
+Can we, as humans, stop being so divisive? I support both, particularly since ETH usually sees some gorgeous gains on the back of it's predecessor's rises.With this significant drop in Bitcoin some other coins were hit a lot harder even. The **DAO PlayMarket 2.0** ended its ICO (**PMT token**) end of December selling one PMT for 0.2 ETH. The entire ICO phase ranged from 0.12 ETH per PMT token up to 0.2 ETH per PMT token ([source](https://cryptoslate.com/coins/dao-playmarket-2-0/)). In the last days with this current market **PMT is listed now 60% to 80% below its initial ICO**, which was with $5 million quite successful.
+
+
+
+Here is my research on PMT:
+
+  
+
+**First, the basics  what is it anyway:**
+
+- Providing the first decentralized Android app store based on crypto
+
+- Including an unrivaled, built-in ICO platform for app developers
+
+- Active development team with regular updates via Facebook, Twitter, Videos as well as coding on Github
+
+- Roadmap available  with over one year of already accomplished development topics
+
+  
+
+**Second, from an ICO / token perspective:**
+
+- ERC20 token with very limited supply of only 3 million token
+
+- ICO from 0.12 ETH to 0.2 ETH ended successfully ($5 million reached)
+
+- 75% were offered in crowdsale, which is a large percentage compared to other coins. The project teams tokens are frozen for 24 month.
+
+- **Listing on Yobit, Bittrex and Bitfinex  [(twitter)](https://twitter.com/en_playmarket2) have been requested**, making it accessible to a much larger audience shortly
+
+  
+
+**Third, from an investor perspective:**
+
+- **Dividends payment**: Holders of PMT tokens automatically become co-owners of the platform-based DAO PlayMarket Foundation, which takes a 5% cut from developers releasing their own token (ICO) on the platform. From this, dividends will be paid out on pro-rata basis (to PMT token holders)
+
+- Potential app market: **Entering an Android app market of $20 billion**. This is just the expected 3rd party appstore market (meaning the market share of the current top providers, like like googles app store, are not even included in this)  [source](https://techcrunch.com/2017/03/29/app-annie-android-to-top-ios-in-app-store-revenue-this-year)
+
+- Project was able to convince initial investors and partners (e.g. BitBaza) and received 350k investment capital
+
+- Like in other app stores, developers do not receive a salary by the platform provider, but are selling their own developed app through the platform. Hence the platform gets a free growth and the store can scale freely through its network of developers. For developers a 1% commission is very attractive (compared to 30% in other stores)
+
+ 
+**Forth, looking at the market potential / token ratio:**
+
+- Targeting am Android market expected to be $20 billion dollars ([source](https://techcrunch.com/2017/03/29/app-annie-android-to-top-ios-in-app-store-revenue-this-year)) for third party stores alone, there is a huge market that can be addressed  even without having to battle against the larger stores e.g. from Google. 
+
+- A 10% share of this market alone, worth $2 billion, and seeing that there are only 3 million PMT tokens, would bring one PMT in the range of about $666 (about 0.8 ETH for todays ETH price). Currently with an ETH rate of about $830, a PMT is trading for less than $40 (about 0.05 ETH). So reaching this market share would already mean a 20x (ETH) or 16x ($). Even less would be a great success and opportunity already. PS: This is without taken the other things in consideration, that this project offers (built-in ICO platform, paying dividends, ). The store is BTW not just paper-research! Launching of the store is already in preparation for the next couple of months and development was active since over a year  see the roadmap and if you are interested on more details, there is a whitepaper and website of course as well  see below.
+
+
+For early investors you will need to go the EtherDelta route, or wait for listing on the other exchanges mentioned above: 
+
+[https://etherdelta.com/#0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-eth](https://etherdelta.com/#0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-eth).
+
+Or, if you are familiar, ForkDelta also lists it:
+
+[https://forkdelta.github.io/#!/trade/0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-ETH]( https://forkdelta.github.io/#!/trade/0xc1322d8ae3b0e2e437e0ae36388d0cfd2c02f1c9-ETH)
+
+  
+
+Further information on the DAO Playmarket 2.0 you can also find on their official site:
+
+- [https://ico.playmarket.io/](https://ico.playmarket.io/)
+
+- [(whitepaper)](https://ico.playmarket.io/#whitepaper).
+
+  
+
+Let me know your thoughts on this project, if you have done the usual DYOR.
+The team behind QuikNode.io (easy and reliable ETH nodes) today released a new feature for QWallet Search. In addition to searching any ETH account and getting its tokens and USD value, users can now select multiple ETH accounts into their Portfolio, and QWallet will give both a per-wallet view and an aggregate view! So now anyone who has holdings across multiple accounts can have one place to manage and monitor their holdings. Check it out https://QWallet.ioI've only bought ICX so far. I first bought 66% of my ICX stack using Bitcoin and then later 33% of my ICX stack using ETH. I can only see the change of my ICX portfolio in USD and BTC values but not in ETH value. Is there any way I could see my profits/losses in USD, BTC, and ETH? Or does it only show the Crypto value that you first bought with? Thanks.The bearish case for Bitcoin's bounce. A look at Ethereum's possible consolidation zone. A bullish look at Bitcoin Cash, Cardano and Litecoin, and a bearish outlook on NEO.
+
+https://steemit.com/cryptocurrency/@matthew-analysis/daily-crypto-analysis-7th-feb-technical-analysisWhat a time to be alive, almost pure chaos and fear the last couple of days. People selling for short term gains after holding for 10 months for about a third of ath; the sky is crashing; crypto is dead; etc. 
+
+Let me just clarify something, crypto is not an easy way to wealth. You ARE working when you own it. I post this here for Ethereum owners since most everyone else will be blown away when their shitcoins dont recover. Or when they get bitconnrekted. I even see stalwart bulls turning to dust and adoring their fud dresses. 
+
+You are working by not selling. By having the strength to see your account is down hundreds, thousands, hundreds of thousands, and react dispassionately. You are working to reason through well placed fud aimed at stealing your coins. You are working to deny the voice in your head that says wtf are you doing? After all, do you think its easy? Was this weak easy?
+
+You also work when the price is high, you dont sell there either. Because maybe you live in Murica and get gouged by taxes if its short term. And maybe you believe, like Gordon the great, that greed can be good.
+
+Someone sees a trader like me for instance and assumes I placed Wild bets and they paid off and that Im lucky. I say bullshit. The guy who bought bitcoin at 1 and sold it for 2 is lucky. The guy who bought at 1 and.......what is he? Hes the guy who worked at it, made it his job to let the fear pass through. Now hes living a type of way most will never.
+
+This is how I do it. I pretend nothing has changed, keep showing up for that job, and try to avoid folio and trader when I can. After all, while the trade is open I dont have wealth. Its just eth not fed credits (lolz).
+
+And let me address something else thats sure to offend the reasonable amongst you. Unless you put $1 in years ago, you kind of have to put in more than youre willing to lose. I keep seeing that mantra repeated in cult like fashion. Only invest what you can afford to lose. Putting in less than you can afford to lose means you will make less than will change your life. If your moon is a new dishwasher and paying off that old Blockbuster fine that just wont go away, invest accordingly. Personally I hate being tethered into wage cucking, but I wear my shackles with less disdain knowing that if I keep working hard at holding it will all go away.
+
+Youre here now. I dont know how you found this place but youre here now. Work for your future. Dont gamble on this. If you believe in it, leave it alone. Ignore pessimism and euphoria. Focus only on adoption as this will translate to price. Adoption takes time. 
+
+Nothing else matters. Ethereum is on a bullish recovery after price crashed further below $600. What should be expected next. Will the bullish trend resume from here? The following 7 February Ethereum price prediction looks at ETHUSD bullish push possibility. Read the article:
+http://bitcoinnews.infos.st//index/7-february-ethereum-price-prediction-ethusd-forecast/OPEN Platform is developing the first plug and play blockchain payment gateway. This means a simple method to implement cryptocurrency acceptance that is custom made for your application backend. Come visit r/openplatform to join the community and learn more! www.openfuture.ioIf you're a journalist, the first thing you do is check sources. Two days ago Coin Telegraph posted a story that immediately set off alarm bells. At the time, I wrote this:
+
+(Quote:) China Finally Banned Cryptocurrency!*
+
+We do not know this. We dont know a thing about Chinas intentions, actually. What we do know, is that (as is often the case) Coin Telegraph reported something as fact when their sources were abysmally weak. The outlet, which adores these crypto clickbait tactics, quoted the South China Morning Post as the source for this headline  which in turn quoted a tertiary source (to which it did not link) called the Financial News, and which that source claimed was affiliated with the Peoples Bank of China.
+
+In other words, this is possibly true  or possibly complete and utter bullshit. Another South Korea, another India, another  well, China. There are so many opportunities for misinterpretation, mistranslation, and just plain misinformation here that we cant imagine why they would publish it. (End quote.)
+
+Now, thanks to Bitcoin News, that FUD has been exposed (I don't write for them, but respect to any journalist who bothers to check facts) and Coin Telegraph is under the microscope.
+
+My question to you, the crypto public, is whether the pretty graphics are really worth it, if the 'journalism' is so lazy and inept? (I'm bypassing the notion that they would deliberately short Bitcoin...)An old family friend messaged me yesterday telling me he just **traded all of his BTC for ETH**, which he'd been holding since 2013.  Like me, he's lost his confidence in the Bitcoin project, team, community, value proposition, and roadmap.  Based upon current market dynamics and sentiment, he is not alone.  Even die-hard maximalists ([like Richard Heart](https://www.reddit.com/r/ethtrader/comments/7vcvcy/daily_general_discussion_february_5_2018/dtrp8v5/)) and other long-time BTC supporters ([like Vinny Lingham](https://twitter.com/VinnyLingham/status/959076300685172736)) have started to jump ship or strategically distance themselves from BTC and start to embrace ETH.
+
+Meanwhile, the Ethereum project, team, community, value proposition, and roadmap for 2018 / 2019 were just all too enticing for him, and perhaps you as well.
+
+And he made the trade over to ETH at practically market bottom / maximum market despair, *like a boss.*  He minimized tax liability, while getting the same amount of ETH for his BTC that he would have today.  And if the ETH-BTC ratio continues to increase, he may have gotten quite a deal indeed.
+
+Hopefully some of you were able to take advantage of that opportunity if you wanted to ([I wrote about it here yesterday](https://www.reddit.com/r/ethtrader/comments/7vlev1/daily_general_discussion_february_6_2018/dttxne0/)).  Considering we are well below all-time high, I daresay the opportunity is still there for the taking.
+
+If you want to hold both BTC and ETH, no worries here.  I'm not going to stop you, and I don't think many here would.  Just take the time to understand the value propositions behind both coins and make sure you buy into their respective visions and roadmaps.  2017 was a defining year for both projects, with the vision changing and becoming more clear for both projects.  I don't follow BTC as closely any more since it decided to focus on "digital gold," but I will say that ETH has an exciting 2018 and 2019 ahead of it.  Scaling and increased developer / user adoption will reach fever pitch in the next two years for ETH.
+
+**But if you're coming over from BTC, welcome.**  We're happy to help you learn about ETH and welcome you into the community.  And if you get down-voted for asking a question the first time in the Daily, don't take it personally.  We're used to getting a lot of trolls around here, and sometimes it can be hard to tell.
+
+**If you do have questions and you're not getting the answers you need, please post below and someone will hopefully help you out.**  If that doesn't work, then please feel free to message me personally and I'll try to help if I can.Ethtraders, 
+
+This has been lingering on my mind for some time. In the fall, we all cheered Mike Novogratz as he announced plans to launch his rather large crypto fund, making big claims about BTC and ETH (albeit he was 95% accurate so far). 
+
+Where is he now? I know he said they pumped the brakes because they didn't like market conditions. I wonder what really happened, or is happening. 
+I was using coinbase and just selling to paypal, which worked great until it went down a couple weeks ago.  I don't have a bank account because the irs has siezed them over some tax crap from a few years ago.  So now I just have eth sitting in my wallet that I'd really like to cash out.  Are there any exchanges that sell to a prepaid card, or paypal, or something like that?  I don't want to deal with the person to person sales as there are too many people out to scam and do chargebacks.  So I need a legit company to work with.If I build a machine like typewriter or a dishwasher, two of the biggest products in modern history, what is their intrinsic value? Once I'm past the prototype and growth stage and mass producing these damn things, how do I know how to price them, how much will people pay?
+
+The answer is people will pay according to the value they receive in the form of time and effort saved by using these machines rather than doing the activity by hand. If a typewriter saves you hundreds of dollars a year then people should expect to pay a few hundred dollars for one, absent any competition. **The intrinsic value of any machine is the time and money saved by using the machine over doing it by hand or with a weaker machine**.
+
+Cryptocurrencies like Ethereum run on *virtual machines*, and their intrinsic value is sort of like those animes where the good/bad guy gets so powerful that the other heroes can't even detect his level anymore. To understand just how valuable cryptocurrencies are, you have to think about the purpose and function of a fiat economy, and examine how many professions and industries exist and are necessary to enable a fiat economy to work smoothly and integrate with the wider world.
+
+Essentially, our fiat economy is a huge machine designed to facilitate the exchange of goods and keep track of who owes what to whom. And this machine is operated by millions of people at the expense of trillions of dollars. And this is all to just make the rest of the economy work a lot faster. Because without fiat technology, your society would have to spend tons of time and labor lugging around junk to barter, there'd be a lot more risk and less trade and less growth. 
+
+**And to make a fiat economy work you need universities, professors, governance, regulators, investigators, enforcers, courts, lawyers, banks, bankers, accountants - just a ton of high-priced professionals and institutions and technology, many of them soaked in corruption despite all the mechanisms intended to keep people honest, all for a system designed to keep people honest that nevertheless fails spectacularly every few years.**
+
+But the worst part is that if you want to try nation-building a place like Afghanistan or develop a colony on Mars, you have to build up all these fiat institutions and train tons of professionals before you can integrate whatever these people grow/build into the global/interstellar economy at large. We've already lost trillions of dollars just recently trying to build up institutions like the American Universities in Iraq and Afghanistan to train the future professionals needed to run the country, but these efforts were thwarted by insurgents and terrorists.
+
+But cryptocurrencies automatically and incorruptibly do all the functions of these fiat institutions and professions and even more. And all you need to run a basic crypto economy is smart phones and internet, and this is how nations and colonies will be developed in the future. When Mars is settled, the colonists won't need to include bankers and crap, just workers and scientists and general security (just like all those sci-fi movies that naively assume the economic details are sorted out before colonization begins). The next time a superpower tries to rebuild a failed state, there won't be concerns of them imposing cultural hegemony via the construction of institutions, and economic prosperity will come online much faster. 
+
+The intrinsic value of cryptocurrency is *currently* **trillions** of dollars, and it remains undervalued simply because its value still isn't understood by evaluators, and this is largely in part due to the fact that this technology makes obsolete practically the entire class these evaluators belong to. Different cryptos will appeal to different people based on their feature sets, but in general the more money is invested into this industry and the quicker it evolves scale solutions the more money and time is saved in the long run by getting these systems online and the old economic administration out the door.Are there any direct competitors to Ethereum? Are any there cryptos better than Ethereum for what it's designed purpose was? Can it survive and come out of this crypto Wild Wild West and be the Google or Amazon when this bubble finally bursts?I spent .4 ETH on XMR a while ago. I've been wanting to sell the XMR to increase my position in NEO. Today, I could trade my XMR holdings for .5 ETH. If I do this, I'm taking a USD loss (for tax purposes this lowers my capital gains) based on how the market has fluctuated.
+
+Is there a reason to not make this trade? If I waited for a profit on XMR, it's likely ETH would increase too - meaning I would still get .5 ETH, but then I'd accrue more in tax $. Pretty amazing /u/Sensualities 
+
+Got any more thoughts?
+
+https://www.reddit.com/r/ethtrader/comments/6a3b1a/my_economical_evaluation_of_the_current_state_of/[Coinnoise.com](http://coinnoise.com) is a simple browser app I've used to wake me up after price deviations.
+
+Probably my favorite app because it's so easy to use for short term (overnight wake ups etc., don't have to mess with phone settings) - but when you set an ether notification it says "ethereum is up by $50" which is not correct.
+
+I know the founder posted here some time ago, but can we raise some visibility so this is fixed?
+
+PSA: Ethereum is primarily the name of the blockchain and the name of the foundation that oversees that blockchain's development.
+
+Ether (1 ETH) is the singular unit of currency that is produced and traded on the ethereum blockchain. It is divisible by many units, most importantly a "finney" (1/1000 of an ether). There are smaller units but they aren't going to be relevant to businesses or consumers now or anytime soon (developers, sure, but divisibility of cryptocurrency is still something worth spreading).By any chance has anyone made or found a clip of Christopher Giancarlo explaining HODL to the Senate in yesterday's hearing?
+
+Outside of the positive turn in sentiment that came from the hearing, that was the highlight for me So I think like many others here, cryptocurrency was my first investment. I started in May 2017 and it's been quite an unexpected and wild right. I made a lot of rookie mistakes along the way and a lot of veteran traders have helped with all kinds of advice, but I think one thing that nobody ever really warned me about in the last year is about the implications that selling/trading will have on your taxes. I have a horrendous tax bill in front of me right now courtesy of bitcoin.tax because I made 1000+ little buys/sells on GDAX, Bittrex, and Coinbase -- short-term trades that were slightly profitable, but were frankly mostly for fun. 
+
+Little did I know that **every transaction, trade, and sale is a taxable event**. Do not invest in a shitcoin unless you buy and hold it. Unless you're extremely confident about a shitcoin and you want to hold it for a year+ without any day-trading, then I really advise against buying it. Otherwise, you're paying short-term capital gains tax on what the IRS classifies as property. 
+
+Buy ETH, hold ETH for a year+, and you'll pay ~half of what you'd pay in taxes if you panic sold or day-traded, thanks to long-term capital gains. Hell, if you make less than 35k per year, then you'll pay NO taxes
+
+Anyways, I hope I can help some other newbies to this space who won't have to deal with this massive headache of a tax report I think they want us to keep fiat in our accounts. Five business days is ridiculous. Started the transfer Friday, money left my account Monday, and I can't use it until Friday.'Ether Dungeon is a real ethereum blockchain based game in which players can explore the depth of dungeons, collecting &amp; upgrading epic heroes, powerful items, challenge fierce enemies, and finally become the Dungeon Master!'
+
+I played the closed Alpha of this game and it seemed really promising!
+
+Site: https://etherdungeon.com/ 
+Info: https://steemit.com/games/@ethgames/whats-ether-dungeon 
+Discord: https://discord.gg/nPM4SBkWhat do you guys look for in an ICO launch when you're thinking about buying a new crypto? What do the best ICOs include and what should they include? What are the things that concern you as well as the obvious red flags?Hey all,
+
+I have had a hard time getting into ICO's lately, they all seem to sell out before my order gets trough. That's why I decided to look for less hyped projects that also have amazing products (in most cases even better than these overhyped ones). I've made a shortlist of 4 projects and I'll include how much I'll be investing in them, and what I expect the profit is going to be in 2018. You may definetly check them out, but always **do your own research before investing!**
+
+
+ - **The Abyss** -&gt; https://www.theabyss.com/. If you are a gaming fan, like me, you can earn money by playing the games you love + buy games a lot cheaper with this platform. The Abyss is a next generation digital distribution platform, delivering all types of video games ( including AAA-titles, to the fast-growing global game community. Unlike other platforms (Steam, Origin, GOG, etc.), The Abyss offers a groundbreaking motivational and multilevel referral system, allowing gamers to earn from in-game and social activities, and other gamers? payments as well. By joining The Abyss, developers will reduce their marketing expenses and receive an extra income from referral payments made in other games on the platform.
+
+How much will I be investing? I will be investing 1 ETH in this project. I would have put in more but there are several gaming community platforms showing which I will also be a part of. The gaming industry is HUGE, with a revenue of over 100 billion $ annually, and I do not want to miss the boat when a crypto-based platform skyrockets.
+
+My expectation for this project? This project has a very high chance of going x25+. If this platform takes off and becomes the standard for gamers the sky is the limit.
+
+
+ - **Squeezer** -&gt; https://squeezer.io/. The world's first software development platform that's blockchain oriented. Squeezer is a platform that helps software developers to build apps easily without tackling the entire blockchain infrastructure . It is also a powerful tool to provide high quality blockchain software components to the large enterprise organizations
+
+How much will I be investing? I will be investing between 5-10 ETH in their presale. Depending on other interesting ICO's that may cross my path before this one launches.
+
+My expectation for this project? If any of these unknown ICO's will go x100+, it will be this one. This platform is revolutionary and will enable software developers to build apps on the blockchain easily. I'm 100% sure the blockchain is here to stay, and the demand for blockchain apps will grow with it. To have a platform where everyone, from beginners to experts, can easily develop apps on, is amazing.
+
+
+ - **Current** -&gt; https://current.us/. Get paid to play all your media. Current consolidates the best content and features from the most popular media networks into an all-in-one, personalized experience. The best part? Stream your favorite content through the Current Platform and earn tokens while doing so. 
+
+How much will I be investing? I will be investing 1 ETH in their presale. 
+
+My expectation for this project? My expectations for this project are very high (atleast 10x). They already have a fully working platform with over 200k active users, and the project is backed by Mark Cuban. The amount of people watching streams and other content has been increasing exponentially over the past years and will keep on growing, I expect Current to take advantage of this growth, which makes the token grow aswell.
+
+
+ - **Vitreus** -&gt; https://vitreus.io. Vitreus will track the origin of diamonds and other luxury items via the blockchain. I think this is the perfect usecase for a blockchain,
+
+THE PROBLEM
+The problem they will tackle is blood diamonds and insurance fraud. With the help of the blockchain, you can look back at the history of an asset and verify it's provenance
+
+THE SOLUTION
+By introducing the blockchain you have a paperless trail and certification for luxury items such as diamonds, or even pieces of art. You can't fake the origin on the blockchain.
+
+How much will I be investing? 2 ETH, I like the project a lot
+
+What are my expectations for this project? Very good. The limited tokens supply @200M means the price can go up. A lot. Plus the softcap is very reachable. This is not one of those icos which expects hundreds of millions of dollars.
+
+
+These are some, but definetly not all of the ICO's I will be investing in this quarter. I'm always searching for more promising projects to do some research on and I have seen plenty of gems cross these forums. So if you are aware of any upcoming projects that have been flying under the radar, please let me know!Considering we all seem to be in a better mood today, which no doubt will skew the results positively, I thought it'd be fun to get an idea of where everyone's heads are at.
+
+So,
+
+Your predictions for the price of ETH, this year: http://www.strawpoll.me/15021786
+
+and
+
+Your predictions for the total crypto market cap, this year: http://www.strawpoll.me/15021792
+
+
+Dimension network  are building a cryptocurrency trading platforms. Their platform will support standard coin pairs, Options, Futures Contracts, Exchange Aggregator and much more. They anticipate a great interest in these new derivatives and a substantial return on investment. Moving forward they expand our services onto a decentralized network, and offer their users cryptographically secure derivative trading, and eventually a real-time transactional currency by us.  
+
+**Website** -https://dimensions.network/en/https://twitter.com/bitfinexed
+
+Could Bitfinex/Tether have sent Twitter some newly acquired proof that all of the stuff he/she was posting was defamatory, false and bullshit? Hmm...What kind of hurdles are we looking at here?  Seems like its the next logical step for the next ICO boom.  Has there been any mention that one of the worst performing currencies of the past 50 years has been the Mexican Peso and that now one of the former heads of the Mexico central bank is calling crypto a ponzi...seriously...how many member central banks of the BIS have needed IMF bail outs...?
+A while back I got some of my friends &amp; coworkers into crypto. For me, ETH is what got me into crypto because I saw the potential in its blockchain and found it to be something worth investing in. For them, crypto seemed like a fun get rich quick scheme (the timing coincided with when BTC went viral). Nowadays they're freaking out about the dip and are trying to sell all their investments. It baffles them that I'm not phased by the dip but it baffles me that they are. I keep trying to explain to them things like Casper and PoS but they frankly don't care about it. All they see are their investments in the red. I wonder if some people will grow bitter towards me since I hyped up crypto, esp ETH, so much but in the end it was their decision to put money into something they didn't care to research. I think 2018 will be a great year for ETH and I can't wait to see all their faces when I go to the moon muhahah.hey guys. i would like to write a brief summary of yesterday's hearing (in german, for a crypto news website). is there a transcript of the whole hearing somewhere?
+thank you very much!Welcome to the Daily Altcoin Discussion thread of /r/EthTrader. 
+
+***
+
+The thread guidelines are as follows:
+
+-  All sub rules apply here so please review our **[rules page](https://www.reddit.com/r/ethtrader/about/rules/)** to become familiar with them. The rules page is also linked in the announcement bar above.
+-  This thread is intended as a welcome place for discussion of all non-Ethereum related crypto.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+Welcome to the Daily General Discussion thread of /r/EthTrader.
+
+***
+
+Thread guidelines:
+
+-  Please refrain from discussing non-Ethereum related tokens here. You are welcome to discuss altcoins in the Daily Altcoin Discussion thread.
+-  All [sub rules](https://www.reddit.com/r/ethtrader/about/rules/) apply here so please be familiar with them.
+
+***
+
+ Resources and other information:
+
+* Newcomers who have basic questions about Ethereum can find answers by visiting /r/EthereumNoobies or our Ethereum Education wiki page, [see here](https://www.reddit.com/r/ethtrader/wiki/education).
+
+* To view live streaming comments for this thread, [click here](https://reddit-stream.com/comments/auto).  Account permissions are required to post comments through Reddit-Stream.com.
+
+***
+
+Enjoy!
+It is amazing how many times "predict" is used in cryptomedia. cointelegraph.com, ccn.com and coindesk.com write about prediction in a huge number of their articles.  I work at Delphy, a prediction markets company where we will launch a fully functioning app early Q3.    Last month, BAT gave out promotional tokens to Brave users.  All tokens were claimed following an endorsement from Phillip DeFranco.
+
+Brave users are required to donate these tokens to content creators (primarily Youtubers at this point).  Users have already allocated who will receive their free tokens, and payments will go out mid Feb.
+
+According to my Brave payment page, my BAT donations are slated for Feb 16th.  I expect most will go out at some point next week.  Expect social media buzz, particularly on YouTube once content creators start to see money rolling in, and realize this is a valid revenue source.
+
+https://twitter.com/AttentionToken/status/957808157815857152
+
+https://twitter.com/phillyd/status/953720245847388160
+
+https://twitter.com/BartBaker/status/953752677992751105https://youtu.be/627845u1jyE
+
+So I knew that the month of december was known for a run, january known for a pull back, I told all my followers, got them out at the top, what I didnt realize is how big the pullback was supposed to be. I went back and actually compared the last few years, we are pretty much exactly on target, I was even able to predict the bottom almost exactly.
+
+You can look at my old posts where I posted about the trend line I believe its going to bounce off of, and it did. The question is, how many times will it bounce off it.
