@@ -1,0 +1,191 @@
+                     Democratizing Cryptocurrency
+Shingo Lavine ETHOS FOUNDER
+VERSION: 2.0.0 LAST UPDATED: NOVEMBER 15TH, 2017
+ 
+“
+The future is already here, it’s just not evenly distributed
+”
+WILLIAM GIBSON, THE ECONOMIST, 2003
+
+ETHOS
+3
+Vision
+Our vision is to create a people-powered new economy services company that makes the cryptocurrency market accessible and trustworthy to the average user, accelerating adoption of blockchain technology and democratizing ownership of both digital and traditional assets.
+Team
+While this is a massive vision, Ethos has an experienced and enthusiastic team and community who are ready to make this vision a reality. The Ethos team brings together a unique collection of experts across cryptocurrency,  nancial services, distributed computing, mobile technology, modern marketing and design-thinking.
+Solutions
+• The Ethos platform is designed to offer speci c solutions for the New Economy:
+• An intuitive, self-custodied universal wallet that allows you to safely store, manage, leverage and further monetize your crypto assets in one place while maintaining complete control of your private keys
+• A social trust ecosystem for choosing, sharing and navigating the ever-growing array of cryptocurrencies that uni es all of your  nancial assets to apply powerful investment models and structures to build your  nancial knowledge and and wealth
+• A social gami cation model that incentivizes crowd wisdom, and makes participating in the New Economy fun, social and rewarding while increasing your  nancial literacy
+• Easy and safe diversi cation across digital and traditional assets
+• Scalable and compliant API services to empower businesses, developers and entrepreneurs to build their own powerful crypto services and product offerings
+• Data feeds to syndicate information about cryptocurrencies and markets
+
+ETHOS
+4
+• Professional services to demystify the industry for businesses and developers while creating a dynamic eco-system to locate,  nd and engage customers in the digital economy thus reinventing traditional Financial Distribution Models.
+Background
+Over the past several decades there have been a number of macroeconomic events that have fundamentally changed the way that society operates. The Digital Revolution changed the way we treat data and computation. We saw the rise of the modern internet in the Dot-com boom and more recently we’ve begun to experience the Internet of Things. Cryptocurrencies and blockchain technology are now making way for the “Internet of Value” and Fintech companies are paving the way to a decentralized, unencumbered  nancial future.
+Ethos aims to create a people-powered cryptocurrency services company to demystify blockchain technology and break down traditional barriers to entry by removing obstacles for consumers and businesses that have existed for decades. Ethos’s Mission is to make the cryptocurrency market accessible and trustworthy to the average user, accelerating adoption of blockchain technology and democratizing ownership of cryptocurrencies and traditional  nancial assets. By allowing the average participant to easily and safely purchase cryptocurrency and other  nancial assets, and have an environment to learn and socialize with others, Ethos helps make the new economy easy, safe, secure and accessible to everyone. We hope to synthesize many of the needs of the new economy into a single, user- friendly ecosystem.
+If we want to to truly unlock the transformative power of blockchain, cryptocurrencies and the waves of disruption that will be left in their wake, it’s critical that we build for accessibility now, not later. If the new economy becomes the domain of a privileged few, and continues to perpetuate the same inequities as the old one, then its vision for the future will have failed.
+The world is ready for a new  nancial future. At Ethos, we’re going to build it.
+
+ETHOS
+5
+1. The Ethos Platform
+There are hundreds, if not thousands, of different wallets out there for all of the different digital assets, and managing multiple wallets for each of your currencies is dif cult. We are creating a platform that will provide a powerful single point of interaction with the new economy while also building a dynamic bridge to the old economy to ensure nobody is left behind. This next generation digital wallet will be
+the backbone for our asset management and investment services platform. The Universal Wallet will allow us to aggregate people and transactions together in dynamic ways in order to increase liquidity and keep costs down for consumers. This infrastructure also allows us to create a universal mobile payment system for users who wish to transact in any currency, instantly breaking down barriers towards mass adoption in the industry. In this section we will outline the pieces of the Ethos Platform that will make it the most user-friendly way of storing, buying and sharing cryptocurrency on the market.
+The Ethos platform has three main components:
+Ethos Universal Wallet This includes a decentralized wallet management system allowing for the easy transfer of value anywhere in the world. The Ethos Universal Wallet links seamlessly with the  at and diversi cation layer.
+Fiat and Diversi cation This system includes a unique legal structure with a  at/ diversi cation system whose capabilities are ampli ed by the Ethos liquidity network tokens.
+Social and Community The Ethos platform seeks to connect novices and experts and reward those who help to educate others. The platform will be a fun and friendly place to learn and begin interacting with cryptocurrencies within dynamic public and private clusters, building on the strong existing Ethos community.
+1.1 The Ethos Universal Wallet
+The Ethos Universal Wallet is a wallet management system that allows users to quickly and easily interact with their coins, while tracking and monitoring diverse assets. The Universal Wallet will allow users to view, send and receive balances of any supported cryptocurrency. The wallet manager is entirely decentralized meaning that consumers have complete control over their private keys at all times and Ethos can’t access funds without direct user authorization. All changes in balance are completely user-
+
+ETHOS
+6
+directed and there are no locks or limits. The goal is to create a safe and easy wallet that operates utilizing the complete user autonomy and control that cryptocurrencies afford. The Ethos Universal Wallet operates much like a password vault making safe and secure key management much easier than before.
+The Ethos Universal Wallet offers users a variety of features not afforded by other wallets, leveraging the unique capabilities of the Ethos platform. Mobile support is a priority for Ethos so that consumers can have access to their coins wherever they go.
+1.2 Fiat and Diversi cation
+A core piece of the Ethos platform is a Fiat gateway and diversi cation platform. Users will be able
+to go seamlessly from depositing funds to diversifying across preset or custom baskets. One-Click Diversi cation enable users to diversify coins across a variety of cryptocurrency assets extremely easily. Users will be given complete control over all their assets at all times. Ethos will have a range of preset allocation arrays that users can replicate, and can adjust the percentage of asset allocations to their preference, assuming available liquidity of the underlying asset.
+When you build your personalized coin basket, you will be given an estimated cost and amount of underlying assets securing your investment. All investments are secured 1:1 by underlying assets. The bene ts to Ethos Baskets are as follows:
+Risk Diversi cation Spread funds across dozens of crypto currencies or tokens, making it less risky than purchasing an individual currency.
+Accessibility Cryptocurrencies become easier to purchase, enabling average participants and consumers to experience the bene ts, and raising liquidity for all market participants.
+Community Expertise Ethos aggregates information on different tokens and provides insightful data through community ratings and predictions so that you know what you are buying.
+Low Cost Ethos Baskets will have low transaction fees, ensuring that the power and freedom of
+
+ETHOS
+7
+crypto currency remains intact as “wall street” and professional venture participants start to enter the market.
+Time Savings Ethos Baskets will enable people to simultaneously invest in multiple currencies instead of having to own and manage multiple wallets.
+Professional Services Ethos enables access to investment professionals or experts for those users wanting a more customized service and the security of an always-on investment advisor to manage your  nancial assets.
+1.3 Social Investment Network
+The trustless nature that blockchain and cryptocurrencies provide is incredibly powerful, but we believe a bridge of social trust is still needed for us to achieve adoption and access at scale, and invest in the future together. The Ethos platform will also be an inherently social platform – where users can share their expertise and be rewarded for helping community members understand the intricacies of the cryptocurrency space and overall investment process. Ethos Ratings invite users to quickly and easily share their opinions on different assets, helping paint a picture of community sentiment towards the unique aspects and overall impressions of a coin as a potential investment. Ethos Reviews allow users
+to share more in-depth thinking, analysis and experiences about diverse assets, and answer questions from other users, with quality information and answers being recognized by other community members and rewarded with tokens and reputation points. Ethos Predictions invites users to predict the future performance of cryptocurrencies as part of both short and long term contests, with rewards and reputation points going to the most accurate predictors. Predictions is a fun, gami ed way to learn more about how the market works and learn from each other, while generating powerful crowd-sourced data to help our users make informed decisions. Next up is Ethos Experts, a social trust layer where users earn reputation and the respect of their peers by adding value, demonstrating participation in the community, and through the quality and accuracy of the information they share. Ethos Experts will be expressed as an array of badges or experience rankings across a broad range, providing a dynamic system of social way nding that will be critical to fostering a truly people-powered platform. Ethos Experts will come
+to life in a number of ways as we grow, with curated baskets or portfolios you can subscribe to as easily as you would a playlist, with customer service ambassadors who surface from within the community
+
+ETHOS
+8
+to actively provide support to other users, right up to super savvy power users who can emerge as investment advisors within the community – giving rise to a new gig economy within the platform, At Ethos, our goal is to build a community of likeminded individuals educating and collectively navigating the new economy with shared principles – one that is built on people power, to empower people
+2. The Ethos Token
+The Ethos Token (ETHOS) is essential to the function of the Ethos platform. ETHOS is a Functional Token that will be used on the platform to access various features, incentivize community building and value creation through a dynamic reward system, and pay for fees. It’s the fuel of the Ethos ecosystem. Furthermore, as ETHOS becomes more liquid over time, it will be used to rebalance individual portfolios. As we grow, the liquidity generated by ETHOS from fee conversions and ETHOS trading pairs will form a “liquidity network,” enabling users to shift allocations between various currencies quickly and easily and transact with each other or send value outside the platform.
+In short ETHOS Tokens will :
+• Reduce costs for consumers for crypto-related transactions.
+• Enable low-cost blockchain applications for developers.
+• Create a scalable micropayment transfer mechanism for all platform services.
+• Support an open  nancial ecosystem that bridges traditional and crypto assets
+• Enable veri ed source of funds and identity for transactions through the Ethos ecosystem.
+However, ETHOS Tokens will NOT :
+• Pay dividends or pro ts of any kind
+• Enable holders to vote on company matters, or
+• Control the company or imply ownership in any way
+
+ETHOS
+9
+2.1 Token Sale and Early Functionality
+Ethos launched a token sale in July, 2017 to distribute functional tokens to the public excluding the
+U.S. and Singapore. Before conducting the sale, Ethos had a functioning internal alpha to demonstrate the viability and function of the Ethos Ecosystem before any tokens were sold. Ethos has had a more publicly accessible alpha since August 2017 that has provided a lot of very valuable feedback that will be incorporated into the  rst full release of the product in 2018. The median purchase size was 1 ETH which demonstrated the demand that users had for the Ethos Ecosystem and the intent that purchasers had to use the token’s functionality within the ecosystem.
+This is important because Ethos strives to run a transparent and trustworthy ecosystem that advances blockchain technolgy and accelerates the creation of a healthy, open and compliant  nancial system. Ethos is a collaborative effort and open-source initiatves source feedback and contribution from people around the world making Ethos a movement with intent to disrupt the way that the  nancial system operates. Ethos discourages any speculation on token price and maintains that tokens should only be purchased for their functional utility within the Ethos Ecosystem. For users who are looking for the  nancial revolution and want to participate in making it a reality - they’ve come to the right place.
+2.2 Token Utility and Open Standards
+Tokens were issued on the Ethereum Network using ERC20 standards so that they could leverage the full security and capability of an established blockchain. Utilizing the Ethereum network offered ETHOS easy exchange integration, enhanced liquidity and the ability to leverage existing technical infrastructure that many users are already familiar with.
+One of the features of the ETHOS token is pro-rated access to the Bedrock API which powers the Ethos Ecosystem. By enabling pro-rated access to an API, there are no over or under charges to developers, and participants in the Ethos Ecosystem can get exactly what they are entitled to. This is similar to an Amazon Web Services model, but even more thinly sliced to the API level, similar to how Ethereum uses Ether gas to power Smart Contracts with the added bene t of eliminating payment risk from the business and the consumer. This allows the ecosystem to operate much more ef ciently - basically at the lowest possible cost the ecosystem will allow - and is bene cial to both businesses and consumers. Ethereum’s gas market has shown the power and potential of a computer system that can be “rented out” on a microscopic scale.
+
+ETHOS
+10
+2.3 Veri ed Source of Funds for the Blockchain
+A major source of headaches for regulators is the perception that cryptocurrency can be used for
+money laundering, terrorist  nancing, drug transactions and the like. Even though there exists this perception, many studies have shown that illicit actors still prefer to use  at over cryptocurrency due to the linkability and transparency of the blockchain. The blockchain is often more transparent than the existing  at  nancial ecosystem, and can be used to create a safe and clean digital  nancial ecosystem.
+Ethos is building standards that will help people stay on the “light side” with crypto and power all the transformative possibilities that crypto promises while at the same time maintaining the integrity of a clean  nancial system. This includes identity for all Ethos participants. Instead of sending funds to an anonymous address, Ethos users can link identity to funds. We see this starting with a “DNS-like” Wallet domain marketplace powered by the ETHOS token that enables veri ed users the ability to leverage the plethora of capabilities that are available in the crypto world. Additionally, ETHOS-VSF is a standard that proposes a way to encode veri ed source of funds into blockchain transactions powered by the Ethos ecosystem. A digital asset that powers a new, decentralized, inclusive and compliant future is something that should appeal to both users and regulators alike.
+2.4 Legal Considerations
+The introduction of Ethos involves myriad legal and regulatory complexities. In fact, these intricacies were the determining factors in our decision to restrict access to our Token Sale from those residents located in both Singapore and the United States, where public policy was extremely  uid. Although
+an analysis of ETHOS Tokens found our tokens to be of the pure Functional Token class bearing no resemblance whatsoever to the more controversial Tokenized Securities, we felt it more prudent at that time to proceed with these restrictions as a matter of caution. However, these restrictions have subsequently been removed to ensure we can service both Singapore and United States residents as we move forward on our development path and ultimate launch of the Ethos Platform.
+Launching Ethos services have legal considerations including:
+• Compliance with Know Your Customer (KYC) regulations and requirements
+• Implementation of Anti-Money Laundering (AML) regulations and requirements
+
+ETHOS
+11
+• Applicability of Jurisdictional Investment Company Laws, including Investment Company Act of 1940, to Ethos services
+• Applicability of Jurisdictional Adviser Laws, including Investment Advisers Act of 1940, to Ethos services
+• Applicability of Jurisdictional Securities Laws, including Securities Exchange Act of 1934, to Ethos services (Broker Dealer / Exchange / ATS)
+• Applicability of Jurisdictional Securities Laws, including Securities Act of 1933, with Token Classes made accessible on the platform (Securities Classi cation)
+These issues should be considered by users considering purchase of Ethos tokens. The fundamental
+role of the Ethos token is to act as “gas” for the Ethos platform where users or developers with Ethos can access services on the platform including those enabling wallet creation, portfolio construction, asset allocation, crypto data queries, rebalancing between various cryptocurrencies and the Universal Wallet, and other features as outlined above. However, depending on the above legal analysis, the Ethos service, either in whole or part, may not be available in certain countries and will be made available in others according to a very speci c rollout strategy. Prospective token holders in the Ethos Platform should consider these facts prior to purchasing any ETHOS tokens.
+“It is not the beauty of a building you should look at; it’s the
+construction of the foundation that will stand the test of time.”
+~ David Allan Coe
+
+ETHOS
+12
+3. Ethos Bedrock
+A Next Generation Blockchain API
+Ethos Bedrock represents the fundamental building blocks that will allow people and businesses to
+build a scalable and compliant set of services on top of open standards. Red Hat didn’t reinvent Linux, but they provided a very important and useful set of services and packages that made it accessible for businesses and consumers. Similarly, Ethos will play a role as a platform and toolkit for others to harness in building the next generation of open, decentralized, blockchain and crypto-based services. We’ll be expanding more on the details of these services in future releases, as it’s deserving of its own whitepaper, and to protect our proprietary and competitive advantage while we complete our work.
+We anticipate the following fundamental building blocks will make up Ethos Bedrock:
+Ethos Wallet Services This includes the decentralized Universal Wallet, Smart Keys and the basis for crypto interactions.
+Ethos Relay This system is the foundation for diversi cation and relays value between exchanges and liquidity providers.
+Ethos Fiat Gateway Ethos will enable  at buys/sells through the API with additional KYC/ AML restrictions
+Ethos Broadcast Ethos will broadcast key data signals in the form of historical prices and future predictions that can be leveraged by the crypto community.
+3.1 Ethos Wallet Services
+The Ethos Universal Wallet is one of the most fundamental building blocks of Ethos Bedrock. We recognize the need for a truly universal, decentralized and user-controlled wallet that protects while not imposing any limits on the consumer. To build it, we’re introducing the concept of a “Smart Key”.
+
+ETHOS
+13
+A Smart Key is a single key that provides access to all of your wallets. The Smart Key is always held by the user and is protected by a backup key that can be written down and stored as a paper wallet. Ethos cannot authorize or spend any of your funds without your Smart Key. Your Smart Key is tied to your password and your backup key so that you always have secure access to your funds wherever you go.
+One of the core features of the Ethos Universal Wallet is the ability for anyone to quickly, securely and easily create an Ethos Universal Wallet along with a Smart Key allowing unprecedented access and  exibility when it comes to traditional  nance. By including the Ethos Universal Wallet in the Bedrock API, we give the ability for any consumer, developer or business to programmatically create these feature-rich wallets which can form the foundation of any crypto application.
+3.2 Ethos Relay
+Relays will be extremely important when considering how value moves from one place to another. Building on top of an open protocol such as 0x or Atomic Swaps, a relay is required to provide services such as centralized order books and oracles. One of the features that Ethos Bedrock will include is an open relay mechanism that will also form the backbone of our One-Click Diversi cation feature. Think of this as a sort of “aggregated order book” that will plug into various exchanges and liquidity providers.
+One of the key requirements for Atomic Swaps is a neutral communication layer which, along with
+the other features of the Relay, will provide a powerful scalable system that will fuel the dream of an ecosystem of  nancial applications. The Ethos Relay will allow anyone, whether they are a front-end user to an institution or small business, to seamlessly interact and transfer value across open protocols.
+3.3 Ethos Fiat Gateway
+Bridging the Fiat/Crypto airgap is one of the big problems Ethos aims to tackle. This issue is largely a regulatory and compliance rather than technical one, yet the task of providing affordable, competitive rates for crypto buyers remains a challenge. Ethos has brought on signi cant talent and is developing innovative legal and regulatory approaches to tackle this problem, with the aim of integrating these solutions into the Ethos Bedrock API architecture. We anticipate that this will require KYC/AML, meaning there will be additional veri cation from developers for this and other Ethos Bedrock capabilities.
+
+ETHOS
+14
+The API would provide services such as  at conversion, buying and selling crypto and  at transfers. We believe that crypto should never aim to replace  at currencies but rather complement them. Crypto should be seen as a means to disrupt existing structures while making the economy more ef cient. For this reason, we see the  at gateway as being a fundamental piece of Ethos Bedrock.
+3.4 Ethos Broadcast
+The  nal pieces of the core Ethos Bedrock API is Ethos Broadcast. Ethos will be generating a massive amount of data that will be valuable to crypto applications such as full node blockchain data, historical price data, predictions data, aggregated market sector data and Ethos Relay data, which will be made open through the Ethos Bedrock APIs.
+We believe that the combination of these four components will create the backbone for a new wave of innovation in crypto services that Ethos,  ntech companies and independent developers have yet to create!
+4. Welcome to the Smart Economy
+Ethos Bedrock is just the beginning of a highly ambitious vision that we’ve set out and are continuing
+to re ne and articulate. We  rmly believe that cryptocurrencies are not only here to stay, but can bring about enormous positive change for a lot of people around the world if we seize the opportunity together. Ethos is committed to playing a role in helping to realize the vision of the smart economy - one that is equitable, fair, empowering, safe and accessible, that brings the best innovations across multiple sectors to fruition as a truly New Economy.
+Achieving meaningful mass adoption of cryptocurrencies will require a lot of technical infrastructure to achieve – and the Ethos Platform and Ethos Bedrock are our big bets to help make sure that happens, and happens soon. This infrastructure spans creating and managing wallets (both consumer and enterprise grade), connecting to liquidity providers, relay mechanisms, oracles, a  at gateway connecting the
+old and new economy and a set of broadcast APIs making blockchain and Ethos data accessible to all. Consumers, developers and businesses alike will require packages of APIs and services that will provide new capabilities not afforded by traditional  nancial institutions. Through Ethos Bedrock API, we hope to act as a major catalyst in a new, peer-to-peer, people-powered smart economy.
+
+ETHOS
+15
+4.1 Enterprise API Packages
+Creating compliant and scalable technical architecture for traditional businesses is costly and dif cult, so it will be much more attractive for them to increase their capabilities by plugging into an already existing set of proven services such as those provided by Ethos Bedrock. New economy investment vehicles, settlement services, cryptocurrency payment integrations and many more capabilities are all use cases that we hope to enable through Ethos Bedrock. This coupled with professional services will make it much more compelling for businesses to integrate blockchain into their existing models.
+4.2 Consumer Applications
+and ETHOS Monetization
+ETHOS will have a crucial role as a monetization mechanism in the Ethos Bedrock API. ETHOS will
+be consumed by the API through micropayments in the Ethos ecosystem in a similar scheme as AWS. Developers will have the opportunity to build consumer-facing applications on top of the Ethos Bedrock API, and earn as their application consumes ETHOS rendering services to customers. ETHOS tokens will be the backbone of the developer ecosystem using Ethos’s Bedrock API and will be required for anyone who wants to build on top of Bedrock.
+4.3 Linking to the Fiat Economy
+Ethos’s ambitions include the introduction of a hybrid solution where crypto and traditional assets can co-exist across a single, dynamic platform that enables consumers to monitor, manage and access all of their  nancial assets in one place. Delivering a uniform solution for crypto and traditional assets will be a critical tool in a consumer’s toolbox over the next decade as the natural progression of what began as the “paperwork crisis” in the late 1960’s shifts away from the movement of physical stock certi cates to book-entry form (dematerialization), to a complete digitization of assets of all types.
+While this transition occurs, the Ethos Platform will provide consumers with essential technology that allows diverse  nancial holdings, both digital and traditional assets, to be made readily accessible across a uni ed platform that enables consumers to better diversify risk and manage assets of all kinds. To ensure consumers are afforded every opportunity to succeed in building their wealth, as we grow we will also enable powerful new services to be provided digitally by investment professionals,  rms and experts within highly safe, secure and dynamic private clusters with the power to transform  nancial services for all stakeholders.
+
+ETHOS
+16
+4.4 Tokenized Funds,
+ICO and IPO Applications
+Our vision is for Ethos to be part of a new standard for cryptocurrency services in the New Economy. There is a massive opportunity for companies to replace old economic models currently offered by institutions such as investment bankers, managers, hedge funds and even stock exchanges. Recent innovations in other sectors point to possibilities for powerful reimaginings of these structures, that harness technology to empower people to co-create new models, with new rules. As Ethos expands
+its services beyond Bedrock, we anticipate these changes will become increasingly inevitable for
+ rms who don’t change and remain trapped in the old  nancial model. Using the legal and technical architecture that Ethos is developing, we are laying the groundwork for compliant Tokenized Funds, ICO underwriting services and even decentralized IPO exchanges within the coming years, allowing Ethos
+to deliver a powerful new distribution channel for new and existing  nancial providers of products and services.
+4.5 Balancing Decentralization
+Ripple started as a centralized service that intended to decentralize in the future. Ethos will decentralize pieces as it makes sense in development, while building on existing models of success where needed
+to create the right conditions for success and growth through a human-centred lens. A big issue that
+the cryptocurrency sector faces is that for the most part there is no “support line” that you can call
+if something goes wrong with your money. While autonomy and control are key to the philosophy of cryptocurrencies, mass adoption will be impossible without proper consumer protection and services in place. This is why we decided to decentralize (self-manage) the Ethos Universal Wallet to preserve the ideals of the cryptocurrency system, but at the same time build a technical infrastructure that supports and protects consumers. Not all pieces of the Ethos platform need to be decentralized, and centralizing selected pieces of it will result in a better end-user experience. We’re committed to carefully preserving the ideologies and approaches that make cryptocurrency and blockchain so revolutionary, while putting the right services in place to truly unlock mass adoption.
+We are incredibly excited about the huge potential of Ethos and the work our team is already doing
+to bring it to fruition. We hope you’ll join us on the journey. Thank you for reading our white paper, and please visit www.ethos.io and follow us on social media to be a part of building a people-powered cryptocurrency platform, and the future of investment.
+
+This is not an offer or to sell or a solicitation to buy any digital assets. The cryptocurrency space is volatile. Please be careful
+and thoughtful when purchasing any cryptocurrency token, digital asset or token sale. This paper can be changed at any point with no prior notice. You are responsible
+for complying with local jurisdictional
+laws and regulations. We encourage and support reporting and paying taxes on your cryptocurrency gains.
+ 
+                 ethos.io
+    
