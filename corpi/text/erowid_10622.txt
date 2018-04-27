@@ -1,0 +1,370 @@
+Erowid Syrian Rue Vault : Three Beta-Carboline Containing Plants...
+<meta name="description" content=" 'Three Beta-Carboline Containing Plants as Potentiators of Synthetic DMT and Other Indole Psychedelics', by Gracie and Zarkov - 1985.">
+<meta name="keywords" content="syrian rue">
+
+<link href="/includes/general_default.css" rel="stylesheet" type="text/css">
+<link href="/includes/article_default.css" rel="stylesheet" type="text/css">
+<link href="/includes/article_plants_lb.css" rel="stylesheet" type="text/css">
+<link href="/includes/border-left.css" rel="stylesheet" type="text/css">
+
+
+.table td { font: 700 9pt arial,sans-serif; padding: 2px; }
+
+
+
+
+<!-- - - - - - - - - - - - - - - - - B E G I N    H E A D E R - - - - - - - - - - - - - - - - -->
+<script language="Javascript" src="/includes/headers/menu_data.js" type="text/javascript">
+<script language="Javascript" src="/includes/headers/mmenu.js" type="text/javascript">
+
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<img src="/includes/headers/images/h_sun1.gif" width="122" height="25" alt="" border="0">
+<td background="/includes/headers/images/bar_squiggle.gif" width="100%" colspan="4">&nbsp;
+
+<img src="/includes/headers/images/h_sun2.gif" width="122" height="70" alt="Erowid" border="0">
+<img src="/includes/headers/images/h_vaults.gif" width="120" height="70" alt="" border="0">
+
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" height="70">
+	&nbsp;
+	
+
+	<table border="0" cellpadding="0" cellspacing="0" width="316" height="70" background="/includes/headers/images/center_spirit_1-1.jpg">
+	&nbsp;
+	
+
+	<table border="0" cellpadding="0" cellspacing="0" width="130" height="70" background="/includes/headers/images/center_spirit_1-2.jpg">
+	<td align="left" valign="bottom">
+
+	<form name="SearchForm" method="get" action="https://www.erowid.org/search.shtml">
+  -->
+	<form name="SearchForm" method="get" action="/search.php">
+ -->
+	<input type="hidden" name="exclude" value="">
+	<input type="text" size="13" name="q" value="" id="header-search">
+	<input type="image" src="/includes/headers/images/go2.gif" border="0" alt="Search">
+	
+	
+	
+	<a href="/general/about/" onMouseOver="popup('about')" onMouseOut="popdn()"><img src="/includes/headers/images/h_about.gif" width="89" height="13" alt="" border="0">
+	
+	<a href="/donations/" onMouseOver="popup('donations')" onMouseOut="popdn()"><img src="/includes/headers/images/h_join.gif" width="89" height="13" alt="" border="0">
+	
+		
+
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<img src="/includes/headers/images/bar_solid_left.gif" width="101" height="22" alt="">
+	<a href="/psychoactives/" onMouseOver="popup('drugs')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_1.gif" width="114" height="22" border="0" alt="Plants - Drugs">
+	<a href="/spirit/" onMouseOver="popup('mind')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_2.gif" width="103" height="22" border="0" alt="Mind - Spirit">
+	<a href="/freedom/" onMouseOver="popup('freedom')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_3.gif" width="117" height="22" border="0" alt="Freedom - Law">
+	<a href="/culture/" onMouseOver="popup('arts')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_4.gif" width="104" height="22" border="0" alt="Arts - Culture">
+	<a href="/library/" onMouseOver="popup('library')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_5.gif" width="77" height="22" border="0" alt="Library">
+	<td width="100%" background="/includes/headers/images/bar_solid_right.gif">&nbsp;
+	
+
+
+
+
+<!-- - - - begin message - - - -->
+<div id="content-messpath-frame">
+<!--  Directory: /plants/syrian_rue/  - File: syrian_rue_info1.shtml  -->
+PLANTS &nbsp; syrian_rue
+
+
+ -->
+
+
+
+#message { background: #2233cc; border: 1px solid #000000; border-radius: 8px; }
+#message-inner-lg { font: 500 14pt georgia,"times new roman",serif; color: #ffffff; padding-top: 3px; }
+  #message-inner-lg a:visited { color: #ffffff;}
+  #message-inner-lg a:link { color: #ffffff;}
+#message-inner-md { font: 500 11pt arial,sans-serif; color: #ffee77; padding-top: 5px; padding-bottom: 4px; }
+  #message-inner-md a:visited { color: #ffee77;}
+  #message-inner-md a:link { color: #ffee77;}
+
+<a href="/cgi-bin/r.php?message_id=219&url=/cgi-bin/exturl.php&Q&f=header&u=http://greatnonprofits.org/org/erowid-center&E&">Review Erowid at GreatNonprofits.org
+Help us reach 1,250 reviews! And spread the word that accurate info about
+psychedelics and other drugs improves health, culture, and policies.
+<script src="/includes/javascript/erowid_message_lib.js" type="text/javascript">
+
+	var mTimeExpired = 1519505070000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=219&page_url=/plants/syrian_rue/syrian_rue_info1.shtml");
+	}
+
+ -->
+
+
+<!-- end content-messpath-frame -->
+
+
+<!-- read from cache : RunTime1: 0.0007  RunTime2: 0.0011 
+ /var/cache/php//www/erowid.org/includes/messages/cache_59/
+ 59/5976d5a67d635a91b71017adce9d2478_syrian_rue_info1.shtml_messpat.html 
+ --> 
+<!-- cache1: RunTime1: 0.0007 RunTime2: 0.00114  total: 0.0017647743225098 sanitizedURI:/plants/syrian_rue/syrian_rue_info1.shtml -->
+
+<!-- - - - - - - - - - - - - - - - - E N D    H E A D E R - - - - - - - - - - - - - - - - - - -->
+
+
+
+
+Three Beta-Carboline Containing Plantsas Potentiators of Synthetic DMT and Other Indole Psychedelics
+. . . a technical note from the underground - Number 7
+by Gracie and Zarkov
+1985
+
+
+
+
+
+
+
+Also available as: [ <a href="/plants/syrian_rue/syrian_rue_info1.pdf">PDF ] [ <a href="/plants/syrian_rue/syrian_rue_info1_bklt.pdf">PDF Booklet ]
+
+Copyright Notice 
+
+Copyright August 1985 by Gracie and Zarkov productions.  We believe that in a truly free society the price of packaged information would be driven down to the cost of reproduction and transmission. We, therefore, give blanket permission and encourage photocopy, quotation, reprint or entry into a database of all or part of our articles provided that the copier or quoter does not take credit for our statements!
+ 
+ 
+Introduction
+ 
+This paper is aimed at the serious student and/or researcher of psychedelic substances. Unlike many of our more popularly oriented articles and papers we do not intend it for our recreationally inclined friends on the psychedelic underground. Given the diets and drug habits of most contemporary "heads", the use of MAO inhibitors could easily result in serious physical complications (like death). Additionally, these states are so intense that unless you are crazy enough to regard 50 mg of DMT or 7.5 grams of potent stropharia mushrooms as the beginning of a good time, these mixes are definitely not for you.
+ 
+The content of this technical note will, we hope, provide researchers interested in the beta-carboline/tryptamine combinations with some "hard empirical facts" combined with our musings. Hopefully, these will spawn new ideas for further experiments in this very exciting and very confusing area of psychedelic research.
+ 
+ 
+Summary
+ 
+The purpose of this paper is to summarize our current work with three beta-carboline, Harmala alkaloid-containing plants, i.e.,
+ 
+Passiflora incarnata  (passion flower)
+Peganum harmala       (syrian rue)
+Bansteriopsis caapi   (principal ingredient in yage)
+ 
+Specifically, we wish to report on the phenomena and comparative activity when extracts of each of these plants are smoked in conjunction with DMT.
+ 
+
+Sources of the Plant Material 
+ 
+The passion flower was purchased as dried, whole, chopped plant material from an herb store. The seeds of the syrian rue were purchased from a specialty seed service. No attempt was made to ascertain the origin of the plant material. The Banisteriopsis caapi was obtained from a private plantation in Hawaii. The caapi arrived cut into lengths of about one foot long, and ranged in diameter from about one quarter of an inch to one half inch. The original plant specimens had been collected in the Amazon by the grower.
+ 
+ 
+Extraction Technique 
+
+We used the same extraction technique for all three plants. We had developed this technique for smoking the passion flower to potentiate Psilocybin mushrooms (see below) and wished to have the data from this set of experiments to be comparable. The technique was a two-stage extraction. The first extraction used was a boiling alcohol (we used vodka) and water infusion followed by a second extraction using boiled distilled water. Each infusion was boiled for several hours. A "slow cooker" is ideal for this. In the case of the caapi, the bark was peeled off in strips first. For the syrian rue, we first ground the seeds very fine. For both the passion flower and the caapi, the second extract was essentially clear and seemed unnecessary. However, in the case of the syrian rue, the second extract was a bright cloudy yellow which may indicate harmine in solution.
+ 
+The plant material was strained and compressed after each extraction. The liquids from the two extractions were combined and dried using low heat on the slow cooker. The result was a brown caramelly mass for both the passion flower and caapi. The weight was about 20% of the original for the passion flower and the rue, and about 45% for the caapi. Except in the case of the passion flower, we cannot see any clear advantages of extraction over that of smoking the original plant material due to the relatively minor concentration of the amount needed to smoke. A plain water infusion would also seem to
+be just as effective in removing the harmine and would result in less of the other plant components being extracted.
+ 
+The syrian rue extract was the most interesting. It actually had long, thin, yellowish crystals in a brownish, red, hard, clear matrix which was not at all gooey like the other two extracts. This is not surprising given the assumed concentration of beta-carboline alkaloids. Based on our rough averaging from a variety of sources, our up-front beta-carboline concentration estimates for the plant materials were as follows:
+
+<table cellpadding="0" cellspacing="0" width="500" border="1" class="table">
+Plant% beta-CarbolinesRatio (syrian rue=1)
+Syrian Rue2.0  - 4.0%1
+Banisteriopsis caapi0.1%20
+Passion flower0.05 - 0.1%40
+
+ 
+
+Usage  
+ 
+In each case we smoked the extract until we had reached subjectively the same high. As with our previous work with the passion flower extract, smoking significant amounts above this did not seem to get one any higher, but just intensified the physical symptoms and one felt increasingly sick. So far, only with the passion flower have we experimented with an oral dose. Oral infusions of the other plants are planned for our fall 1985 series of experiments.
+ 
+The plant material is smoked with a match, lighter, or torch in such a way to promote the boiling of the material, rather than burning it. This seems to yield the most effective high. The highly concentrated rue extract lends itself nicely to smoking in a "hash oil" pipe with the flame heating the bowl on the outside.
+ 
+
+The High
+ 
+The high is not particularly psychedelic or hallucinogenic. One feels calm.  This calming effect is particularly noted by an observer as a significant change in facial expression and tone of voice. The limbs become heavy and lethargic and visibly tremble. Hypersalivation occurs, particularly at the back of the mouth, making for a particularly smooth smoke. A slight irritation of urethra and anus is sometimes noted. At higher dosages, dizziness and nausea set in with very little increase in the high.  Closed eye imagery is at best hypnagogic. That is to say, faint, moving outlines can be discerned
+with closed eyes. If one has a particularly vivid imagination, ghostly outlines of figures can be discerned. The more literal minded just see dim shifting blobs of light and dark. No one who has experienced DMT or high dose mushrooms would ever call them visions.
+ 
+The high comes on and stabilizes after about 5 to 10 minutes from smoking. As mentioned before, it is very difficult to get higher by smoking more. If one stops at this point, the most noticeable thing would be a calm and inapprehensive state. We take particular note of this diminishing of apprehensions since we are always apprehensive before we smoke DMT so its diminution or absence is very noticeable.
+ 
+The passion flower is mentally the foggiest high, but curiously has the strongest "anti-depressant" effect. This may be related to the overall mix of alkaloids in the passion flower (see below). The syrian rue was the clearest, cleanest high with the caapi being, subjectively, in between. The caapi had the least "antidepressant" effect.
+ 
+
+Dosage 
+ 
+The dosage ratios of the original plant material smoked for subjectively reaching the same level of high is roughly estimated as follows:
+
+<table cellpadding="0" cellspacing="0" width="500" border="1" class="table">
+PlantDosage Ratio
+Syrian Rue1
+Banisteriopsis caapi12
+Passion flower80
+
+ 
+The dosage ratio is based on the mass of the original plant material. That is to say, to get as high as smoking one ounce of syrian rue, would require smoking 12 ounces of caapi, or over two kilograms of passion flower.  Curiously, although various field researchers estimate beta-carboline dosage in native brews to range between 300 to 500 mg, in our dosage we only needed dosages in the 50 mg range. As noted above, increasing the dosage did not increase the high but only aggravated the physical symptoms. Even when tryptamines were taken later in addition, increasing the dosage past this point
+did not significantly alter the combined trip. It was as if there was some "switch" in the brain which, with sufficient beta-carbolines, was set from "off" to "on" and no further action would take place. We do not rule out the possibility of a second "switch" at the 300 - 500 mg range that we might have missed.
+ 
+ 
+Tryptamine Combinations  
+ 
+For comparison purposes, each of the plant materials was smoked according to the above method. Approximately 10 minutes after this plant-material-high stabilized, 15 mg of DMT was smoked. One of us would go through the entire procedure while the other kept notes and timings.
+ 
+The following consistent effects were observed:
+
+ 
+The overall impact of the trip was heightened far above the
+    normally only threshold effects of a 15 mg dose of
+    DMT. Subjectively, the dose felt more like 34-45 mg or roughly
+    tripled in intensity.
+ 
+The overall length of the DMT "flash" and subsequent patterns was
+    lengthened. The "flash" of visions which is normally 2 to 3
+    minutes at a 40 mg dosage, was about 6 minutes with the
+    beta-carboline predosing ....at 15 mg of DMT. The total period of
+    intense closed eye imagery, normally less than 5 to 7 minutes
+    (including the flash) was extended uniformly to about 9 minutes
+    with an additional 10 minute slowly decreasing tail of closed eye
+    patterns.
+ 
+The auditory effects were so pronounced as to be almost
+    overwhelming on several occasions. In fact, the auditory effects
+    were stronger than even extremely high dose trips where we had
+    smoked 50 to 70 mg of DMT all at once. The initial sounds, the
+    so-called "carrier wave" or opening buzz that has been described
+    as "tearing plastic" was greatly amplified.  The DMT "music" which
+    we describe as a xylophone-type sound which accompanies the
+    visions was extremely loud and seemed to keep coming on to the
+    point where it became disturbing on several trips.
+ 
+The basic "jeweled dome" or "chrysanthemum" pattern, seen after
+    the "vision flash" was fractured or separated. Instead of a
+    uniform circular pattern, there seemed to be distinctive left and
+    right halves of the pattern with a new, hard to describe pattern
+    in the middle. The overall effect of the patterns seemed to us
+    more mushroom-like, although we would be hard pressed to give a
+    detailed explanation of why we felt this way.
+ 
+Similarly, the visions seemed to unfold in a more leisurely
+    fashion.  Again, we were reminded of the mushroom. While the DMT
+    effect still hits fast and hard, the rushed "million things at
+    once" feeling of DMT smoked alone is quite muted.
+ 
+The colors of the pattern are also shifted as compared to DMT
+    alone.  Again, since we can't accurately describe colors in the
+    first place, it is hard to pin down, but it could be characterized
+    as less primary or jewel-like, with fewer or less saturated colors
+    than DMT alone.
+ 
+Finally, when one comes out of the vision state, the "woozey"
+    feeling is quite pronounced for an additional 10 minutes or
+    so. This feeling was very reminiscent of the mushroom
+    "knock-down".
+
+    The content of the visions was also altered. There were fewer
+    "alien, self-transforming, elf-machines" and more visions of
+    recognizable things.  Strange animals and hooded figures marched
+    in a bas relief procession.  Griffin-like monsters rhythmically
+    changed into beautiful naked women and back. The feeling-tone was
+    serious, unlike the playfulness or cheerful (even though quite
+    terrifying) hilarity of the "self-transforming elf machines"
+    experienced on DMT alone. The intensity was altered. We hesitate
+    to say increase, since DMT is intense by itself, but the change in
+    feeling tone, the more serious, almost personally directed
+    information of the trance, subjectively made the trip more
+    intense. On one trip, one of us made contact with a highly
+    serious, palpable entity whose message could be quite simply
+    summarized as "Are you sure you want to get into this? This is far
+    more extreme than what you have done before. It is the path to
+    destruction of gnosis!"
+ 
+    Subjectively, we preferred the syrian rue to potentiate DMT. It
+    gave the cleanest, most intense high. While we have never taken
+    true Ayahuasca, detailed discussion of some of the trip's contents
+    with someone who has significant experience with that brew,
+    confirmed that the trip content was like a short Ayahuasca trip.
+ 
+    The passion flower was the least desirable potentiator. (Probably
+    due to low harmine content in proportion to the total
+    beta-carboline content.)  The amount required for effective
+    tryptamine potentiation left us foggy and somewhat
+    sick. Furthermore, the MAO effects lingered for two to three days.
+    The caapi's effects were, again, in between.
+
+
+
+Anomalous Observations  
+ 
+This brings us to a curious set of observations. First, although the literature would indicate that the harmine MAO inhibition should be reversed in about five hours, the effects from all of the smoked plant material continued for at least 24 to 48 hours. That is to say, clear potentiation was noticed after this amount of time had elapsed. We hypothesize that this effect is due primarily to beta-carbolines other than harmine present in the
+plant material which, while qualitatively weaker as MAO inhibitors, may have a duration of effect which is much longer. However, we have reason to believe that something additional, due to the tryptamines, may be happening.
+ 
+Once we had taken 7.5 grams of very potent dried Stropharia. We were interested in making contact with the "voice in the head" phenomenon. We potentiated the mushrooms by each smoking about 750 grams(!) of passion flower (reduced as described above) starting about 30 minutes after eating the mushrooms. The potentiation was quite overwhelming. After smoking about one quarter of the plant material, each fresh lungful brought on, within seconds, powerful "starburst" and "intersecting lightning bolt" hallucinations which, with eyes opened, obscured a well-lit room. The "voice" phenomenon was loud and clear and very unsettling (the content of the trip has been described in High Frontiers, Issue 2.) Before this trip we had attempted on
+several occasions to invoke the voice phenomenon with the same mushrooms at dosages of up to 10 grams, to no avail. But, even more curiously, effects such as clear instance of MAO inhibition, voices in the head, visions (with both closed and opened eyes) and finally at the end of the period, clear potentiation of another psychedelic (LSD) occurred at discrete short intervals over a period of 14 days! We realize that this sounds unbelievable, however it did happen. It is our opinion that peculiar long-term effects can be initiated by large combined doses of tryptamines and beta-carbolines that cannot be adequately explained using current models of brain chemistry.
+ 
+Additionally, since that rather harrowing trip, the mushroom "voice" has been inescapable even on dosages as low as approximately one gram. As less spectacular long-term effects, we have also noticed this "locking-in" or tuning-in effect with the beta-carboline/DMT combination. That is, effects that were previously elusive on DMT alone became easy to invoke once they have occurred in the combination.
+ 
+NOTE: We understand from conversations with other investigators that this approach of first taking the mushrooms and then smoking the beta-carboline material when the mushroom effects begin to come on to be the most efficacious approach.
+ 
+Another curious observation is the "9 minute barrier". So far, we have not been successful in causing the DMT imagery to last longer than 9 minutes, irrespective of the dosage, or the type of underlying predose plant material.  To make matters more interesting in our experiments with DMT and MDA (which is also a mild MAO inhibitor) the DMT effects are again lengthened to about 9 minutes. (See, our "Note From Underground, no. 4") Yet Ayahuasca produces a trip which lasts for several hours. At present we have no explanation, especially since much of the active components in the orally consumed brews are inactivated in the stomach and intestines or not absorbed.
+ 
+In experiments in which we have predosed ourselves with DMT and then taken another psychedelic several hours later, we have noted very discernible (MDA) to dramatic effects (mushrooms or LSD) when the second substance is taken as much as 8 hours after the DMT. (See, our "Note from the Underground, nos. 5 and 6.") Again, this is hard to explain since the total DMT experience should only last about one hour. However, when we smoked DMT and after the flash smoked the beta-carboline plant material we were unable to cause any clear DMT imagery. What did happen was an immediate feeling of depression, almost exactly opposite the effect on mood of DMT. 
+ 
+One final hard-to-explain phenomenon: On about one quarter of the trips, after coming out of the trance and with our condition stabilized (or at least so we felt) about 20 minutes after smoking DMT, we experienced a rush of "information" into our minds with no other psychedelic effects. That is to say, without any visual, physical or auditory shift, we suddenly possessed, in our minds, a complex, detailed and lengthy thought with non idea where it had come from and the conviction that it had not existed in our heads, even in fragments, an instant before. The content of each of these thoughts
+was bizarre and had to do with directions on how to accomplish activities that are normally regarded as supernatural, impossible and/or crazy. Furthermore, the content of the thought was encouraging us to attempt these feats! While we have no first hand experience with schizophrenics (other than some Berkeley street people) our reading of the literature caused us to conclude that this type of phenomenon would be considered a clear instance of schizophrenic thinking.
+ 
+ 
+Beta-Carboline Potentiation of LSD   
+ 
+We have also experimented with potentiation of LSD by beta-carboline containing plants. Generically, the effects follow the same patterns. Subjectively, the dose feels three to four times more potent than it actually is. The closed eye imagery is greatly enhanced with circular highly detailed bright imagery visible on only 25 - 25 [sic] micrograms. On higher doses (150 - 200 micrograms) there was a feeling of an ancestral presence (we have never felt an outside presence on LSD alone in over several hundred acid trips but we have found it quite common when LSD is combined with another psychedelic).
+ 
+The closed-eye patterns were "almost visions". That is to say they were clearer than hypnagogic imagery but not as overwhelming or clear as DMT visions. The visuals were more like clear dream imagery. The mood elevation was quite astounding. At one point one of us shouted "You couldn't possibly have a bad trip on this stuff." There were no mood swings and the buoyant elation slowly receded to baseline over the course of the trip.
+ 
+
+Tentative Conclusions and Suggestions for Further Research    
+ 
+To restate the obvious, indole psychedelics taken in a state of MAO inhibition are much more intense and _qualitatively different_ than when taken alone. We believe that these combinations offer numerous fruitful avenues for further research. 
+ 
+Additionally, we find the syrian rue seeds to be a convenient, concentrated and easily obtainable source of beta-carbolines that can serve as a substitute for the more exotic, difficult to obtain, Banisteriopsis caapi.
+ 
+Clearly, our next area of research should be in the area of "synthetic Ayahuasca". That is, trying to perfect an orally administered mixture of syrian rue and synthetic DMT that qualitatively behaves like the South American plant brews.
+ 
+Additional work should be done with the smoked mixtures to investigate the "9 minute barrier" and to provide more qualitative mixtures for some future beta-carboline/tryptamine cookbook.
+ 
+Finally, we hope that the information in this article might be correlated with the work of other researchers to suggest entirely new areas for research and to provide explanations for some of these phenomena.
+
+ 
+
+Stay High and Stay Free,
+Gracie and Zarkov
+
+
+
+
+<!-- - - - - - - - - - - - - - - - - B E G I N    F O O T E R - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+
+
+[ back to plants ] &nbsp; [ back to syrian_rue ]
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" id="footer-bar">
+<td width="10" background="/includes/headers/images/bar_solid_footer.gif">&nbsp;
+<td width="140" background="/includes/headers/images/bar_solid_footer.gif" valign="top">
+	<table border="0" cellpadding="2" cellspacing="0" width="140">
+	<td valign="top" id="footer-menu">PlaceMenu("footer")
+	
+
+
+	<table border="0" cellpadding="2" cellspacing="0" width="100%" background="/includes/headers/images/bar_solid_footer.gif" height="22">
+	Originally in Hyperreal Drug Archives. Hosted by Erowid as of Oct, 1999. 
+	
+
+<td width="10" background="/includes/headers/images/bar_solid_footer.gif">&nbsp;
+<td width="140" background="/includes/headers/images/bar_solid_footer.gif" align="right">Modified&nbsp;-&nbsp;Feb 10, 2015
+
+
+Design &copy; 1995-2017 Erowid.org. Content &copy; respective copyright holders.
+
+
+
+
+<!-- - - - - - - - - - - - - - - - - E N D    F O O T E R - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
