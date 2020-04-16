@@ -1,0 +1,473 @@
+Santo Daime - Community - Juruá - The doctrine's new frontier in the forest
+
+<!--
+table {  font-family: Arial, Helvetica, sans-serif; font-size: 11pt; text-align: left; color: #000066}
+a:link {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; text-decoration: none}
+a:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; text-decoration: none}
+a:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; text-decoration: underline}
+-->
+ body
+    {
+        width:680px;
+        margin:auto;
+		text-align:center;
+		border: 1px solid blue;
+    }
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+
+
+<body style="background-color: rgb(230, 230, 230)" background="/images/fundo.png">
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  
+    
+      Esta p&aacute;gina &eacute; um arquivo do site antigo do www.santodaime.org
+      This page is an archive of the old www.santodaime.org website
+      
+    
+        <a href="http://www.santodaime.org" style="font-size:24px">Clique aqui para visitar o site atual
+        Click here to visit the current site 
+        
+    
+  
+
+
+<body link="#A80F00" vlink="#0E2E05">
+
+<table border="0" cellpadding="0" cellspacing="0" width="680">
+  
+    <!--webbot bot="Include" U-Include="../_private/dtk_community.htm" TAG="BODY" startspan -->
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="140">
+  
+    <img src="../images/logo_rosajagubefolha_p.gif" border="0" WIDTH="139" HEIGHT="48">
+    <img src="../images/pixel.gif" hspace="6" vspace="6" WIDTH="1" HEIGHT="1">
+  
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="126">
+  
+    <img src="../images/nn_highlights.gif" WIDTH="126" HEIGHT="22">
+  
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="126">
+  
+    <td width="2" bgcolor="#FFBE58" valign="top"><img src="../images/pixel_l.gif" width="2" height="1" vspace="2">
+    <td width="124" bgcolor="#FF9B59"><table border="0" cellpadding="0" cellspacing="0" width="120">
+      
+        <img src="../images/pixel_l.gif" hspace="4" vspace="2" alt="pixel_l.gif (43 bytes)" WIDTH="1" HEIGHT="1">
+        <img src="../images/pixel_l.gif" hspace="4" vspace="2" alt="pixel_l.gif (43 bytes)" WIDTH="1" HEIGHT="1">
+      
+      
+        <img src="../images/bullet_pp.gif" hspace="1" vspace="3" WIDTH="7" HEIGHT="7">
+        Juruá
+        - Santo Daime's new frontier in the Brazilian forest
+        <img src="../images/pixel_l.gif" hspace="4" vspace="2" alt="pixel_l.gif (43 bytes)" WIDTH="1" HEIGHT="1">
+      
+      
+        <img src="../images/bullet_pp.gif" hspace="1" vspace="3" WIDTH="7" HEIGHT="7">
+        Céu
+        do Mapiá
+        <img src="../images/pixel_l.gif" hspace="4" vspace="2" alt="pixel_l.gif (43 bytes)" WIDTH="1" HEIGHT="1">
+      
+      
+        <img src="../images/bullet_pp.gif" hspace="1" vspace="3" WIDTH="7" HEIGHT="7">
+        The
+        Community Project
+        <img src="../images/pixel_l.gif" hspace="4" vspace="2" alt="pixel_l.gif (43 bytes)" WIDTH="1" HEIGHT="1">
+      
+      
+        <img src="../images/bullet_pp.gif" hspace="1" vspace="3" WIDTH="7" HEIGHT="7">
+        Main
+        Projects Seeking Partnership
+        <img src="../images/pixel_l.gif" hspace="4" vspace="2" alt="pixel_l.gif (43 bytes)" WIDTH="1" HEIGHT="1">
+      
+      
+        <img src="../images/bullet_pp.gif" hspace="1" vspace="3" WIDTH="7" HEIGHT="7">
+        The
+        National Forest of Purus &amp; Mapiá - Inauiní
+        <img src="../images/pixel_l.gif" hspace="4" vspace="2" alt="pixel_l.gif (43 bytes)" WIDTH="1" HEIGHT="1">
+      
+      
+        <img src="../images/bullet_pp.gif" hspace="1" vspace="3" WIDTH="7" HEIGHT="7">
+        Visits
+        to Céu do Mapiá
+        <img src="../images/pixel_l.gif" hspace="4" vspace="2" alt="pixel_l.gif (43 bytes)" WIDTH="1" HEIGHT="1">
+      
+    
+    
+    <td width="2" bgcolor="#A80F00" valign="top"><img src="../images/pixel_l.gif" width="2" height="1" vspace="2">
+  
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="126">
+  
+    <img src="../images/nn_destaque_b.gif" alt="nn_destaque_b.gif (219 bytes)" WIDTH="126" HEIGHT="10">
+  
+
+
+      <!--webbot bot="Include" endspan i-checksum="39805" -->
+      
+        <font color="#990000" size="1" face="Verdana, Arial, Helvetica, sans-serif">click 
+        to enlarge
+        the images 
+      <img src="images/brasilia_p.JPG" width="140" height="105" border="0" onClick="MM_openBrWindow('images/brasilia.JPG','','width=660,height=500')">
+      <img src="images/brasilia2_p.jpg" width="140" height="94" border="0" onClick="MM_openBrWindow('images/brasilia2.JPG','','width=660,height=500')">
+	  <img src="images/jyoti_p.jpg" width="140" height="100" border="0" onClick="MM_openBrWindow('images/jyoti.jpg','','width=660,height=500')">
+	  <img src="images/ceremony_p.jpg" width="140" height="131" border="0" onClick="MM_openBrWindow('images/ceremony.jpg','','width=660,height=500')">
+	  <img src="images/ceu_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/ceu.jpg','','width=660,height=500')">
+	  <img src="images/pad_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/pad.jpg','','width=660,height=500')">
+	  <img src="images/ipixuna_p.jpg" width="140" height="102" border="0" onClick="MM_openBrWindow('images/ipixuna.jpg','','width=660,height=500')">
+	  <img src="images/jurua_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/jurua.jpg','','width=660,height=500')">
+	  <img src="images/Hammock_p.jpg" width="140" height="103" border="0" onClick="MM_openBrWindow('images/Hammock.jpg','','width=660,height=500')">
+	  <img src="images/our2_p.jpg" width="140" height="112" border="0" onClick="MM_openBrWindow('images/our2.jpg','','width=660,height=500')">
+	  <img src="images/community_p.jpg" width="140" height="108" border="0" onClick="MM_openBrWindow('images/community.jpg','','width=660,height=500')">
+	  <img src="images/cleaning2_p.jpg" width="140" height="91" border="0" onClick="MM_openBrWindow('images/cleaning2.jpg','','width=660,height=500')">
+	  <img src="images/forest_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/forest.jpg','','width=660,height=500')">
+	  <img src="images/casa_p.jpg" width="140" height="100" border="0" onClick="MM_openBrWindow('images/casa.jpg','','width=660,height=500')">
+	  <img src="images/bridge_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/bridge.jpg','','width=660,height=500')">
+	  <img src="images/sanctuary_p.jpg" width="140" height="100" border="0" onClick="MM_openBrWindow('images/sanctuary.jpg','','width=660,height=500')">
+	  <img src="images/feitio2_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/feitio2.jpg','','width=660,height=500')">
+	  <img src="images/feitio_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/feitio.jpg','','width=660,height=500')">
+	  <img src="images/cleaning_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/cleaning.jpg','','width=660,height=500')">
+	  <img src="images/beating_p.jpg" width="140" height="105" border="0" onClick="MM_openBrWindow('images/beating.jpg','','width=660,height=500')">
+	  <img src="images/panela_p.jpg" width="105" height="140" border="0" onClick="MM_openBrWindow('images/panela.jpg','','width=500,height=660')">
+	  <img src="images/healing_p.jpg" width="140" height="102" border="0" onClick="MM_openBrWindow('images/healing.jpg','','width=660,height=500')">
+	  <img src="images/our_p.jpg" width="140" height="93" border="0" onClick="MM_openBrWindow('images/our.jpg','','width=660,height=500')">
+	  <img src="images/in_p.jpg" width="140" height="100" border="0" onClick="MM_openBrWindow('images/in.jpg','','width=660,height=500')">
+	  <img src="images/carlos_irineu_p.jpg" width="100" height="140" border="0" onClick="MM_openBrWindow('images/carlos_irineu.jpg','','width=500,height=660')">
+	  <img src="images/sunset_p.jpg" width="140" height="96" border="0" onClick="MM_openBrWindow('images/sunset.jpg','','width=660,height=500')">
+	  <img src="images/altar_p.jpg" width="122" height="140" border="0" onClick="MM_openBrWindow('images/altar.jpg','','width=580,height=660')">
+      
+    <!--webbot bot="Include" U-Include="../_private/hd_community.htm" TAG="BODY" startspan -->
+
+<img src="../images/pixel.gif" hspace="13" vspace="2" WIDTH="1" HEIGHT="1">
+<AREA SHAPE="RECT" COORDS="348, 1, 440, 22" HREF="../archives/index.htm"><AREA SHAPE="RECT" COORDS="441, 0, 531, 22" HREF="../fardados_i/index.htm"><AREA SHAPE="RECT" COORDS="242, 0, 348, 22" HREF="../institutional/index.htm"><AREA SHAPE="RECT" COORDS="93, 0, 234, 21" HREF="../doctrine/index.htm"><AREA SHAPE="RECT" COORDS="2, 0, 88, 20" HREF="../origins/index.htm"><a href="../_vti_bin/shtml.exe/community/jurua_01.htm/map"><img ismap usemap="#FrontPageMap" border="0" height="23" src="../images/mn_community.gif" width="532">
+<img src="../images/pixel.gif" hspace="13" vspace="2" WIDTH="1" HEIGHT="1">
+<img src="../images/head1_p_z.gif" hspace="8" border="0" WIDTH="127" HEIGHT="35"><img src="../images/pixel.gif" hspace="98" vspace="18" WIDTH="1" HEIGHT="1"><img src="../images/hd_comminity.gif" border="0" WIDTH="194" HEIGHT="35">
+<!--webbot bot="Include" endspan i-checksum="43593" -->
+<table border="0" cellpadding="20" cellspacing="0" width="540">
+      
+        <table border="0" cellpadding="0" cellspacing="0" width="500">
+               
+                  
+                    <font face="Arial" color="#0E2E05" size="6"><img src="../images/juruamessage2.jpg" width="211" height="278" hspace="13" align="right"><img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">
+                      A Visit to the Santo Daime<font size="5" face="Arial" color="#0E2E05">
+                      <font color="#666666" size="3" face="Arial, Helvetica, sans-serif">In 
+                      November and December of 2003 there were many pilgrimages 
+                      to the Daime Centers throughout Brazil. Here we present 
+                      a report from one group that visited the modernity of urban 
+                      Brasilia and the primeval forest of Amazonia.
+                    <table width="450" border="0" cellpadding="6" cellspacing="0">
+                       
+                        Journey 
+                          to Jurua
+                          by Daniel Pinchbeck
+                          
+                         
+                            
+                            A Note of Gratitude
+                            by Jyoti
+                      
+                       
+                        Returning 
+                          from Jurua,
+                          Re-entering New York
+                          by Angelina Nasso
+                          
+                        
+                            NEW:
+                            <a href="../arquivos/video/JURUA1.wmv">Video 
+                            Clip from Jurua
+                          
+                      
+                    
+                  
+                  
+Journey 
+                      to Jurua
+                      by Daniel Pinchbeck
+                  
+                  <img src="images/daniel.jpg" width="150" height="150" hspace="12" vspace="8" align="right"><img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">Recently, 
+                    I visited centers of the Santo Daime with Jyoti, our guide 
+                    from the Kayumari network, and ten other Westerners from Europe 
+                    and the United States, on a three week tour. Our first stop 
+                    was Brasilia, the <a href="#01" onClick="MM_openBrWindow('images/brasilia.JPG','','width=660,height=500')">capital 
+                    of Brazil, a <a href="#01" onClick="MM_openBrWindow('images/brasilia2.JPG','','width=660,height=500')">modernist 
+                    city built from scratch in the early 1960s. We 
+                    stayed at a Santo Daime community on the outskirts of the 
+                    city, and attended two ceremonies while we were there. 
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">Initially, 
+                    I experienced a tremendous resistance to the Santo Daime work. 
+                    In the shamanic ceremonies I had attended in the past, we 
+                    took our medicine in the dark, and the focus was on experiencing 
+                    individual visions. In the Santo Daime ceremonies, the lights 
+                    were kept bright, and the energy was focused on creating a 
+                    kind of group mind. Later, Jose Murilo and Fernando La Rocque, 
+                    our <a href="#02" onClick="MM_openBrWindow('images/jyoti.JPG','','width=660,height=500')">hosts, 
+                    explained that they called it &#8220;collective shamanism.&#8221; 
+                    It also took me a while to get used to the hymns, which seemed 
+                    very foreign at first. I also felt a powerful negative reaction 
+                    to the idea of a formal religious <a href="#02" onClick="MM_openBrWindow('images/ceremony.JPG','','width=660,height=500')">structure 
+                    where people wore uniforms, sat in rows, and separated men 
+                    and women.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">I 
+                    kept having to run out of the ceremony. I would leave to sit 
+                    near the fire outside or to walk around and look at the stars. 
+                    There were guardians assigned to keep watch over the ceremony 
+                    and these guardians kept coming over to try to get me to go 
+                    back inside. For me, at that point, it seemed to be a violation 
+                    of my personal freedom to be part of the ceremony. I only 
+                    returned with the greatest reluctance. I felt anger at their 
+                    attempts to restrict my independence.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">From 
+                    Brasilia, our group flew six hours to the Amazon forest in 
+                    western Brazil. We stayed at a Santo Daime community named 
+                    Ceu do Cruzeiro do Sul. They had a beautiful <a href="#03" onClick="MM_openBrWindow('images/ceu.JPG','','width=660,height=500')">ceremonial 
+                    center, following a blue and white motif complete 
+                    with decorative streamers. For our one night there, they organized 
+                    a ceremony that involved dancing all night. The dance was 
+                    a little two-step, everyone shuffling back and forth within 
+                    a little three-foot space. I danced for a while, then my resistance 
+                    rose up again. I ran out to sit by the fire, then went back 
+                    to my hammock. In this community, nobody seemed to care whether 
+                    or not I stayed in my place. 
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">I 
+                    returned alone to our guest quarters where I realized that 
+                    I did want to participate in the ceremony. My resistance had 
+                    suddenly disappeared. I went back and danced the rest of the 
+                    night, and I began to understand why the Santo Daime ran the 
+                    ceremonies in such a rigorous way: As I allowed myself to 
+                    stay in &#8220;the current,&#8221; as they call it, I felt 
+                    like the medicine was not only introducing me to a divine 
+                    force or presence, but it was also flushing out my psyche. 
+                    It was a bit like a Buddhist mindfulness meditation where 
+                    thoughts would arise, then channel themselves out. 
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">The 
+                    next morning, I went back and sat for a while inside the empty 
+                    church. For the first time in my life, I felt that I understood 
+                    the nature of devotion as a spiritual practice. It seemed 
+                    as if devotion was a vibration or a kind of frequency that 
+                    helped to hold together the structure of reality. I felt moved, 
+                    and grateful that I was being introduced to this ceremonial 
+                    practice.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3"> 
+                    We then took a boat, <a href="#04" onClick="MM_openBrWindow('images/Pad.JPG','','width=660,height=500')">traveling 
+                    with Padrinho Alfredo and Luis Fernando two and 
+                    a half days down the Jurua River. We stopped briefly to visit 
+                    the Daime center in <a href="#04" onClick="MM_openBrWindow('images/ipixuna.JPG','','width=660,height=500')">Ipixuna 
+                    and then traveled on to the village of Estorr&otilde;es, which 
+                    is also known as C&eacute;u do Jurua. For some reason, I was 
+                    sort of terrified of this trip before leaving New York, and 
+                    I couldn&#8217;t even bring myself to look at a map to see 
+                    our destination. All I knew was that we were going very deep 
+                    into the Amazon. 
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3"> 
+                    The first night, after an amazing <a href="#05" onClick="MM_openBrWindow('images/jurua.JPG','','width=660,height=500')">sunset, 
+                    we climbed into <a href="#05" onClick="MM_openBrWindow('images/Hammock.JPG','','width=660,height=500')">hammocks 
+                    strung throughout the boat. Mine was located on the top deck, 
+                    under a small roof, and it was an incredible experience. At 
+                    night I would wake up to find everything shrouded in fog, 
+                    the trees just visible like wraiths on the banks. I felt like 
+                    we were floating into the void, into the abyss, and it was 
+                    utterly liberating.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3"> 
+                    Finally we reached our <a href="#06" onClick="MM_openBrWindow('images/our2.JPG','','width=660,height=500')">docking 
+                    spot. Part of our initiation process was learning 
+                    how to make the Santo Daime sacrament (ayahuasca), to work 
+                    with the two plants that are brewed together, the vine and 
+                    the leaf. As soon as we landed, we were brought to the <a href="#06" onClick="MM_openBrWindow('images/community.JPG','','width=660,height=500')">community 
+                    house and a huge <a href="#06" onClick="MM_openBrWindow('images/cleaning2.JPG','','width=660,height=500')">pile 
+                    of leaves which we were told we had to clean 
+                    individually, leaf by leaf. Usually only women work on the 
+                    leaves but for some reason, they decided they wanted the men 
+                    to try it also.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">At 
+                    first, cleaning the leaves seemed an impossible and endless 
+                    task. They gave us Daime to drink, however, and after a while 
+                    the entire task suddenly changed into something intensely 
+                    pleasurable. I felt each leaf was presenting itself like a 
+                    little female deity that demanded attention. It seemed that 
+                    the medicine was teaching us how to take care of it. Immersed 
+                    in the task, I lost all track of time.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3"> 
+                    We took a break for lunch and then marched 
+                    four hours deeper into the <a href="#07" onClick="MM_openBrWindow('images/forest.JPG','','width=660,height=500')">forest, 
+                    to the community of Ceu do Jurua which is considered one of 
+                    the most important spiritual centers of the Santo Daime. By 
+                    Western standards, it is a very rudimentary place -- no phone, 
+                    no electricity, no running water. The <a href="#07" onClick="MM_openBrWindow('images/casa.JPG','','width=660,height=500')">houses 
+                    are strung off long jungle paths like beads on a string. A 
+                     <a href="#07" onClick="MM_openBrWindow('images/bridge.JPG','','width=660,height=500')">long 
+                    bridge across a low-lying area leads into the 
+                    center of the community where there is a central kitchen, 
+                    a dining area, an open air <a href="#07" onClick="MM_openBrWindow('images/sanctuary.JPG','','width=660,height=500')">sanctuary 
+                    and a small <a href="#07" onClick="MM_openBrWindow('images/feitio2.JPG','','width=660,height=500')">church.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">We 
+                    were led to our one big room, where we put up our hammocks 
+                    and mosquito nets. It took some effort to get used to the 
+                    jungle heat and humidity. 
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">We 
+                    soon learned to follow the example of the villagers, who were 
+                    good at keeping still and conserving their energy during the 
+                    hottest parts of the day. They were very friendly to us, and 
+                    seemed to support us for having made this long trip to visit 
+                    them and participate in their rituals. Without judgment, we 
+                    were welcomed into the life of the community.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">During 
+                    the next days, our work centered around the <a href="#08" onClick="MM_openBrWindow('images/feitio.JPG','','width=660,height=500')">feitio 
+                    house where the Daime is made. I learned how 
+                    to work on the Vine &#8212; <a href="#08" onClick="MM_openBrWindow('images/cleaning.JPG','','width=660,height=500')">carving 
+                    out the moldy and rotten parts, and then <a href="#08" onClick="MM_openBrWindow('images/beating.JPG','','width=660,height=500')">pounding 
+                    it into filaments for <a href="#08" onClick="MM_openBrWindow('images/panela.JPG','','width=500,height=660')">cooking. 
+                  
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">We 
+                    had two <a href="#09" onClick="MM_openBrWindow('images/healing.JPG','','width=660,height=500')">ceremonies, 
+                    presided over by Padrinho Alfredo, who is the leader of the 
+                    church. I was very impressed with Alfredo. He had a very gentle 
+                    manner, yet I had immediate trust in him, and in his mastery 
+                    of the Daime. The ceremonies were extraordinarily beautiful 
+                    and moving. I found that I really wanted to be connected to 
+                    this tradition, which had established such a direct connection 
+                    to the sacred. Two of my friends felt the same way. Before 
+                    we left the jungle, we decided we would join the church. We 
+                    told Luis Fernando of our decision.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">The 
+                    last ceremony we had there was a healing ritual. The energy 
+                    became so huge, the visions so intense, I was worried that 
+                    we would be unable to contain it, but Alfredo stayed firm 
+                    at the rudder. At times I could see the &#8220;Mother of the 
+                    Forest,&#8221; like a vast astral being, twirling over our 
+                    heads. I could feel what I can only describe inadequately 
+                    as the Divine Presence, at the center of the room, above the 
+                    altar, where the energy of the singers was focused. I could 
+                    see astral beings who seemed to be coming up to me bearing 
+                    flowers and fruit.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">For 
+                    a long time I had this sense that there was a dark figure 
+                    by my left side, and I was scared it was something threatening. 
+                    Finally, in my visionary state, I looked and realized it was 
+                    Alfredo himself, reaching out a hand to me. In my vision, 
+                    I shook his hand. He gave me a wonderful smile, and vanished.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">The 
+                    next day, after gathering for a final hug 
+                    and <a href="#10" onClick="MM_openBrWindow('images/our.JPG','','width=660,height=500')">group 
+                    photo with Alfredo and his family, we left Jurua. 
+                    We took a <a href="#10" onClick="MM_openBrWindow('images/in.JPG','','width=660,height=500')">canoe 
+                    through smaller tributaries to reach our boat on the river. 
+                    For something like half an hour, an eagle flew along with 
+                    us, gliding from tree to tree as we proceeded. It seemed like 
+                    a fortuitous sign.
+                   <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">This 
+                    journey was the most beautiful experience of my life.
+                   
+                    
+                      A Note 
+                      of Gratitude 
+                      by Jyoti
+                  
+                  <img src="images/jyoti2.JPG" width="130" height="179" hspace="8" vspace="8" align="right"><img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">I 
+                    have been going to Brazil for ten years but this was my first 
+                    trip to Brasilia. I know it will not be my last. In the ceremonies 
+                    held there, the Mother was very present with a sense of many 
+                    blessings toward all. Thank you Fernando and Clarice and Eduardo 
+                    and Luciana and Murilo for your gracious hospitality. You 
+                    and your people hold such strong vision for unity and peace. 
+                  
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">I 
+                    want to thank the beautiful people of Ceu 
+                    do Cruzeiro do Sul who, with great devotion, hold open the 
+                    doorway to Jurua. And it was a special joy to be able to hug 
+                    my new godchild,  <a href="#j1" onClick="MM_openBrWindow('images/carlos_irineu.JPG','','width=500,height=660')">Carlos 
+                    Irineu. This was only my second visit to the 
+                    communities along the Jurua but it felt like I was returning 
+                    home. Our work was sacred, focused around the feitio, the 
+                    making of the Daime. It was a time of great healing and a 
+                    deepening our connection with our true source. 
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">On 
+                    our last night in Ceu do Jurua, after another lovely <a href="#j2" onClick="MM_openBrWindow('images/sunset.JPG','','width=660,height=500')">sunset, 
+                    we joined the whole community for a special healing work. 
+                    It was one of the most beautiful nights of my life. Pad. Alfredo 
+                    asked me to sit across from him at the table. As I looked 
+                    at the photograph of Alfredo&#8217;s father and mother, Padrinho 
+                    Sebastiao and Madrinha Rita, surrounded by an <a href="#j2" onClick="MM_openBrWindow('images/altar.JPG','','width=580,height=660')">altar 
+                    of flowers from Nature&#8217;s Garden, it was 
+                    as if the heavens opened and a golden light poured down upon 
+                    us all. 
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">My 
+                    heart is full of gratitude to Alfredo for his wisdom and guidance, 
+                    and to Silvia, Rute, Luis, Luzenir and Elizabeth for so much 
+                    support and good friendship. These gifts will continue to 
+                    sustain me in these times of great challenge and change. You 
+                    sent me home with a renewed hope in my heart and courage in 
+                    my actions to continue to walk this path of love and union.
+                  
+                   
+                    Returning 
+                      from Jurua, Re-entering New York
+                      by Angelina Nasso
+                  
+                  <img src="images/angelina.jpg" width="200" height="224" hspace="7" align="right"><img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">Back 
+                    in New York. Integration time. Every cell in my body holds 
+                    the richness of the jungle. Every cell and bone in my body 
+                    feels like it has been worked on - massaged - purified. Strange 
+                    to be back in this world so full of distractions - so much 
+                    takes us away from who we really are. I keep thinking about 
+                    Jurua - a place that connects me to the heavens. I return 
+                    with my soul and my heart so full. Blessed by the Daime and 
+                    the Queen of the Forest, fear dispelled. The vibration of 
+                    love takes care of all things - my body can barely stand the 
+                    beauty that comes. A deep breath - remembering our true nature 
+                    - the divine present in us.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3">I 
+                    feel enormous gratitude toward Padrinho Alfredo and Luis Fernando 
+                    for graciously providing this opportunity to us. Words are 
+                    insufficient to describe just how important it is that we 
+                    can come into communion with the divine in this way. The Santo 
+                    Daime has expanded me with love and has taught me how I can 
+                    gracefully and humbly carry love in my heart as I walk through 
+                    this world that struggles with so much darkness.
+                  <img src="../images/pixel.gif" width="1" height="1" hspace="14" vspace="3"> 
+                    I read this little passage from a book I have by St Theresa 
+                    of Avila while on our return. It aptly applies;
+                   
+                     &#8220;I have myself seen and I know by experience 
+                      that the soul in rapture is mistress of everything, and 
+                      gains such freedom in one hour or even less that it cannot 
+                      recognize itself. It perfectly well sees that this is not 
+                      it&#8217;s own achievement, and does not know how it has 
+                      come to possess such a blessing. Now comes the distress 
+                      of having to return to life. Now the soul has grown wings 
+                      that can bear it, and has shed it&#8217;s weak feathers. 
+                      Now the standard is lifted high for Christ, and it really 
+                      seems as if the captain of the fort is climbing, or being 
+                      lifted, to the highest tower, there to raise it aloft in 
+                      Gods name.&#8221;
+                    
+                    
+          
+        
+        
+      
+    
+    
+  
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="680">
+  
+    <!--webbot bot="Include" U-Include="../_private/footer_i.htm" TAG="BODY" startspan -->
+
+<img src="../images/pixel.gif" hspace="283" vspace="4" WIDTH="1" HEIGHT="1"><a href="javascript:window.history.go(-1);"><img src="../images/prev_page.gif" vspace="4" border="0" WIDTH="107" HEIGHT="17">
+<img src="../images/footer.gif" alt="footer.gif (1284 bytes)" WIDTH="675" HEIGHT="13">
+<!--webbot bot="Include" endspan i-checksum="41986" -->

@@ -1,0 +1,163 @@
+Erowid Heroin Vault : Speedball Warning
+<meta name="description" content="A Speedball Encounter Scenario, by Rem">
+<meta name="keywords" content="3 psychoactive drug chemical; sedative depressant euphoriant opiate analgesic; heroin smack horse junk dope black tar opioid;">
+
+<link href="/includes/general_default.css" rel="stylesheet" type="text/css">
+<link href="/includes/article_default.css" rel="stylesheet" type="text/css">
+<link href="/includes/article_chemicals_lb.css" rel="stylesheet" type="text/css">
+
+
+
+<!-- - - - - - - - - - - - - - - - - B E G I N    H E A D E R - - - - - - - - - - - - - - - - -->
+<script language="Javascript" src="/includes/headers/menu_data.js" type="text/javascript">
+<script language="Javascript" src="/includes/headers/mmenu.js" type="text/javascript">
+
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<img src="/includes/headers/images/h_sun1.gif" width="122" height="25" alt="" border="0">
+<td background="/includes/headers/images/bar_squiggle.gif" width="100%" colspan="4">&nbsp;
+
+<img src="/includes/headers/images/h_sun2.gif" width="122" height="70" alt="Erowid" border="0">
+<img src="/includes/headers/images/h_vaults.gif" width="120" height="70" alt="" border="0">
+
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" height="70">
+	&nbsp;
+	
+
+	<table border="0" cellpadding="0" cellspacing="0" width="316" height="70" background="/includes/headers/images/center_psychoactives_1-1.jpg">
+	&nbsp;
+	
+
+	<table border="0" cellpadding="0" cellspacing="0" width="130" height="70" background="/includes/headers/images/center_psychoactives_1-2.jpg">
+	<td align="left" valign="bottom">
+
+	<form name="SearchForm" method="get" action="https://www.erowid.org/search.shtml">
+  -->
+	<form name="SearchForm" method="get" action="/search.php">
+ -->
+	<input type="hidden" name="exclude" value="">
+	<input type="text" size="13" name="q" value="" id="header-search">
+	<input type="image" src="/includes/headers/images/go2.gif" border="0" alt="Search">
+	
+	
+	
+	<a href="/general/about/" onMouseOver="popup('about')" onMouseOut="popdn()"><img src="/includes/headers/images/h_about.gif" width="89" height="13" alt="" border="0">
+	
+	<a href="/donations/" onMouseOver="popup('donations')" onMouseOut="popdn()"><img src="/includes/headers/images/h_join.gif" width="89" height="13" alt="" border="0">
+	
+		
+
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<img src="/includes/headers/images/bar_solid_left.gif" width="101" height="22" alt="">
+	<a href="/psychoactives/" onMouseOver="popup('drugs')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_1.gif" width="114" height="22" border="0" alt="Plants - Drugs">
+	<a href="/spirit/" onMouseOver="popup('mind')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_2.gif" width="103" height="22" border="0" alt="Mind - Spirit">
+	<a href="/freedom/" onMouseOver="popup('freedom')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_3.gif" width="117" height="22" border="0" alt="Freedom - Law">
+	<a href="/culture/" onMouseOver="popup('arts')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_4.gif" width="104" height="22" border="0" alt="Arts - Culture">
+	<a href="/library/" onMouseOver="popup('library')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_5.gif" width="77" height="22" border="0" alt="Library">
+	<td width="100%" background="/includes/headers/images/bar_solid_right.gif">&nbsp;
+	
+
+
+
+
+<!-- - - - begin message - - - -->
+<div id="content-messpath-frame">
+<!--  Directory: /chemicals/heroin/  - File: heroin_info3.shtml  -->
+CHEMICALS &nbsp; heroin
+
+
+ -->
+
+
+
+#message { background: #bbbbee; border: 1px solid #000000; }
+#message-inner-md { font: 700 10pt georgia,times,serif; color: #111111; }
+
+<a href="/cgi-bin/r.php?message_id=192&url=/cgi-bin/exturl.php&Q&f=ms192&u=http://www.cato-unbound.org/2008/09/08/earth-and-fire-erowid/towards-a-culture-of-responsible-drug-use/&E&">
+Modern humans must learn how to relate to psychoactives
+responsibly, treating them with respect and awareness,
+working to minimize harms and maximize benefits, and
+integrating use into a healthy, enjoyable, and productive life.
+<script src="/includes/javascript/erowid_message_lib.js" type="text/javascript">
+
+	var mTimeExpired = 1587101009000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=192&page_url=/chemicals/heroin/heroin_info3.shtml");
+	}
+
+ -->
+
+
+<!-- end content-messpath-frame -->
+
+
+<!-- wrote cache as b6aaa8a6f88bb76f3eca18f96f282c72_heroin_info3.shtml_messpath.html : RunTime1: 0.0054  RunTime2: 0.0053911209106445 /var/cache/php//www/erowid.org/includes/messages/cache_b6/-->
+
+<!-- - - - - - - - - - - - - - - - - E N D    H E A D E R - - - - - - - - - - - - - - - - - - -->
+
+
+
+For Those About to Rock
+A speedball encounter scenario
+by Rem
+
+
+
+
+
+
+  <div style="font: 700 14pt arial, sans-serif;">&mdash; In Memoriam: Zoe Tiffany DeTorre. Daughter, Sister, Wife, and Friend to All. (2018)
+
+Some people find heroin boring and cocaine fake. However in meeting with those substances caution is advised, as one should not underestimate their addictive potential. The use of both substances at the same time poses even a bigger problem. With a rather small bag of heroin and cocaine one can transform his mood at will, for a few hours at least. What starts as a test drive can easily become an addiction if hits psychologically fertile ground. Before one realizes, snorting cocaine and heroin becomes a repeated thing. How otherwise, when just a nice fat line of good cocaine can elevate mood. As soon as plateau is achieved one starts on heroin and makes into a blissful, removed High. Your body feels electric as waves of cocaine rushes overlay with the numbing softness of the opiate. Problems, inhibitions, all bad feelings seem a past history as now thanks to some C&H you have been magically transformed to a more blessed plane of existence. In fact you are chemically pushing the pleasure buttons in your brain so this feels For Real. Navigation is easy. You want more lucidity and energy .. just do a line of cocaine .. More relaxed dreamy state ? No problem .. a small line of H will level you off perfectly. Your existential pain is Nullified. The Problems of Life seem small to your unlimited good-feel powers. You feel Fun. Coming Down ??? Just Do Some More.
+
+What was an excursion into some plant byproducts becomes a small obsession. For a fistful of 10 dollar bills you Can Feel like a King of small Country. Of course its fake, But the pleasure centers of your brain are buzzed up for Real. This is the grand trap of The Speedball. Once you learn to derive pleasure from it, develop the need for that Instant, almost sexual in kind gratification, the tiny white hands of those powders grab you. However this might seem like no cause for alarm. You might say to yourself, that you're bigger than this little pile on the mirror. But as many cases around have shown, people greatly underestimate their potential for addicting to masturbatory, chemical self gratification. Then the harsh reality creeps in, as tolerance to mix builds and regular doses don't suffice to acheive the nirvana. You're a pendulum of moods as you await the weekend to do your "thing"- rock a bit , feel good with no effort. That is the last warning to get out of the roller-coaster to hell. The ride is tremendous, But the price of admission is Very High. 
+
+Upgrading to every 3rd, 2nd or daily use you pay first installments on the ticket. Its your good feelings. As the psychological need for the Chemical nirvana grows - so does your dose and tolerance. This quickly leads to withdrawal symptoms. As your mind spends more time nulled out, you are growing uneasy with being sober. Coping skills go out of the window. Without The Superhuman Power of the speed-ball you.re just a measly depressed, withdrawing wreck of a human. It feels like you have lost the ability to maintain a decent level of pleasure inducing brain juices without chemical help. You are No longer Indulging in the speedball, you're Living it. It becomes your vitamin, food. You do lots of cocaine to get out of bed, more heroine to go to sleep, and mix to your own pleasure during the day. Any thought of stopping is buried, as lack of those now Essential nutrients causes you to be in literal physical and emotional pain that is torturous. As the habit progresses your performance and finances take a dive. After all, now you need $60 a day to feel good, and a $100 worth to party. Soon it grows into ridiculous sums. but by then it's already too late. The trap locks. You are a prisoner now, and getting and absorbing the mix is your utmost priority, next to breathing and actually higher than eating, or for that matter anything else. The pain of withdrawal becomes so intense, you are fully capable of committing acts that you would never really consider in a sober state.
+
+Stealing, "Borrowing" money, prostituting, dealing drugs are all possible realities. Whatever your desperate mind will think of to ease the pain. Oh .. well there is always the syringe. Direct IV input is a way stronger rush and much more economical way of utilizing your stash. Before you know it .. your apartment is filled with piles of unwashed clothing, garbage and dishes as you.re not able to deal with even simple chores. You have your "pals" sleeping in corners and shooting up. You alternate between 3 main activities 1) Buying the Stuff 2) Getting a Fix 3) Sleeping it off. But it really does not matter anymore. Even walking the streets on an empty stomach, in search of the next bag with your last food money, you will feel "cool" as long as the chemicals are in your bloodstream. Perhaps one day you have a godly moment of lucidity on the way to the bottom, and Decide to stop. It's tough, Its very hard, withdrawals are terrible. But its safe to say that feeling ill and a depressed for some time is much better than continuing on the path. A path that has lead many to various hells known as homelessness, street prostitution and many other well depicted scenarios. Death from overdose is clearly an option as quality and purity of such drugs is always questionable and by than you have no control over dosing.
+
+Hopefully you are one of those that find coke fake and Heroin boring, or are able to control it. But if you ever decide to cross those white lines, remember that the potential trap is always there, just waiting to expose your weaknesses. Sounds like nasty, full of lies, drug propaganda ? Think again *Sniff* *Snort* perhaps it comes from people who had tested effects of long term opiate/coca indulgence themselves and seen the damage in people around them. It would be a lie to mask the fact that a Speedball makes you feel godly, and elevates your mood to heavenly levels, but by the same token it should be told that there is much potential for abuse leading to hell of addiction. So please be warned.
+
+First Draft May 1999, corrected spelling June 2001.
+
+In 2018, Rem, the author of this article, wrote to say one of the people mentioned above died of a "'heroin' (most likely fentanyl overdose)".
+
+
+
+
+
+
+<!-- - - - - - - - - - - - - - - - - B E G I N    F O O T E R - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+
+
+[ back to chemicals ] &nbsp; [ back to heroin ]
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" id="footer-bar">
+<td width="10" background="/includes/headers/images/bar_solid_footer.gif">&nbsp;
+<td width="140" background="/includes/headers/images/bar_solid_footer.gif" valign="top">
+	<table border="0" cellpadding="2" cellspacing="0" width="140">
+	<td valign="top" id="footer-menu">PlaceMenu("footer")
+	
+
+
+	<table border="0" cellpadding="2" cellspacing="0" width="100%" background="/includes/headers/images/bar_solid_footer.gif" height="22">
+	Archived by Erowid with permission of Author 
+	
+
+<td width="10" background="/includes/headers/images/bar_solid_footer.gif">&nbsp;
+<td width="140" background="/includes/headers/images/bar_solid_footer.gif" align="right">Modified&nbsp;-&nbsp;Mar 5, 2018
+
+
+Design &copy; 1995-2018 Erowid.org. Content &copy; respective copyright holders.
+
+
+
+
+<!-- - - - - - - - - - - - - - - - - E N D    F O O T E R - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
