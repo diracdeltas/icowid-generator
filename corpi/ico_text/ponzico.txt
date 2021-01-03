@@ -1,0 +1,132 @@
+PonzICO: Let's Just Cut to the Chase
+Josh Cincinnati @acityinohio https://ponzico.win 0x1ce7986760ADe2BF0F322f5EF39Ce0DE3bd0C82B May 12, 2017
+
+Abstract Token sales--aka "Initial Coin Offerings" where the `i' in Coin is optional-- are hotter than Instagram filters on Venus. But to date, nearly all of them have presold non-functional products at ludicrous valuations. The author is offended. Not at the scheme per se--kudos to the developers for discovering a class of rich, pseudo-intellectual suckers willing to value the work they haven't done at multipliers that would give a private equity partner A an aneurysm. But the inefficiency of it all! In this very legitimate, L TEXcomposed, long-planned[1] white paper, the author proposes a method to achieve the same goal with a magnitude less work and presents a productionready Ethereum smart contract address--where production-ready is as at least as code- and concept-tested as The DAO's Code is Law. As a bonus, the scheme doesn't require tokens on top of Ethereum, which were a really fun growth-hacky mirage for awhile but ultimately a distraction.[2] As a double bonus, if everyone stays irrational it might greatly enrich the author, providing future funding for blockchain performance art. If that sounds groovy to you--or you just want to support "blockchain performance art," whatever that means--don't bother reading further; just invest with your web3 browser at https://ponzico.win/.
+
+1
+
+Contents
+1 A Token Introduction: Chuck E. Cheese's and the Yap People 2 Tokens Today: #ScamThePlanet 3 ICO-nomics is a Dismal Science 4 Let's Be Real Though, Everything's a Scam 5 I Barely Know Solidity, But Fuck It Let's Build PonzICO 6 Anticipating PonzICO Critiques 7 A Dedicated Section on What I'd Do With All My Ether 8 Conclusion 3 3 5 6 8 10 10 11
+
+2
+
+1
+
+A Token Introduction: Chuck E. Cheese's and the Yap People
+
+Context--and wide margins--are the bedrock of every white paper. To understand the modern crowdsale token, history matters. But correctness doesn't--any particular liberal retelling of history can suffice. The modern token crowdsale traces its origins to an unassuming corner of San Jose, where in 1977 the first Chuck E. Cheese's Pizza Time Theatre opened. Here Nolan Bushnell succeeded in swindling youths to trade money for brass tokens of questionable value and aesthetic taste. The tokens were tightly controlled--indeed, the first successful crowdsale netted Nolan something like $41.47 in 2017 dollars, and the "crowd" consisted of one pimply adolescent. But it was the first of many sales, and successes compounded. Soon its success enabled Chuck E. Cheese's to expand into franchises and pump millions of R&D dollars into the unholy creation of semi-sentient, human-sized animatronic rats. After the creation of Chuck E. Cheese's nightmarish robo-rat army of darkness, the token crowdsale skeptics were silenced. Whether by the weight of Chuck E. Cheese's overwhelming success or through surgical assassinations by the elite Munch's Make Believe Team Six1 is not germane to this discussion. In any event, the future was cast in brass. The Token Crowdsale was here to stay. With the advent of cryptocurrency and the rediscovery of the Yap peoples' Rai Stones2 , crowdsales would become more decentralized...at least superficially.
+
+2
+
+Tokens Today: #ScamThePlanet
+
+Since the bygone era of exchanging rat tokens for freedom from Bushnell's gulag arcades, we've evolved. The platform is no longer brass controlled by a single entity-- but a distributed, decentralized, Web 3.0, blockchain, DLT platform, operating far above the rat race: ETHEREUM. Ethereum itself is rather neat. It can reach
+https://www.youtube.com/watch?v=o5qfXHtkIWM Rai Stones were unearthed by blockchain consultants to make oblique references in pitch decks and TED talks, and I'm forcing it here under (questionable) advisement.
+2 1
+
+3
+
+consensus on state between different, potentially adversarial parties using clever incentives and cryptography. And yet it's accessible enough for junior developers to program smart contracts handling millions of dollars. This has posed some problems--the EVM seems most efficient at transpiling developers who make bad Node.js into developers who make bad Solidity. A particular breed of these bad Solidity developers have pioneered the newest iteration of the token crowdsale: "The Initial Coin Offering" (hereafter abbreviated ICO--with all due apologies to the PlayStation 2 cult classic ICO, by all accounts a far less tarnished product). Dozens of teams have unveiled amazing products that have transformed the world. Nearly all lawyers have been replaced by a few lines of Solidity. Venture capitalists have been forced to sell their fourth homes for liquidity. Weathermen and Vegas bookies are trading war stories, wistfully remembering the era when they could just make shit up instead of demurring before decentralized prediction markets. Democracy has melted under the bright light of blockchain governance, petty nationalism is a dying religion, and we are one step closer to a quilted Singularity where every square's a token. ...at least, that's how these tokens are being priced. But reality is divorced from this vision--indeed, the destruction of value after most of these scams are revealed will ironically employ more lawyers than Ethereum would otherwise claim to make redundant.[3] You might be saying, "scam is a serious indictment." Well: � The author would encourage you not to say anything while you're reading a white paper. You won't grok as much and you'll look silly speaking to your iPad. � Vanishingly few of these tokens have any released products tied to them--let alone "disruptive" products--despite increasingly high valuations for increasingly frequent crowdsales. We're living in a world where developers are Kickstarting Pets.com every week. And their customers are metaphorically preordering the failed Coin card[4], a product with no use beyond its novelty...but it's an (initial) coin (offering) instead of Coin card. And the coin is valued like Instagram. Inexplicably.3
+At the time of this white paper's publication, someone just raised $12.7 million for the TokenCard, which seems to be "like Coin card, but Blockchain." We are doomed as a species.
+3
+
+4
+
+It seems the only successful product of these token sales is Ethereum, which has shown itself to be an excellent platform for repeated, rapid token sales. But therein lies the cryptorub. Why would developers build tokens on top of Ethereum when Ethereum already has a token called ether ? Unsurprisingly the answer is, "because they can."
+
+3
+
+ICO-nomics is a Dismal Science
+
+Like a Node.js developer downloading a gigabyte of dependencies to serve a static 20 kilobyte website, if you give a nefarious developer an inch, they're going to scam people out of billions. These tokens have (pre)sold well, which is encouraging more and more interest, and less and less scruples. But for all their paper success, these tokens are sleight of hand. Nevermind that these tokens get pumped before the presales by even more unscrupulous parties who get in on the `pre-pre-sales'--you can imagine this activity like like an after-party in the hotel mezzanine, except it's a pre-pre party with some mezzanine financing and it ain't R. Kelly hitting the ignition.4 No, the pre-pumping is Christian Bale-level misdirection in the Prestige. The real magic is when David Bowie gives Huge Jackman an ERC20 template. All of these tokens were exchanged for ether. Even if you opt to trade these tokens for fiat directly--and even if these tokens somehow manage to offer some functionality not possible by ether--trading for ether will always be the most direct, cheapest method of exchange for every ICO'd token. Perhaps you don't agree? No matter, because all of them require ether to engage in transactions. Cars don't run without gas5 , and neither do tokens. They are abstractions on top of Ethereum itself, extra layers that obfuscate the truth: Ethereum is a state machine collecting transactions signed by private keys and verified by public keys. Your key pair--and associated address--is what matters, along with the native token balance you hold (i.e., ether). As long as Ethereum transactions require ether-denominated gas, this will not change.
+4 5
+
+There's a crass joke in here. I'm above making it, but not above making you think about it. Although the Tesla I buy after PonzICO's tremendous success won't need gas.
+
+5
+
+"But," you may be saying smugly, "what about tokens with a limited treasury, or tethered to the physical world, like gold or USD? Or compute power? Or um, like, predictive, reputational whosists? They could make an address tied to very little ether worth considerably more." Well: � What did the author say about speaking while reading an white paper? You are the laughingstock at Starbucks now. � Anything that requires a centralized treasury/authority to dictate a trade in physical property within a decentralized system is going to have the same risk profile as its weakest link: the centralized system. � But say you make it more decentralized, somehow. Maybe through some wild multisig scheme. The author posits that every attempt to increase decentralization will make the trade more expensive, until it reaches Parity6 with simply exchanging ether for physical goods directly--ether is the most maximally decentralized token that can possibly exist on Ethereum. Ergo, while not all Ethereum developers are scammers, most tokens are scams. Especially one where the developers keep 95% of the tokens. The author doesn't need a decentralized prediction market to tell you that's got a 99% chance of being a scam.
+
+4
+
+Let's Be Real Though, Everything's a Scam
+
+Let us level with one another, reader. The author does not intend to cast disrepute upon these token developers--in reality, they are simply short-circuiting a process that has existed since the dawn of securitization. Most tokens are scams, sure--but then again, so is everything. The Efficient Market Hypothesis is a scam draped with bad math. To play the stock market is to play musical chairs under the chord progression of a bid-ask spread. Individuals may win, but in the long run we're all dead. And as the average lifetime of companies and products continues to shrink geometrically, the long run isn't so long anymore. In today's age, it seems better to promote the plausibility of future profit rather than waste energy on actually delivering.
+6
+
+Don't grimace. You love the wordplay, or you wouldn't have read this far.
+
+6
+
+Figure 1: The trajectory of every company that has ever existed or will exist, where "Present" corresponds to the time of a company's peak valuation. It contains no units to bolster its accuracy relative to GAAP accounting and investment banker analysts.
+
+The world of physical capitalism concerned itself with scamming enough people for long enough to eke out a modicum of societal progress. The system functions well enough, though clearly--as evidenced by the continued existence of Chuck E. Cheese's--it's far from perfect. But token capitalism constrains the timeline considerably. With freedom to structure token sales in complex, pump-and-dump-friendly terms--and pre-pump marketeers greasing the wheels--token makers can dispense with the illusion of future intrinsic value and build castles in the distributed cloud. The author does not begrudge this behavior. We are all consenting adults here-- we can play musical chairs whenever we damn like; it's what separates us from the children. But the least we can do is exchange honestly, and treat each other with the mutual respect we all deserve. That is why I'm urging you to invest your life savings into my revolutionary new concern, PonzICO.
+
+7
+
+5
+
+I Barely Know Solidity, But Fuck It Let's Build PonzICO
+
+PonzICO is the first ICO to respect your intelligence by calling a spade a spade. Here's how it differs from your everyday ICO: � It dispense with tokens entirely--we all want that sweet, sweet ether. � There is no limited time window for "investment." Time is an illusion. � PonzICO also dispenses with the notion that it needs a meaningful product attached to its future earning potential. It is the product. � All profits from PonzICO are carried in balances linked to prior participants in proportion to their prior investment on a transaction by transaction basis...with a trivial, 50% service fee for yours truly, as nominal recompense for spending A a solid couple of days re-learning L TEXand Solidity. That's it. With every new transaction into the PonzICO invest method, PonzICO immediately balances that ETH to prior participants based on their current proportion of ownership (minus my extremely minor, entirely fair 50% service fee). Upon updating the balances, the new participant is added to the list to receive future disbursements, and PonzICO dilutes everyone else's stake accordingly. When they are ready to receive their balance, they simply use the withdraw method. Preexisting holders can always put more ETH into PonzICO to reduce their dilution-- especially with the convenient reinvest method--at the cost of that transaction being disbursed to current stakeholders. PonzICO elegantly distills an ICO to its barest essentials, and this author believes it will prove more sustainable than any other ICO on the market.7 Still confused? Not sure why, honestly it's frightfully easy to understand compared to literally every other ICO white paper. But fine, let's use our favorite sock puppets Alice and Bob. Suppose Alice is the first brilliant investor to PonzICO. She's conservative, so she sends a paltry 1000 ETH via the invest method.
+So long as every ETH holder participates at least once and Ethereum's monetary supply remains ambiguously infinite.
+7
+
+8
+
+Alice Invested 1000 ETH Returned 0 PonzICO Owned 100%
+
+Josh Incalculable Intellectual Energy 500 ETH 0% Because It's His Gift To The Community
+
+As the first investor, Alice now owns 100% of PonzICO, while the author takes his modest fee--a mere pittance in the grand scheme. Now consider our second investor Bob. Bob isn't some weakass punk like Alice; he's a real believer in the transformative power of PonzICO. He sends 3000 ETH.
+
+Alice Invested 1000 ETH Returned 1500 ETH PonzICO Owned 25%
+
+Bob 3000 ETH 0 ETH 75%
+
+Josh Incalculable Intellectual Energy 2000 ETH 0% Like All Those CEOs with $1 Salaries
+
+Despite Alice's complete lack of faith and her modest investment, she's already made her money back by collecting Bob's full investment...minus the author's very meager fee as PonzICO's symbolic Keeper of the Flame. But in the process, her stake went from 100% to 25%, and Bob's ownership went to 75%--a move that will surely reward Bob in the future. At this point Alice could reinvest her returns to reduce her dilution against Bob's, but that's up to her. In the mean time, PonzICO is making huge waves, and Carol comes along and invests a whopping 5000 ETH just to show Bob who the fuck is boss.
+
+Alice Invested 1000 ETH Returned 2125 ETH PonzICO Owned 11.1%
+
+Bob 3000 ETH 1875 ETH 33.3%
+
+Carol 5000 ETH 0 ETH 55.5%
+
+Josh Incalculable Intellectual Energy 4500 ETH Amazingly Still 0%
+
+Alice has nearly doubled her investment, while Bob has nearly made his money back. But Carol is in the lead for ownership stake, and her profits will surely make Bob and Alice's gains look weak by comparison. The author continues to scrape by on purely symbolic fees--but don't weep for him, it is a simple pleasure to see his creation prosper in this hypothetical world. 9
+
+The author will not dive into the details of the Solidity but rest assured it's been battle-tested by his web-based IDE and formally verified (that it does, in fact, run in the EVM). You can probably find the ABI somewhere if you're really curious. The main point here is that it works, and nary a token in sight but ether. Lest you think the author does not believe in his beautiful creation, consider his skin in the game. The author has put a significant portion of his ETH holdings into PonzICO, constituting many trillions of wei, not to mention staking his considerable reputation on this innovative endeavor. If you are concerned about the author's potentially lucrative fees--you shouldn't worry. The author has graciously capped his maximum fee disbursement to 100,000 ETH within the contract; after that, he'll have to participate in PonzICO just like everybody else. Additionally--to prevent less sophisticated investors and encourage the most subtle tinge of pretension-- the contract requires at least 0.1 ETH investment per transaction, using a very responsible AccreditedInvestor modifier.
+
+6
+
+Anticipating PonzICO Critiques
+
+...is an irrelevant section, because there is absolutely nothing wrong with any of this.
+
+7
+
+A Dedicated Section on What I'd Do With All My Ether
+
+Assuming PonzICO returns the maximum amount of fees to the author--a safe assumption, given the many improvements over traditional ICOs--the author expects to earn 100,000 ETH for his considerable efforts to reform the space. While the longterm value of ETH is uncertain, $1000 per ETH is a fair wild-ass guess. That would place his gains somewhere south of $100 million. In the name of full transparency, the author would like to outline his plans for these funds. First, he'd exchange 70% of his ETH into a cryptocurrency with a monetary policy that doesn't scare the living shit out of him. He'd keep 20% in ETH just in case he's completely wrong on the whole monetary policy thing. With the final 10%, he'd invest in other ICOs because the VC-codified 70-20-10 10
+
+Pareto Hallucination haunts him like a ghost. After that, he'd probably get a Tesla, maybe a two bedroom condo in San Francisco, and (most expensively) a ticket to Consensus. If there's any money left (unlikely) he'll focus on his considerable blockchain research efforts, including the much-anticipated investigative follow-up into Accenture's shenanigans to make a "reversible blockchain."[5]
+
+8
+
+Conclusion
+
+The author proposed a continuous, tokenless ICO that dispenses with all the fanciful illusions pervading the space. He demonstrated the soundness of his approach with selective history, a hand-wavy graph, tables, self-referential citations, and vague commitments to show his smart contract code eventually. He anticipated no critiques to this approach, and fully commits to ignoring critics who emerge on social media by labeling them trolls. Still more honest than 99% of the hucksters who have trapped us in this darkest-timeline dystopic token bubble. Please contribute at https://ponzico.win/. In some seriousness, the author will view the fees generated from these disbursements as validation for his blockchain satire, and your generous investment will undoubtedly encourage him to make more. Don't want him to make more? Fuck you. PonzICO. With win as the TLD, you can't possibly lose.8 If you're long on other tokens, there's absolutely no excuse for skipping on PonzICO.
+This claim has not been verified by any investment specialists, lawyers, or priests, but is the sole perspective of the author--who practically embodies the classic lone genius archetype.
+8
+
+11
+
+References
+[1] Cincinnati, ...honestly I may code this. Or write a sardonic manifesto. Both seem productive, https://twitter.com/acityinohio/status/735251297494913026 [2] Cincinnati, The only tokens that matter are native. Abstracted tokens are a mirage, https://twitter.com/acityinohio/status/859159773077413888 [3] Cincinnati, At its current rate of unbridled exuberance, Ethereum will lead to more employed lawyers for post-ICO shenanigans, https://twitter.com/acityinohio/ status/860720787489136640 [4] Cincinnati, One Card Instead of All Your Cards, https://www.youtube.com/ watch?v=0YjIrHZOwf8 [5] Cincinnati, The Upside of the Internet: I Can Correct "The Downside of Bitcoin: A Ledger That Cant Be Corrected", https://medium.com/@cincinnati
+
+12
+
+
