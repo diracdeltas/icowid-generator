@@ -13,4 +13,4 @@ erowid_model = markovify.Text.from_json(text)
 combo = markovify.combine([ico_model, erowid_model], [2, 1])
 
 for i in range(int(sys.argv[1])):
-    print(combo.make_short_sentence(200))
+    print(combo.make_short_sentence(270))

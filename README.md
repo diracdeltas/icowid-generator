@@ -1,7 +1,7 @@
 # icowid
 
-generates random tweets based on erowid and ICO whitepapers (with some help
-from r/ethtrader)
+markov bot to make tweets based on trump tweets + erowid. thanks to
+http://www.trumptwitterarchive.com/archive for the trump tweets.
 
 ## instructions
 
